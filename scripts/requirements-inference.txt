@@ -1,2 +1,0 @@
-torch==2.14.1
-sentencepiece==0.2.2
