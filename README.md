@@ -4,4 +4,4 @@
 
 Trang web tĩnh để xem một số đoạn chat mẫu của SAI_100M, không hỗ trợ chat trực tiếp.
 
-Nếu ai muốn trải nghiệm thì ghé [Hugging Face](https://huggingface.co/thongbuind).
+Nếu ai muốn trải nghiệm thì ghé [Hugging Face](https://huggingface.co/collections/thongbuind/sai).
