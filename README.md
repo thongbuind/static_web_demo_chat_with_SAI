@@ -1,4 +1,4 @@
-[🌐 Xem web demo](https://thongbuind.github.io/web_static_demo_chat_with_SAI/)
+[🌐 Xem web demo](https://thongbuind.github.io/static_web_demo_chat_with_SAI/)
 
 # SAI_100M Chat Demo
 
