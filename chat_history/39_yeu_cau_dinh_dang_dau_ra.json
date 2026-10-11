@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "dưới đây là danh sách ba loại quả phổ biến và mô tả ngắn gọn về chúng:\n\n1. táo: táo có hình dạng tròn và vỏ màu vàng hoặc xanh lá cây. nó thường được ăn tươi hoặc chế biến thành các món tráng miệng như sinh tố, bánh ngọt và nước ép.\n\n2. dứa: dứa có vị chua đặc trưng và chứa nhiều vitamin c. nó cũng giàu chất chống oxy hóa, giúp tăng cường sức khỏe tim mạch và hỗ trợ quá trình tiêu hóa. ngoài ra, dứa còn cung cấp một số khoáng chất quan trọng khác như kali và magiê.\\n\\n3. nho: nho có hương vị thơm ngon và giàu dinh dưỡng. nó được sử dụng rộng rãi trong ẩm thực trung quốc, việt nam và nhiều nước châu á khác. nho cũng có giá trị dinh dưỡng cao và được ưa chuộng trên toàn thế giới.",
-      "model": "sft1_100M.pt"
+      "text": "dưới đây là danh sách 3 loại trái cây:\n1. táo\n2. chuối\n3. cam",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -20,7 +20,7 @@
     {
       "role": "ai",
       "text": "nước sôi ở 100 độ c.",
-      "model": "sft1_100M.pt"
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "trọng lực là lực hấp dẫn giữa các vật thể trên trái đất, bao gồm mặt trời và các hành tinh khác trong hệ mặt trời. nó được tạo ra bởi sự tương tác của hai nguyên tử hydro (h) và một nguyên tử ôxy (o). trọng lực có vai trò quan trọng trong việc duy trì cân bằng tự nhiên trên bề mặt trái đất.",
-      "model": "sft1_100M.pt"
+      "text": "trọng lực là một lực hấp dẫn tồn tại giữa các vật thể có khối lượng. nó được tạo ra bởi sự tự quay của trái đất và tác động lên mọi vật thể trong vũ trụ, bao gồm cả mặt trăng, sao hỏa và các hành tinh khác. trọng lực cũng đóng vai trò quan trọng trong việc duy trì quỹ đạo của các thiên hà và hành tinh chúng ta sống trên đó.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "trái đất là hành tinh lớn nhất trong hệ mặt trời.",
-      "model": "sft1_100M.pt"
+      "text": "không.\n\nlý do: trái đất không có hình tròn hoàn hảo, vì nó chỉ là một khối đá có bán kính khoảng 324 km từ tâm của hệ mặt trời.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "dưới đây là danh sách các bước để nấu một món ăn đơn giản:\n\nbước 1: chuẩn bị nguyên liệu và dụng cụ cần thiết bao gồm gạo, thịt gà hoặc cá, rau sống (xà lách, cà chua), gia vị như muối, tiêu, nước mắm, dầu ăn, và các loại gia vị khác tùy ý.\n\n bước 2: rửa sạch gạo và cắt nhỏ thành từng miếng vừa phải. sau đó, ngâm gạo trong nước ấm khoảng 5-7 phút cho đến khi hạt gạo mềm nhưng vẫn còn giữ được độ dai. tiếp theo, thái thịt gà thành lát mỏng và trộn với gia vị đã chuẩn bị trước đó. nếu muốn, bạn có thể thêm gia vị bổ sung như tỏi băm nhuyễn hoặc hành phi để tăng hương vị đặc trưng của món ăn. cuối cùng, trình bày món ăn trên đĩa và thưởng thức ngay khi còn nóng để cảm nhận trọn vẹn hương vị tuyệt vời mà nó mang lại!\n\nlưu ý rằng quá trình nấu cơm có thể thay đổi tùy thuộc vào công thức và phong cách nấu ăn riêng của mỗi người. hãy đảm bảo tuân thủ hướng dẫn cụ thể từ nhà sản xuất để đạt được kết quả tốt nhất cho bữa ăn của mình.",
-      "model": "sft1_100M.pt"
+      "text": "dưới đây là các bước nấu cơm theo dạng đánh số 1, 2, 3:\n\nbước 1: chuẩn bị nguyên liệu và dụng cụ cần thiết.\n- gạo nếp (gạo tẻ): rửa sạch, ngâm nước khoảng 8 giờ hoặc qua đêm để hạt gạo nở đều.\n\n- đậu xanh (đậu đỏ): lột vỏ và cắt thành miếng nhỏ.\n  \n- thịt lợn xay nhuyễn: trộn thịt với gia vị như muối, tiêu, hành băm nhuyễn, tỏi băm nhuyễn và một ít dầu ăn. ướp thịt trong ít nhất 30 phút để gia vị thấm vào thịt.\n",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "đọc sách mang lại nhiều lợi ích quan trọng cho sự phát triển cá nhân và trí tuệ của chúng ta. dưới đây là ba lợi ích chính:\n\n1. mở rộng tri thức và kiến thức: đọc sách giúp chúng ta tiếp cận với các lĩnh vực khác nhau như khoa học, lịch sử, văn hóa và nghệ thuật từ khắp nơi trên thế giới. điều này giúp nâng cao hiểu biết về thế giới xung quanh và khám phá những ý tưởng mới mẻ.\n\n2. giải trí và giảm căng thẳng: khi đọc một cuốn sách thú vị, chúng ta có thể đắm chìm vào câu chuyện hấp dẫn và suy ngẫm sâu sắc về cuộc sống và con người. nó kích thích tư duy sáng tạo, tăng cường khả năng tập trung và phân tích thông tin phức tạp. ngoài ra, đọc sách còn giúp cải thiện kỹ năng ngôn ngữ và giao tiếp hiệu quả hơn trong công việc và cuộc sống hàng ngày.",
-      "model": "sft1_100M.pt"
+      "text": "đọc sách mang lại nhiều lợi ích quan trọng như sau:\n1. mở rộng tri thức và kiến thức: đọc sách giúp bạn tiếp cận với các thông tin mới, khám phá thế giới xung quanh và nâng cao hiểu biết về nhiều lĩnh vực khác nhau.\n2. phát triển vốn từ vựng và kỹ năng ngôn ngữ: khi đọc sách, bạn sẽ gặp phải những từ ngữ mới, cấu trúc câu phức tạp và cách sử dụng ngôn ngữ một cách chính xác. điều này giúp cải thiện khả năng giao tiếp của bạn trong cuộc sống hàng ngày.\n3. giảm căng thẳng và thư giãn: đọc là một phương pháp tuyệt vời để giải tỏa stress và xả stress sau một ngày làm việc căng thẳng. nó giúp bạn thoát khỏi áp lực công việc và tìm thấy sự yên bình trong từng trang sách.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -69,8 +69,8 @@
     },
     {
       "role": "ai",
-      "text": "một chú chó tên là max có thể được đặt tên theo nhiều cách khác nhau. dưới đây là một số ví dụ:\n\n1. \"max\" (tên đầy đủ của max)\n2. \"bruce\" (chú chó nhỏ)\n3. \"crush\" (con mèo lớn)\n4. \"boss\" (mèo con)\n5. \"peter\" (cậu bé)\n6. \"candy\" (người đàn ông)\n7. \"castle\" (đứa trẻ)\n8. \"country\" (chó cưng)\n9. \"dog\" (ông già)\n10. \"mango\" (động vật)\n\nđây chỉ là một vài ví dụ và không phải là danh sách đầy đủ. bạn có thể tìm hiểu thêm thông tin chi tiết về các giống chó khác nhau trên khắp thế giới để xác định chính xác loại chó nào phù hợp với sở thích cá nhân của mình.",
-      "model": "sft1_100M.pt"
+      "text": "xin lỗi, như là một mô hình ngôn ngữ ai, tôi không thể đặt tên cho bất kỳ chú chó nào.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -79,8 +79,8 @@
     },
     {
       "role": "ai",
-      "text": "chó là một loài động vật thuộc họ mèo (felidae). chúng có kích thước trung bình đến lớn, thích sống trong môi trường tự nhiên như rừng rậm hoặc đồng cỏ. mèo thường được nuôi làm thú cưng vì tính cách thân thiện, dễ chăm sóc và khả năng tương tác xã hội tốt.",
-      "model": "sft1_100M.pt"
+      "text": "mèo và chó là hai loài động vật thuộc họ mèo (felidae). dưới đây là sự khác biệt giữa chúng:\n\nmèo - thú cưng: mèo là một loài độngvật có vú, thường được nuôi để làm bạn đồng hành cho con người. chúng có khả năng tương tác xã hội phức tạp với con người và có thể cung cấp tình yêu, chăm sóc và bảo vệ cho chủ nhân của mình.\n\nchó - động vật ăn thịt: chó là một trong những loài động vat phổ biến nhất trên trái đất. chúng được biết đến với sức mạnh, tốc độ và khả năng săn mồi xuất sắc. chó thường sống thành đàn và thích nghi tốt với môi trường tự nhiên.\n  \nđây chỉ là một số điểm so sánh cơ bản về sự giống nhau giữa mèo và chó.",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786915001.0227065,

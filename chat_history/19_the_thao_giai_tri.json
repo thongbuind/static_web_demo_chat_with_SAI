@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "giải vô địch bóng đá thế giới (fifa world cup) được tổ chức lần đầu tiên vào năm 1930. đây là một trong những sự kiện thể thao lớn nhất và quan trọng nhất trên toàn cầu, thu hút hàng triệu người hâm mộ từ khắp nơi trên thế giới.",
-      "model": "sft1_100M.pt"
+      "text": "world cup là giải vô địch bóng đá thế giới dành cho các đội tuyển quốc gia nam, được tổ chức 4 năm một lần.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "trong bóng đá, \"bóng đá\" là một môn thể thao phổ biến trên toàn cầu. nó không chỉ đơn thuần là một trò chơi mà còn là sự kết hợp giữa kỹ thuật, chiến thuật và tinh thần thi đấu của các đội tuyển quốc gia.\n\nmột trong những đặc điểm nổi bật nhất của bóng đá là tính cạnh tranh cao. mỗi trận đấu thường diễn ra với tốc độ nhanh hơn so với các giải đấu chuyên nghiệp. điều này tạo ra sự kịch tính và hấp dẫn cho người xem. ngoài ra, bóng đá cũng có vai trò quan trọng trong việc phát triển văn hóa và truyền thống của nhiều dân tộc trên khắp thế giới.",
-      "model": "sft1_100M.pt"
+      "text": "bóng đá và bóng rổ là hai môn thể thao đồng đội phổ biến trên toàn thế giới, nhưng chúng có những điểm khác biệt cơ bản.\n\n**bóng đá (soccer)** tập trung vào việc ghi bàn bằng cách đưa quả bóng vào khung thành đối phương. mục tiêu chính của nó là ghi nhiều bàn thắng hơn đối thủ trong một trận đấu duy nhất.\n*   **tính cạnh tranh:** cả hai môn đều yêu cầu kỹ năng cá nhân xuất sắc và sự phối hợp nhịp nhàng giữa các vận động viên. bóng đá đòi hỏi sức bền, tốc độ, chiến thuật và khả năng ghi nhớ vị trí tốt để giành chiến thắng.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "\"sea games\" trong tiếng việt có nghĩa là một sự kiện thể thao lớn, thường được tổ chức định kỳ hoặc theo lịch trình cố định. nó không chỉ đơn thuần là việc thi đấu mà còn là dịp để các vận động viên và người hâm mộ giao lưu, gắn kết với nhau, tạo ra những kỷ niệm đáng nhớ và phát triển tinh thần đồng đội. sea games cũng đóng vai trò quan trọng trong việc xây dựng niềm tự hào dân tộc, thúc đẩy tinh thần đoàn kết và nâng cao vị thế của quốc gia trên trường quốc tế.",
-      "model": "sft1_100M.pt"
+      "text": "sea games là đại hội thể thao đông nam á được tổ chức 4 năm một lần.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "ở các giải đấu quốc tế như world cup hay asian cup, đội tuyển có thể thi đấu với nhiều loại hình khác nhau tùy theo quy định của từng giải đấu. cụ thể:1. giải vô địch bóng đá thế giới (world championship): đây là giải đấu hàng đầu dành cho các đội tuyển quốc gia do liên đoàn bóng đá châu á (afc) tổ chức, bao gồm các trận giao hữu giữa các câu lạc bộ từ khắp nơi trên thế giới.2. giải u-23 đông nam á (asian cup): đây cũng là một trong những giải đấu quan trọng nhất của bóng đá khu vực, thu hút sự quan tâm lớn của người hâm mộ và truyền thông toàn cầu.3. giải futsal world cup: được tổ chức lần đầu tiên vào năm 2004 tại qatar, giải này đã trở thành một phần không thể thiếu trong lịch sử bóng đá quốc tế.4. giải uefa champions league (cúp c1/uefa europa conference league): đây được xem là giải thưởng cao quý nhất dành cho cầu thủ xuất sắc nhất mọi thời đại.5. giải fifa club world cup (giải vô địch các clb châu âu): giải đấu tập trung vào việc xác định nhà vô địch của mỗi mùa giải.6. giải copa america: giải đấu diễn ra hai năm một lần nhằm tôn vinh các vận động viên xuất sắc trong các môn thể thao khác nhau.7. giải international champions cup (international football association): giải bóng đá danh giá nhất hành tinh, được coi là biểu tượng văn hóa thể thao toàn cầu với sự góp mặt của các ngôi sao bóng đá nổi tiếng.8. giải supercoppa italiana: đây là cơ hội để các cầu thủ thể hiện tài năng cá nhân qua những màn trình diễn ấn tượng trên sân cỏ.9. vòng chung kết cúp c1 châu âu (european cup winners' championships): giải này đánh dấu cột mốc quan trọng khi các đội tham dự phải cạnh tranh quyết liệt để giành chiến thắng chung cuộc trước các đối thủ mạnh.đây chỉ là một số ví dụ phổ biến về các đội bóng tham gia giải đấu này.",
-      "model": "sft1_100M.pt"
+      "text": "đội tuyển bóng đá việt nam thường thi đấu ở nhiều cấp độ khác nhau, bao gồm các giải trẻ trong nước và quốc tế.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "giải vô địch thế giới olympic được tổ chức hai kỳ đại hội liên tiếp vào các năm 1950 và 2000. đây là sự kiện thể thao lớn nhất trong lịch sử thể thao, thu hút hàng triệu người hâm mộ từ khắp nơi trên thế giới tham gia tranh tài ở nhiều cấp độ khác nhau.",
-      "model": "sft1_100M.pt"
+      "text": "olympic diễn ra 4 năm một lần.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "tập thể dục đều đặn mang lại nhiều lợi ích cho sức khỏe và tinh thần của chúng ta. dưới đây là một số lý do tại sao việc tập thể dục thường xuyên:\n\n1. cải thiện sức khỏe tim mạch: tập luyện đều đặn giúp tăng cường tuần hoàn máu, giảm nguy cơ mắc các bệnh tim mạch như đau thắt ngực, đột quỵ và cao huyết áp. điều này có thể làm tăng lưu lượng máu đến não và cải thiện chức năng nhận thức.\n\n2. giảm căng thẳng và lo âu: hoạt động thể chất giúp giải phóng endorphin - hormone gây ra cảm giác vui vẻ và thoải mái. nó kích thích sản xuất serotonin (hormone hạnh phúc) - những chất dẫn truyền tự nhiên trong não giúp tạo ra cảm xúc tích cực và giảm stress. ngoài ra, tập luyện còn giúp cải thiện tâm trạng và giảm triệu chứng trầm cảm.",
-      "model": "sft1_100M.pt"
+      "text": "tập thể thao thường xuyên giúp cải thiện sức khỏe tim mạch, tăng cường cơ bắp và giảm nguy cơ mắc các bệnh mãn tính như tiểu đường loại 2.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -69,8 +69,8 @@
     },
     {
       "role": "ai",
-      "text": "cầu lông, hay còn gọi là bóng bàn, là một môn thi đấu trong đó người chơi sử dụng vợt để đánh quả cầu qua lưới. mục tiêu của trò chơi là ghi được nhiều điểm hơn đối thủ bằng cách đưa quả cầu vào lưới đối phương mà không bị cản trở bởi các cú đánh của đối thủ. đây là một kỹ thuật quan trọng giúp tăng cường sức mạnh và tốc độ trận đấu. ngoài ra, cầu lông cũng có vai trò quan trọng trong việc phát triển tư duy chiến thuật, khả năng phối hợp tay mắt và sự linh hoạt trong phản ứng nhanh nhạy với các tình huống khác nhau trên sân. trò chơi này đã trở thành một phần không thể thiếu trong văn hóa thể thao hiện đại, thu hút hàng triệu người hâm mộ từ khắp nơi trên thế giới.",
-      "model": "sft1_100M.pt"
+      "text": "cầu lông là một môn thể thao giải trí và thi đấu, trong đó người chơi sử dụng vợt để đánh một quả cầu lông (shuttlecock) qua lưới. mục tiêu của trò chơi là ghi điểm bằng cách làm cho quả cầu rơi xuống sân đối phương mà không để bóng chạm đất bên phần sân mình.\n\ntrò chơi này rất phổ biến ở nhiều quốc gia châu á như trung quốc, nhật bản, hàn quốc và các nước đông nam á khác. cầu lông giúp rèn luyện sức khỏe, tăng cường sự phối hợp tay mắt, đồng thời tạo cơ hội giao lưu, nâng cao tinh thần đồng đội và giải tỏa căng thẳng.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -79,8 +79,8 @@
     },
     {
       "role": "ai",
-      "text": "đạp bơi là một hoạt động thể chất tuyệt vời giúp cải thiện sức khỏe tim mạch, tăng cường sự linh hoạt và giảm nguy cơ mắc các bệnh liên quan đến tim mạch như đau thắt ngực, đột quỵ và cao huyết áp.\n\nngoài ra, bơi lội còn giúp giảm căng thẳng, cải thiện tâm trạng và hỗ trợ quá trình trao đổi chất tổng thể của cơ thể. nó cũng có tác dụng làm dịu hệ thần kinh, giúp bạn cảm thấy dễ chịu hơn trong cuộc sống hàng ngày. đây là một phương pháp đơn giản nhưng rất hiệu quả để duy trì sức khỏe toàn diện cả về thể chất lẫn tinh thần.",
-      "model": "sft1_100M.pt"
+      "text": "bơi lội mang lại nhiều lợi ích sức khỏe đáng kể nhờ sự kết hợp giữa thể chất và tinh thần. về mặt thể chất, bơi giúp tăng cường sức mạnh cơ bắp toàn thân, cải thiện khả năng hô hấp và tuần hoàn máu, từ đó giảm nguy cơ mắc các bệnh tim mạch và tiểu đường loại 2.\n\nvề mặt tinh thần, bơi lội kích thích sản xuất endorphin – hormone tạo cảm giác hạnh phúc và thư giãn. nó giúp giảm căng thẳng, lo âu, trầm cảm và cải thiện tâm trạng tổng thể. ngoài ra, bơi còn hỗ trợ kiểm soát cân nặng, tăng cường hệ miễn dịch và cải cách chế độ ăn uống lành mạnh. tóm lại, bơi là một phương pháp tuyệt vời để duy trì một lối sống năng động và khỏe mạnh.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -89,8 +89,8 @@
     },
     {
       "role": "ai",
-      "text": "vđv vovinam được coi là một trong những môn thể thao phổ biến nhất tại việt nam. đây không chỉ đơn thuần là một hoạt động giải trí mà còn mang ý nghĩa văn hóa sâu sắc, thu hút sự quan tâm của người dân và du khách trên toàn quốc.\n\ncác vận động viên tham gia vào các nội dung thi đấu đòi hỏi sức bền, kỹ thuật điêu luyện và tinh thần chiến đấu cao. ngoài ra, họ cũng đóng vai trò quan trọng trong việc truyền cảm hứng cho cộng đồng và thúc đẩy tinh thần đoàn kết.",
-      "model": "sft1_100M.pt"
+      "text": "vovinam là một môn võ thuật truyền thống của việt nam.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -99,8 +99,8 @@
     },
     {
       "role": "ai",
-      "text": "xem thể thao là một hoạt động giải trí tuyệt vời vì nó mang lại niềm vui, sự thư giãn và cảm giác kết nối với cộng đồng. khi tham gia vào các môn thể thao như bóng đá, bóng rổ hay bơi lội, bạn có cơ hội gặp gỡ những vận động viên tài năng từ khắp nơi trên thế giới. điều này giúp tăng cường tinh thần đồng đội, cải thiện kỹ năng giao tiếp và tạo ra mối quan hệ xã hội tích cực hơn. ngoài ra, thể thao còn thúc đẩy sự phát triển cá nhân thông qua việc rèn luyện kỹ năng quản lý thời gian, lập kế hoạch tập luyện hiệu quả và xây dựng mạng lưới hỗ trợ trong cộng đồng yêu thích thể thao.",
-      "model": "sft1_100M.pt"
+      "text": "xem thể thao thu hút nhiều người hâm mộ vì nó không chỉ là một hoạt động giải trí mà còn mang lại nhiều giá trị văn hóa và xã hội. thứ nhất, xem thể thao giúp tăng cường tinh thần đoàn kết cộng đồng khi mọi người cùng nhau cổ vũ, chia sẻ niềm vui chiến thắng hay thất bại trong các môn thể thao khác nhau như bóng đá, bóng rổ, điền kinh... điều này tạo ra sự gắn kết mạnh mẽ giữa cá nhân với tập thể, từ đó thúc đẩy tinh thần đồng đội và ý chí vượt qua khó khăn. thứ hai, việc theo dõi thể thao thường xuyên góp phần xây dựng hình ảnh tích cực cho thương hiệu cá nhân hoặc tổ chức thông qua việc truyền cảm hứng về tinh thần thi đấu kiên trì, quyết tâm và nỗ lực không ngừng nghỉ. ngoài ra, thể thao cũng kích thích sự sáng tạo và đổi mới trong ngành công nghiệp giải trí, nơi các vận động viên có cơ hội thể hiện tài năng của mình trên sân khấu lớn. cuối cùng, thể dục thể thao được coi là phương tiện để duy trì sức khỏe tinh thần, cải thiện chất lượng giấc ngủ và giảm căng thẳng sau những giờ làm việc căng thẳng. tất cả những yếu tố này khiến thể thao trở thành một phần quan trọng trong cuộc sống hàng ngày của rất nhiều người.",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786914505.4148722,

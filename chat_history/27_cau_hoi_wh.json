@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "bóng đèn được phát minh bởi thomas edison vào những năm 1870 và 1920.",
-      "model": "sft1_100M.pt"
+      "text": "thomas edison là người đã phát minh ra bóng đèn sợi đốt thương mại đầu tiên vào năm 1879.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "nhiệt độ là một đại lượng vật lý cơ bản và quan trọng trong nhiều lĩnh vực, bao gồm hóa học, sinh học, môi trường và đời sống. nó cho biết mức độ nóng hay lạnh của một vật thể hoặc môi trường.",
-      "model": "sft1_100M.pt"
+      "text": "nhiệt độ là đại lượng vật lý dùng để đo mức độ nóng hay lạnh của một vật thể hoặc môi trường. có nhiều loại nhiệt kế như nhiệt kế thủy ngân, nhiệt kế điện tử và nhiệt kế hồng ngoại.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "mặt trời mọc là khoảng thời gian từ lúc mặt trời lặn cho đến khi mặt trăng hoàn thành một vòng quỹ đạo quanh trái đất.",
-      "model": "sft1_100M.pt"
+      "text": "mặt trời mọc vào khoảng từ 5 đến 6 giờ chiều, tùy thuộc vào vị trí địa lý và mùa trong năm.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "nước biển là môi trường sống tự nhiên của nhiều loài sinh vật, chủ yếu bao gồm cá, tôm và các sinh vật phù du khác. chúng đóng vai trò quan trọng trong hệ sinh thái đại dương, cung cấp nguồn thức ăn cho hàng triệu loài động vật và thực vật trên hành tinh này. ngoài ra, nước biển còn chứa một lượng lớn chất dinh dưỡng cần thiết cho sự phát triển và duy trì sức khỏe của con người. việc bảo vệ và quản lý nước biển là rất quan trọng để đảm bảo sự tồn tại và phát triển bền vững của hành tinh chúng ta.",
-      "model": "sft1_100M.pt"
+      "text": "nước biển có thể được tìm thấy ở nhiều nơi khác nhau trên thế giới, tùy thuộc vào vị trí địa lý và điều kiện môi trường.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "lá cây chứa nhiều chất hữu cơ, chủ yếu là carbon dioxide (co2) và oxit nitơ (nox). các hợp chất này được sử dụng trong quá trình quang hợp của thực vật để tạo ra năng lượng. khi ánh sáng mặt trời chiếu vào lá cây, nó hấp thụ khí co2 từ không gian xung quanh, làm tăng nhiệt độ bề mặt lá. ngoài ra, lá cây còn cung cấp oxy cho môi trường, giúp duy trì sự sống trên trái đất. vì vậy, màu xanh của lá cây đóng vai trò quan trọng trong việc bảo vệ môi trường tự nhiên khỏi tác động tiêu cực của biến đổi khí hậu.",
-      "model": "sft1_100M.pt"
+      "text": "lá cây có màu xanh là do chứa chất diệp lục (chlorophyll). diệp lục hấp thụ ánh sáng mặt trời và chuyển năng lượng này thành năng lượng hóa học.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "để học giỏi môn toán, bạn cần thực hiện một số bước quan trọng. đầu tiên, hãy tập trung vào việc nắm vững các khái niệm cơ bản trong toán học như phép cộng, phép nhân và phép trừ. tiếp theo, tìm hiểu về các quy tắc cơ bản của toán học, bao gồm cách đặt dấu ngoặc đơn giản (ví dụ: dùng dấu phẩy ở cuối câu) và cách giải quyết các bài toán phức tạp hơn. ngoài ra, luyện tập thường xuyên là rất quan trọng để củng cố kiến thức và kỹ năng toán học. cuối cùng, hãy kiên nhẫn và không nản lòng khi gặp khó khăn, vì điều này có thể làm mất đi sự tự tin và khả năng tư duy sáng tạo của bạn.",
-      "model": "sft1_100M.pt"
+      "text": "để học tốt môn toán, bạn cần tập trung vào việc nắm vững các khái niệm cơ bản và áp dụng chúng một cách hiệu quả.\n\ntrước tiên, hãy tìm hiểu sâu về các phép tính cơ bản như cộng, trừ, nhân, chia để xây dựng nền tảng kiến thức vững chắc. tiếp theo, thực hành giải các bài toán liên quan đến đại số, hình học, hoặc các lĩnh vực khác để củng cố khả năng tư duy logic của mình. cuối cùng, tham gia vào các hoạt động ngoại khóa, câu lạc bộ, hoặc thảo luận với những người có chung sở thích để trao đổi kinh nghiệm và học hỏi từ nhau. sự kiên trì là chìa khóa thành công.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -69,8 +69,8 @@
     },
     {
       "role": "ai",
-      "text": "tính đến năm 2024, việt nam có tổng cộng 63 tỉnh thành.",
-      "model": "sft1_100M.pt"
+      "text": "việt nam hiện có 63 tỉnh thành.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -79,8 +79,8 @@
     },
     {
       "role": "ai",
-      "text": "voi là một loài động vật có vú thuộc họ mèo (felidae). chúng sống chủ yếu ở các khu rừng nhiệt đới và cận nhiệt đới trên khắp thế giới. voi được coi là biểu tượng của sự mạnh mẽ, sức mạnh và quyền lực trong nhiều nền văn hóa khác nhau trên toàn cầu.",
-      "model": "sft1_100M.pt"
+      "text": "vui lòng cung cấp con bạn để tôi có thể trả lời.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -89,8 +89,8 @@
     },
     {
       "role": "ai",
-      "text": "ăn uống hàng ngày đóng vai trò vô cùng quan trọng đối với sức khỏe và trạng thái tinh thần của chúng ta. dưới đây là một số lý do chính:\n\n1. cung cấp năng lượng: chế độ ăn uống lành mạnh giúp cung cấp đủ năng lượng cho cơ thể, hỗ trợ quá trình trao đổi chất và duy trì cân bằng nước trong cơ thể.\n\n2. tăng cường hệ miễn dịch: ăn nhiều rau xanh, trái cây, ngũ cốc nguyên hạt và thực phẩm giàu vitamin c có thể giúp giảm nguy cơ mắc các bệnh mãn tính như ung thư, bệnh tim mạch, tiểu đường và béo phì. ngoài ra, việc tiêu thụ các loại thức ăn giàu omega-3 (như cá hồi) cũng rất quan trọng để hỗ trợ chức năng não bộ và cải thiện tâm trạng tổng quát.",
-      "model": "sft1_100M.pt"
+      "text": "con người cần ăn uống mỗi ngày vì chế độ dinh dưỡng đóng vai trò quan trọng trong việc duy trì sức khỏe và phát triển thể chất. một bữa ăn cân đối, giàu dinh dưỡng giúp cung cấp năng lượng cho cơ thể hoạt động hiệu quả, hỗ trợ quá trình trao đổi chất và tăng cường hệ miễn dịch. ngoài ra, việc ăn uống đều đặn còn góp phần kiểm soát cân nặng, giảm nguy cơ mắc các bệnh mãn tính như tiểu đường type 2, cao huyết áp và một số loại ung thư. hơn nữa, thói quen sinh hoạt lành mạnh như tập thể dục thường xuyên, ngủ đủ giấc và quản lý căng thẳng cũng góp phần nâng cao tinh thần và sức khỏe tổng thể, từ đó cải thiện chất lượng cuộc sống và kéo dài tuổi thọ.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -99,8 +99,8 @@
     },
     {
       "role": "ai",
-      "text": "nước lọc là một yếu tố cực kỳ quan trọng đối với sức khỏe của cơ thể. nó giúp cung cấp năng lượng và duy trì các chức năng sống cần thiết để hoạt động hiệu quả.\n\ntuy nhiên, nước lọc không phải là lựa chọn tối ưu nhất vì nó có thể gây ra nhiều vấn đề sức khỏe nghiêm trọng như bệnh tim mạch, tiểu đường loại 2 hoặc các rối loạn chuyển hóa khác. do đó, việc uống đủ nước là rất quan trọng để duy trì cân nặng lý tưởng và hỗ trợ quá trình trao đổi chất diễn ra bình thường. bạn nên tham khảo ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi bắt đầu bất kỳ chế độ ăn uống mới nào.",
-      "model": "sft1_100M.pt"
+      "text": "nước lọc và nước ngọt là hai lựa chọn tốt hơn cho sức khỏe, tùy thuộc vào mục đích sử dụng.\n\n**nước lọc** mang lại nhiều lợi ích tuyệt vời cho cơ thể: cung cấp độ ẩm cần thiết để duy trì các chức năng sống cơ bản như điều chỉnh nhiệt độ cơ thể và hỗ trợ quá trình trao đổi chất. nó còn giúp loại bỏ độc tố tích tụ trong cơ thể một cách nhẹ nhàng.\n* **nước ngọt** cung cấp lượng đường tự nhiên (fructose) cao, rất quan trọng cho việc kiểm soát cân nặng mà không gây tăng đột biến đường huyết nhanh chóng. ngoài ra, chúng còn giàu vitamin nhóm b và khoáng chất cần thiết cho sự phát triển toàn diện của tế bào.",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786914722.0116684,

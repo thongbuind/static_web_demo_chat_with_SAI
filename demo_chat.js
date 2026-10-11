@@ -1,4 +1,4 @@
-const FALLBACK_HISTORY_FILE = "chat_history/test100inputonly100M.json"
+const FALLBACK_HISTORY_FILE = "chat_history/00_tong_quan.json"
 const chatEl = document.getElementById("chat")
 const demoNotice = document.getElementById("demo-notice")
 

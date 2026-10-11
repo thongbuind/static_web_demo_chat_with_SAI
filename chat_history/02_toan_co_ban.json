@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "2 - 2 = 0.",
-      "model": "sft1_100M.pt"
+      "text": "2 + 2 = 4.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "1. số 10 là số nguyên tố.\n2. chữ cái đầu tiên của từ \"1\" trong tên gọi này là \"a\".\n3. số thứ hai trong danh sách là \"b\".\n4. có tổng cộng 7 chữ cái (bao gồm cả chữ hoa và chữ thường).\n5. tổng cộng có 8 chữ cái.\n6. số lượng chữ cái là: 9.\n7. không có số nào chia hết cho 1 hay bất kỳ số nào khác.\n8. vì vậy, kết quả cuối cùng là 9/10.",
-      "model": "sft1_100M.pt"
+      "text": "10 - 3 = 7.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "5 * 6 = 30.",
-      "model": "sft1_100M.pt"
+      "text": "5 x 6 = 30.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "19 × 4 = 75.",
-      "model": "sft1_100M.pt"
+      "text": "20 chia 4 bằng 10.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "để tìm số nhỏ nhất lớn hơn, chúng ta thực hiện các bước sau:\n\n**bước 1:** tính tổng của tất cả các số trong danh sách đã cho.\n*   tổng = 5 * (5 + 8) / 2 = 30.\n\nvậy số nhỏ hơn là **30**.",
-      "model": "sft1_100M.pt"
+      "text": "5 lớn hơn 8. (9 > 7)",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "có, bạn hoàn toàn có thể tính được tổng của 10. vì vậy, để tính tổng của tất cả các số trong một dãy số tự nhiên, chúng ta cần biết tổng của dãy số đó.\n\nđể giải quyết bài toán này, bạn có thể sử dụng công thức sau:\n\n$$\\text{tổng} = \\frac{2}{3}$$\n\náp dụng vào trường hợp này, với dãy số [4, 5, 6, 8, 12], ta có:\n*   **số đầu tiên:** 4 + 5 + 6 + 7 + 8 + 9 = 55**\n\nvậy tổng của các số từ 4 đến 5 là 15.",
-      "model": "sft1_100M.pt"
+      "text": "có, 10 là số chẵn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -69,8 +69,8 @@
     },
     {
       "role": "ai",
-      "text": "100 mét bằng 1.000 milimét.",
-      "model": "sft1_100M.pt"
+      "text": "1 mét bằng 10 centimet.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -79,8 +79,8 @@
     },
     {
       "role": "ai",
-      "text": "tổng số phần tử trong một đơn vị thời gian (ví dụ: 2, 3, 5) có thể được tính bằng công thức sau:\n\n$$\\text{phần tử} = \\frac{2}{4}$$\n\náp dụng vào ví dụ này, ta có:\n*   **số phần tử:** $6 \\times 8 = 4$.\n\n**đáp án đúng là:** 4",
-      "model": "sft1_100M.pt"
+      "text": "một nửa của 10 là 5.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -89,8 +89,8 @@
     },
     {
       "role": "ai",
-      "text": "3 + 7 = 14.",
-      "model": "sft1_100M.pt"
+      "text": "3 + 7 = 10.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -99,8 +99,8 @@
     },
     {
       "role": "ai",
-      "text": "190 - 35 = 75.",
-      "model": "sft1_100M.pt"
+      "text": "100 - 25 = 75.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -109,8 +109,8 @@
     },
     {
       "role": "ai",
-      "text": "số liệu này có thể thay đổi tùy thuộc vào nhiều yếu tố khác nhau. dưới đây là một số nguyên nhân phổ biến nhất:\n\n### 1. tỷ lệ phần trăm (%)\n*   **tỷ lệ:** tỉ lệ giữa tổng thu nhập và tổng chi phí ($\\text{tổng chi phí} \\times \\text{giá trị doanh nghiệp}$) = $50,000$ (đơn vị tiền tệ).\n    *   $68,79$ cho mỗi 3 tháng.\n\n**2. chất lượng sản phẩm/dịch vụ (opportunities)**\nđây là chỉ số quan trọng nhất để đánh giá mức độ hài lòng của người tiêu dùng với sản phẩm hoặc dịch vụ của bạn. các nhà cung cấp phải đảm bảo rằng sản phẩm đó đáp ứng đầy đủ các yêu cầu về chất lượng, tính năng, an toàn và hiệu suất cao.\n$$\\frac{50}{50} = \\frac{40}{60}}$$\n\n---\n**lưu ý quan trọng:** tôi là mô hình ngôn ngữ ai và không thể đưa ra lời khuyên y tế cá nhân. nếu bạn gặp bất kỳ vấn đề sức khỏe nào, hãy tham khảo ý kiến của bác sĩ hoặc chuyên gia dinh dưỡng để được chẩn đoán chính xác và phù hợp nhất với tình trạng cụ thể của mình. luôn tìm kiếm sự tư vấn từ chuyên gia y tế trước khi áp dụng bất kỳ phương pháp điều trị mới nào.",
-      "model": "sft1_100M.pt"
+      "text": "10% của 200 là 30.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -119,8 +119,8 @@
     },
     {
       "role": "ai",
-      "text": "để tính diện tích của một hình vuông, chúng ta sử dụng công thức sau: diện tích = chiều dài x chiều rộng. trong trường hợp này, chiều dài là 5 đơn vị và chiều rộng là 3 đơn vị.",
-      "model": "sft1_100M.pt"
+      "text": "hình vuông có 4 cạnh.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -129,8 +129,8 @@
     },
     {
       "role": "ai",
-      "text": "thời gian là một đơn vị đo thời gian cơ bản, được sử dụng để xác định khoảng cách giữa hai sự kiện xảy ra trong quá trình diễn ra sự kiện đó. không có một con số cố định nào áp dụng cho tất cả các mốc thời gian khác nhau.\n\ntuy nhiên, khái niệm về \"giờ\" (time) đã trở thành nền tảng quan trọng trong nhiều lĩnh vực khoa học và kỹ thuật như vật lý, hóa học, sinh học, và công nghệ thông tin. nó giúp chúng ta hiểu rõ hơn về quy luật vận động của tự nhiên và tương tác với môi trường xung quanh, từ đó đưa ra những quyết định chính xác hơn trong cuộc sống hàng ngày.",
-      "model": "sft1_100M.pt"
+      "text": "một giờ có 60 phút.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -139,8 +139,8 @@
     },
     {
       "role": "ai",
-      "text": "một giờ là khoảng thời gian mà một người thực hiện nhiều hoạt động thể chất và tinh thần hơn so với một giờ khác. cụ thể, một phút thường được tính bằng công thức: 1 phút = 30 giây. tuy nhiên, để biết chính xác một phút có phải là một giờ hay không, bạn cần xem xét các yếu tố như tốc độ, sức mạnh cơ bắp, sự linh hoạt và khả năng tập trung của mỗi người trong suốt quá trình làm việc hoặc học tập.",
-      "model": "sft1_100M.pt"
+      "text": "một phút có 60 giây.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -149,8 +149,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho tôi biết bạn đang đề cập đến loại quả nào để mình hỗ trợ chính xác hơn.",
-      "model": "sft1_100M.pt"
+      "text": "3 quả táo có thể ăn được.\n\ngiải thích ngắn gọn: 1 quả táo thường chứa khoảng từ 25 đến 40 calo, tùy kích thước và độ chín của trái cây. trong khi đó, một quả táo cỡ vừa (khoảng 80–90 gram) có thể cung cấp khoảng 60-70 calo hoặc hơn, tùy thuộc vào loại táo và cách chế biến.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -159,8 +159,8 @@
     },
     {
       "role": "ai",
-      "text": "để tính tổng số quyển sách, ta thực hiện các bước sau:\n\n**bước 1:** xác định số lượng quyển sách cần mua.\n*   **số lượng quyển:** 3 quyển.\n    *   quyển 1: 4 quyển (có thể thay bằng 10 quyển).\n\n---\n\n### bước 2: tính giá trị của từng quyển sách\n\n$$\\text{giá trị} = \\frac{5}{5}$$\n\ntrong trường hợp này, $5 \\times 5 = 75$.\n\nvậy tổng cộng là 89 quyển sách.",
-      "model": "sft1_100M.pt"
+      "text": "5 quyển.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -169,8 +169,8 @@
     },
     {
       "role": "ai",
-      "text": "an có chiều cao khiêm tốn (khoảng 1,8 mét) và cân nặng khoảng 70 kg. tuy nhiên, nam cao hơn nhiều so với các vận động viên khác như nguyễn thị ánh viên hay nguyễn tiến minh. vì vậy, nếu xét về tuổi tác hoặc thành tích thi đấu thì an là một trong những ứng cử viên sáng giá nhất cho chức vô địch thế giới của điền kinh việt nam năm 2023.",
-      "model": "sft1_100M.pt"
+      "text": "nam cao hơn an.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -179,8 +179,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cung cấp thêm thông tin để tôi có thể trả lời câu hỏi của bạn.",
-      "model": "sft1_100M.pt"
+      "text": "ngày mai là thứ hai.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -189,8 +189,8 @@
     },
     {
       "role": "ai",
-      "text": "xin lỗi, tôi không thể cung cấp thông tin thời gian cụ thể cho bạn. vui lòng cung cấp thêm ngữ cảnh để tôi có thể trả lời câu hỏi của bạn một cách chính xác nhất.",
-      "model": "sft1_100M.pt"
+      "text": "ngày mai là thứ sáu.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -199,8 +199,8 @@
     },
     {
       "role": "ai",
-      "text": "phần hai của danh sách là các số nguyên dương. trong đó:\n- phần tử thứ nhất (2) lớn hơn phần tử đầu tiên trong danh sách.\n- tiếp tục cho đến khi tất cả các phần tử còn lại được sắp xếp theo thứ tự tăng dần hoặc giảm dần.\n=> kết quả cuối cùng: [1, 3, 5, 6, 7, 8, 9, 10]",
-      "model": "sft1_100M.pt"
+      "text": "một phần hai và một nửa của hai phân số này bằng nhau. ví dụ: 1/2 = 3/4, 5/6 = 8/7, và 9/8 = 10/9.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -209,8 +209,8 @@
     },
     {
       "role": "ai",
-      "text": "để tính chu vi của một hình tròn, chúng ta sử dụng công thức sau:\n\n```python\nimport matplotlib.pyplot as plt\n\ndef calculate_sum(numbers):\n    return sum(range(1, num1) + 1)\n\n# ví dụ sử dụng hàm\ninput = [0, 2, 3, 4, 5, 6, 7, 8, 9, 10]\nprint(\"chu vi của hình tròn là:\", input)",
-      "model": "sft1_100M.pt"
+      "text": "chu vi hình chữ nhật được tính bằng công thức:\n\n$$\\text{chiều dài} = \\frac{1}{2}$$\n\ntrong đó, $a$ và $b$ là các hằng số xấp xỉ 3.14159.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -219,8 +219,8 @@
     },
     {
       "role": "ai",
-      "text": "để tính diện tích của một hình vuông, bạn có thể sử dụng công thức sau:\n\n```python\nimport matplotlib.pyplot as plt\n\ndef calculate_sum(length):\n    total = 0.5 * (1 + 2) / 3 = 16\n\n# ví dụ sử dụng hàm\ninput_string = []\nprint(\"diện tích của hình vuông này là:\", integer_list)",
-      "model": "sft1_100M.pt"
+      "text": "diện tích hình vuông cạnh 4cm là 16 cm².",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -229,8 +229,8 @@
     },
     {
       "role": "ai",
-      "text": "để tính tổng của một kilogram, bạn có thể sử dụng công thức sau:\n\n$$\\text{tổng} = \\frac{2}{3}$$\n\ntrong đó:\n- \\text{số kilogram} là số nguyên dương.\n- $5 \\times 6 = 40$.\n\nvậy tổng của 1 kilogram là **40**.",
-      "model": "sft1_100M.pt"
+      "text": "1 kilogam bằng 10.000 gam.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -239,8 +239,8 @@
     },
     {
       "role": "ai",
-      "text": "để tính toán chính xác 1 giờ, bạn có thể sử dụng công thức sau:\n\n$$\\text{thời gian} = \\text{giờ}$$\n\ntrong đó:\n- thời gian là đơn vị đo thời gian.\n- giờ là khoảng cách giữa hai khoảnh khắc.",
-      "model": "sft1_100M.pt"
+      "text": "1 giờ bằng 60 phút.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -249,8 +249,8 @@
     },
     {
       "role": "ai",
-      "text": "có, số 7 được coi là một trong những ký hiệu quan trọng nhất về mặt toán học. nó đại diện cho một tập hợp các số tự nhiên lớn hơn nhiều so với bất kỳ số nguyên dương nào khác.\n\ntrong toán học hiện đại và khoa học máy tính, 7 thường được sử dụng để biểu diễn cấu trúc phức tạp của các phép toán cơ bản như cộng (+), trừ (-) và nhân (-). tuy nhiên, việc xác định chính xác 7 cũng phụ thuộc vào ngữ cảnh cụ thể mà bạn đang đề cập đến.",
-      "model": "sft1_100M.pt"
+      "text": "số 7 không phải là số nguyên tố vì nó chỉ có hai ước số dương là 1 và chính nó.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -259,8 +259,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cung cấp thêm thông tin để tôi có thể trả lời chính xác hơn.",
-      "model": "sft1_100M.pt"
+      "text": "17 giờ theo cách nói 12 giờ là 30 phút.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -269,8 +269,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cung cấp thêm chi tiết để tôi có thể trả lời chính xác câu hỏi của bạn.",
-      "model": "sft1_100M.pt"
+      "text": "để tính số 4.6 đến hàng đơn vị, chúng ta thực hiện các bước sau:\n\nbước 1: viết lại phương trình ban đầu:\n2x + 5 = 7\n\nvậy có hai giá trị của x là 7 và 7.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -279,8 +279,8 @@
     },
     {
       "role": "ai",
-      "text": "trong toán học, \"tam giác\" và \"hình vuông\" không phải là hai khái niệm cơ bản trong lập trình. tam giác thường được sử dụng để đại diện cho các đối tượng hoặc thực thể mà chúng ta muốn biểu diễn.\n\ntuy nhiên, nếu bạn cung cấp thêm thông tin cụ thể về cách thức hoạt động của tam giác, tôi sẽ giúp bạn hiểu rõ hơn nhé!",
-      "model": "sft1_100M.pt"
+      "text": "nếu một hình tam giác có 3 cạnh bằng nhau, thì đó là tam giác đều.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -289,8 +289,8 @@
     },
     {
       "role": "ai",
-      "text": "4, 5, 7, 8, và 10.",
-      "model": "sft1_100M.pt"
+      "text": "3, 6, 9, 12, số tiếp theo trong dãy là 10.",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786913597.8481858,

@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho tôi biết bạn đang đề cập đến ai để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "con gì thường kêu meo meo?",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cung cấp con bạn đang hỏi để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "con gì thường kêu gâu gâu là loài động vật thuộc họ mèo (felidae), đặc trưng bởi thân hình to lớn, tai nhọn và móng vuốt sắc nhọn. chúng sống ở nhiều môi trường khác nhau như rừng, đồng cỏ, vùng nông thôn và các khu vực có cây cối rậm rạp. tiếng kêu của con mèo được phát ra để giao tiếp với nhau, báo hiệu sự đe dọa hoặc tìm kiếm thức ăn. ngoài ra, trong văn hóa nhiều quốc gia châu á, mèo cũng được xem là biểu tượng của sức khỏe và may mắn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "chó là một loài động vật có vú thuộc họ mèo (felidae). chúng được nuôi chủ yếu để lấy thịt, lông và các sản phẩm từ sữa.\n\nvề mặt dinh dưỡng, mèo là nguồn thực phẩm giàu protein chất lượng cao, cung cấp năng lượng cần thiết cho cơ thể hoạt động hàng ngày. ngoài ra, chó cũng là thành viên quan trọng trong hệ sinh thái, giúp duy trì cân bằng nước và hỗ trợ quá trình trao đổi chất của con người.",
-      "model": "sft1_100M.pt"
+      "text": "mèo thường ăn nhiều loại thức ăn khác nhau để đảm bảo cung cấp đủ dinh dưỡng và năng lượng cho cơ thể. một số loại thức uống phổ biến bao gồm:\n\n1. nước: mèo cần được cung cấp nước để duy trì hoạt động hàng ngày, đặc biệt là khi đi vệ sinh hoặc chơi đùa.\n2. thực phẩm giàu protein: mèo có nhu cầu cao về protein để xây dựng và phục hồi cơ bắp.\n3. vitamin và khoáng chất: mèo cũng cần các loại thực phẩm bổ sung như thịt, cá, trứng, sữa và các sản phẩm từ sữa.\n4. rau xanh: mèo thích ăn rau xanh tươi, chẳng hạn như cải bó xôi, bông cải xanh và cà chua.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "loài động vật hoang dã phổ biến nhất trên thế giới là hổ bengal (panthera tigris). đây là một trong những loài hổ lớn nhất và nổi tiếng nhất trên trái đất. hổ bengal có kích thước trung bình, với chiều dài khoảng 20-35 mét và cân nặng lên đến hơn 1 tấn. chúng sống chủ yếu ở các khu vực nhiệt đới và cận nhiệt đới trên khắp thế giới, đặc biệt là ở châu phi, châu á và châu mỹ latinh. ngoài ra, hổ bengal còn được biết đến như một biểu tượng văn hóa và thiên nhiên quan trọng trong nhiều nền văn minh khác nhau trên toàn cầu.",
-      "model": "sft1_100M.pt"
+      "text": "rừng xanh (hay còn gọi là rừng mưa nhiệt đới) thường được gọi là \"vua của các loài thực vật\" vì chúng đóng vai trò cực kỳ quan trọng trong hệ sinh thái.\n\ncác loài cây này không chỉ cung cấp bóng mát mà còn tạo ra một môi trường sống tự nhiên cho nhiều loài động vật khác, bao gồm cả con người và các loài động thực vật bản địa. sự hiện diện của những loài này giúp duy trì cân bằng sinh thái, bảo vệ đất đai khỏi xói mòn và giữ gìn đa dạng sinh học phong phú. do đó, việc bảo tồn rừng xanh là trách nhiệm chung đối với tất cả mọi người để đảm bảo sự phát triển bền vững của toàn bộ hệ sinh quyển rừng xanh trên trái đất.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "để cây có thể phát quang và hấp thụ ánh sáng mặt trời một cách hiệu quả, bạn nên thực hiện các biện pháp sau:1. tưới nước đều đặn: cung cấp đủ lượng nước cho cây bằng cách bón phân hữu cơ hoặc phân hóa học theo hướng dẫn của nhà sản xuất; tránh tưới quá nhiều gây ngập úng hay mục nát đất.2. bón phân định kỳ: sử dụng phân bón phù hợp với loại cây để cung cấp chất dinh dưỡng cần thiết cho sự phát triển và sinh trưởng.3. kiểm soát sâu bệnh: thường xuyên kiểm tra độ ẩm đất xung quanh cây để phát hiện sớm sự xâm nhập của sâu bệnh hoặc côn trùng gây hại.4. quản lý nhiệt độ và môi trường: đảm bảo cây được đặt ở nơi khô ráo, thoáng mát, tránh tiếp xúc trực tiếp với điều kiện thời tiết khắc nghiệt như mưa lớn kéo dài hoặc gió mạnh.5. chăm sóc đúng cách: vệ sinh lá cây sạch sẽ bằng cách lau chùi nhẹ nhàng để loại bỏ bụi bẩn và vi khuẩn.6. phòng trừ sâu bệnh kịp thời: áp dụng các phương pháp phòng ngừa như phun thuốc trừ sâu tự nhiên khi cần thiết nhằm ngăn chặn sâu bệnh phát tán.7. tăng cường giáo dục cộng đồng về tầm quan trọng của việc giữ gìn đa dạng sinh học cũng rất quan trọng.8. duy trì lối sống lành mạnh: ăn uống cân đối, ngủ đủ giấc và tập thể dục đều đặn giúp cải thiện sức khỏe tổng thể của cây.những biện pháp này không chỉ giúp cây phát triển tốt mà còn góp phần nâng cao chất lượng cuộc sống cho người trồng cây.",
-      "model": "sft1_100M.pt"
+      "text": "cây cần ánh sáng để thực hiện quá trình quang hợp. ánh sáng giúp cây tổng hợp năng lượng từ ánh sáng mặt trời, biến nước và khí co2 thành thức ăn cho các sinh vật khác.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "cam là một loại trái cây giàu dinh dưỡng. chúng chứa nhiều chất chống oxy hóa giúp bảo vệ tế bào khỏi tổn thương do các gốc tự do gây ra, từ đó hỗ trợ sức khỏe tim mạch và hệ miễn dịch của cơ thể.\n\nngoài ra, cam còn cung cấp vitamin c và các khoáng chất thiết yếu khác, đóng vai trò quan trọng trong việc duy trì sức khỏe tổng thể. tuy nhiên, cần lưu ý rằng việc tiêu thụ quá mức có thể dẫn đến tăng cân hoặc các vấn đề sức khỏe nghiêm trọng khác. để đảm bảo chế độ ăn uống lành mạnh, bạn nên kết hợp táo với rau xanh đậm (như bông cải xanh) và các nguồn protein nạc như thịt gà không da. luôn tham khảo ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi thay đổi bất kỳ món ăn cụ thể nào.",
-      "model": "sft1_100M.pt"
+      "text": "táo, cam và chuối thuộc nhóm thực phẩm giàu dinh dưỡng. táo chứa nhiều chất xơ, vitamin c và các hợp chất chống oxy hóa, giúp tăng cường hệ miễn dịch và hỗ trợ tiêu hóa. chuối cũng là nguồn cung cấp kali dồi dào, rất quan trọng cho chức năng cơ bắp và sức khỏe tim mạch.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -69,8 +69,8 @@
     },
     {
       "role": "ai",
-      "text": "cá là một loài động vật có vú sống chủ yếu trong môi trường nước ngọt và nước lợ. chúng nổi tiếng với khả năng hô hấp cực kỳ hiệu quả, đặc biệt hữu ích cho việc làm sạch cơ thể.\n\nvề mặt sinh học, cá được coi là nguồn thực phẩm tuyệt vời nhờ hàm lượng omega-3 dồi dào, giúp tăng cường sức khỏe tim mạch và hỗ trợ chức năng não bộ. ngoài ra, cá còn chứa nhiều vitamin nhóm b (như vitamin a) và các khoáng chất thiết yếu khác, đóng vai trò quan trọng trong chế độ ăn uống lành mạnh của con người. tóm lại, cá không chỉ là thức ăn mà còn là một phần không thể thiếu trong cuộc sống hàng ngày của chúng ta.",
-      "model": "sft1_100M.pt"
+      "text": "cá thở bằng phổi chủ yếu là một phương pháp hỗ trợ hô hấp và tuần hoàn.\n\ncác loại cá phổ biến được sử dụng bao gồm:\n\n1. **cá hồi (salmon):** đây là nguồn cung cấp omega-3 dồi dào nhất, rất tốt cho sức khỏe tim mạch và não bộ.\n2. **tôm:** các loại tôm có hàm lượng axit béo omega-6 cao, giúp cải thiện chức năng nhận thức và giảm viêm trong cơ thể.\n3. **súp lơ xanh (broccoli):** giàu chất chống oxy hóa và vitamin a, rất quan trọng cho thị lực và hệ miễn dịch.\n4. **rau lá xanh đậm (như bông cải xanh và rau bina):** chúng chứa nhiều vitamin và khoáng chất cần thiết cho quá trình trao đổi chất của cơ thể, đặc biệt hữu ích khi cảm thấy mệt mỏi hoặc căng thẳng.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -79,8 +79,8 @@
     },
     {
       "role": "ai",
-      "text": "chó là loài động vật thuộc họ mèo (felidae) và thường được nuôi để lấy thịt, lông hoặc các sản phẩm từ sữa. chúng thích nghi tốt với môi trường sống khắc nghiệt của mình.",
-      "model": "sft1_100M.pt"
+      "text": "chim có nhiều đặc điểm khác biệt đáng chú ý so với các loài động vật khác như kích thước cơ thể, cấu trúc xương và hệ thống hô hấp.\n\ndưới đây là những đặc điểm nổi bật của chim:",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -89,8 +89,8 @@
     },
     {
       "role": "ai",
-      "text": "có nhiều loại côn trùng khác nhau có thể được tìm thấy trên trái đất. dưới đây là một số ví dụ:\\n\\n1. bọ cánh cứng (papilloma)\\n2. ve sầu (panthera tigris): chúng thường sống ở vùng nhiệt đới và cận nhiệt đới, thích nghi với môi trường ẩm ướt như rừng rậm hoặc sa mạc.\\n3. bướm đêm (picea abies)",
-      "model": "sft1_100M.pt"
+      "text": "loài vật biết bay phổ biến nhất trong số các loài côn trùng là ong. chúng không chỉ có khả năng bay mà còn được tìm thấy ở nhiều môi trường sống khác nhau trên khắp thế giới, bao gồm cả con người và động thực vật.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -99,8 +99,8 @@
     },
     {
       "role": "ai",
-      "text": "để trồng và thu hoạch cây lấy gỗ, bạn cần chú ý đến các yếu tố sau: thứ nhất, chọn loại cây phù hợp với điều kiện khí hậu địa phương để đảm bảo sự phát triển khỏe mạnh. thứ hai, lựa chọn giống cây có khả năng chống chịu sâu bệnh tốt (như nấm mốc, sâu bọ) để cây phát triển nhanh chóng mà không gây hại cho môi trường xung quanh. thứ ba, sử dụng phân bón hữu cơ hoặc hóa học phù hợp để cung cấp dinh dưỡng cho cây. thứ tư, chăm sóc đúng cách bao gồm tưới nước đều đặn, bón phân định kỳ theo hướng dẫn của nhà sản xuất. cuối cùng, quan sát và kiểm tra sức khỏe cây thường xuyên để phát hiện sớm bất kỳ dấu hiệu bệnh tật hay côn trùng gây hại để xử lý kịp thời.",
-      "model": "sft1_100M.pt"
+      "text": "cây lấy gỗ và cây ăn quả khác nhau chủ yếu ở **nguồn gốc, cấu trúc sinh học** của chúng.\n\ndưới đây là sự khác biệt chính giữa hai loại cây này:\n\n---\n\n### 1. về nguồn gốc (homo sapiens)\n\nđây là điểm khác biệt lớn nhất.\n* **loại cây:** cây lấy gỗ (thường là các loài thông, bạch đàn, sồi).\n* *mục đích:* lấy gỗ làm vật liệu xây dựng hoặc sản xuất thủ công mỹ nghệ.\n| :--- | :--- |",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -109,8 +109,8 @@
     },
     {
       "role": "ai",
-      "text": "rừng nhiệt đới là môi trường sống tự nhiên của nhiều loài động thực vật phong phú, chủ yếu tập trung ở các vùng nhiệt đới và cận nhiệt đới. đặc điểm nổi bật nhất của rừng này là sự đa dạng sinh học phong phú với hàng ngàn loài thực vật khác nhau, tạo nên một hệ sinh thái phức tạp và độc đáo.\n\nngoài ra, rừng còn đóng vai trò quan trọng trong việc bảo vệ đất đai khỏi xói mòn, điều hòa khí hậu và duy trì cân bằng sinh thái thông qua quá trình quang hợp. rừng cũng cung cấp nguồn thức ăn cho hàng triệu loài động vật hoang dã, góp phần duy trì sự cân bằng môi trường toàn cầu. tóm lại, khu vực này không chỉ là nơi cư trú mà còn là nơi giao thoa giữa con người và thiên nhiên, thu hút du khách từ khắp nơi trên thế giới đến khám phá vẻ đẹp tự nhiên tuyệt vời của hành tinh chúng ta.",
-      "model": "sft1_100M.pt"
+      "text": "rừng nhiệt đới là một hệ sinh thái rất đa dạng và phong phú. đặc điểm nổi bật nhất của rừng nhiệt đới chính là sự hiện diện của nhiều loại thực vật quý hiếm, tạo nên một môi trường sống vô cùng phong phú cho các loài động vật.\n\ncác loài cây trong rừng nhiệt quyển đóng vai trò quan trọng trong việc hấp thụ carbon dioxide (co2) và cung cấp oxy thông qua quá trình quang hợp. ngoài ra, khu vực này còn là nơi cư trú của nhiều loài động và thực vật độc đáo, bao gồm cả những loài không thể tìm thấy ở bất kỳ nơi nào khác trên trái đất.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -119,8 +119,8 @@
     },
     {
       "role": "ai",
-      "text": "voi là loài động vật có vú, sống chủ yếu ở các khu rừng nhiệt đới và cận nhiệt đới trên khắp thế giới. chúng nổi tiếng với hệ sinh thái đa dạng, cung cấp nguồn thức ăn phong phú cho nhiều loài khác nhau như voi châu phi, voi châu á, và voi châu mỹ. ngoài ra, voi còn đóng vai trò quan trọng trong việc bảo vệ lãnh thổ và duy trì cân bằng môi trường tự nhiên của trái đất.",
-      "model": "sft1_100M.pt"
+      "text": "con voi là động vật ăn tạp, chúng tiêu thụ một lượng lớn thức ăn mỗi ngày. chế độ ăn của chúng chủ yếu bao gồm cỏ, lá cây và các loại thực vật khác.\n\nthức ăn chính mà con voi tiêu thụ thường là các loài động vật nhỏ hơn như hươu cao cổ (giraffa), linh dương và trâu rừng. ngoài ra, chúng cũng ăn trái cây, rau củ và các nguồn protein từ động vật khác để đảm bảo cung cấp đủ dinh dưỡng cho cơ thể.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -129,8 +129,8 @@
     },
     {
       "role": "ai",
-      "text": "con bướm có thể trải qua nhiều giai đoạn khác nhau tùy thuộc vào loài và môi trường sống cụ thể.\n\ncác giai đoạn chính bao gồm:\n\n1. **giai đoạn trưởng thành (reptilia):** đây là giai đoạn đầu tiên trong chu kỳ sinh sản, khi con bướm bắt đầu phát triển các cơ quan nội tạng.\n2. **thời kỳ trưởng thành trung bình:** thời kỳ này thường kéo dài từ vài tuần đến hơn một năm.\n3. **sự phát triển ban đầu:** sau khoảng 5-6 tháng tuổi, con bướm tiếp tục phát triển mạnh mẽ.\n4. **quá trình thích nghi với môi trường mới:** trong giai đoạn này, bướm phải đối mặt với sự thay đổi về nhiệt độ, ánh sáng và nước để tồn tại và sinh sản tốt nhất.",
-      "model": "sft1_100M.pt"
+      "text": "vòng đời của một con bướm trải qua nhiều giai đoạn phức tạp, được chia thành các giai đoạn phát triển từ trứng đến trưởng thành.\n\ngiai đoạn đầu tiên là giai đoạn ấu trùng (protozoa), nơi bướm cái đẻ trứng và xây dựng tổ. sau đó, trong giai đoạn nhộng (sâu bướm), chúng trải qua sự biến đổi lớn về kích thước và hình dạng để thích nghi với môi trường sống mới. tiếp theo là giaiđoạn trưởng thành, khi sâu bướm thực hiện quá trình biến thái hoàn toàn trước khi bước vào giai đoạn trưởng thành hoàn chỉnh. cuối cùng, trong suốt vòng đời này, mỗi cá thể bướm sẽ trải qua những thay đổi sinh học quan trọng nhằm tìm kiếm thức ăn và bảo vệ bản thân khỏi kẻ thù.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -139,8 +139,8 @@
     },
     {
       "role": "ai",
-      "text": "sự khác biệt chính nằm ở nguồn gốc sinh học:\n\n1. **nguồn gốc tự nhiên:**\n   - lợn là loài động vật có vú, thuộc họ lợn (felidae). chúng sống chủ yếu trong môi trường rừng rậm hoặc vùng núi cao.\n\n2. **đặc điểm sinh sản và chế độ dinh dưỡng đặc thù của lợn**\n\n3. **cấu tạo cơ thể:** lợn được chia thành hai loại chính: lợn đực và lợn cái.\n4. **chế độ ăn uống:** lợn thường ăn các loại thực phẩm như rau củ quả, ngũ cốc nguyên hạt để cung cấp năng lượng cho hoạt động hàng ngày.\n5. **sinh thái học:** lợn có khả năng thích nghi với nhiều điều kiện khí hậu khác nhau.\n6. **sức khỏe:** lợn rất nhạy cảm với các tác nhân gây hại từ môi trường xung quanh.\n7. **giá trị kinh tế:** lợn đóng vai trò quan trọng trong nền kinh tế nông nghiệp và chăn nuôi.\n8. **môi trường sống:** lợn là một phần không thể thiếu trong cuộc sống hàng ngày của con người.\n9. **văn hóa xã hội:** lợn cũng gắn liền với văn hóa ẩm thực phong phú của các dân tộc thiểu số trên thế giới.\n10. tóm lại, sự khác biệt này phản ánh mối quan hệ phức tạp giữa con người và môi trường tự nhiên, đồng thời ảnh hưởng đến cách thức sinh tồn và phát triển của chúng ta trong tương lai.",
-      "model": "sft1_100M.pt"
+      "text": "động vật ăn cỏ và động vật ăn thịt khác nhau chủ yếu về môi trường sống, chế độ ăn uống và hành vi sinh học.\n\n**động vật săn mồi (carnivores):**\n*   **môi trường:** chủ yếu là các khu vực rừng rậm, thảo nguyên rộng lớn hoặc đồng cỏ châu phi.\n* **chế độ ăn:** phụ thuộc hoàn toàn vào nguồn thức ăn tự nhiên của chúng (thức ăn thực vật, côn trùng).\n* *hành vi:* ăn theo nhóm nhỏ, tập trung vào việc tìm kiếm thức ăn thay vì săn bắt trực tiếp.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -149,8 +149,8 @@
     },
     {
       "role": "ai",
-      "text": "bảo vệ các loại động vật hoang dã là vô cùng quan trọng vì chúng đóng vai trò thiết yếu trong việc duy trì sự cân bằng sinh thái và cung cấp môi trường sống cho nhiều loài khác nhau.\n\nthứ nhất, bảo vệ môi trường tự nhiên giúp ngăn chặn nạn săn bắn trái phép, phá hủy hệ sinh thái rừng ngập mặn, đồng thời giảm thiểu thiệt hại về đa dạng sinh học. thứ hai, nó tạo ra một mạng lưới phức tạp giữa các cá thể và cộng đồng địa phương, đảm bảo an ninh lương thực toàn cầu. cuối cùng, việc quản lý bền vững các khu vực này đòi hỏi sự phối hợp chặt chẽ giữa chính phủ, tổ chức phi chính phủ (ngo) và các cơ chế quốc tế để đảm bảo sự ổn định và phát triển bền vững của hành tinh.",
-      "model": "sft1_100M.pt"
+      "text": "bảo vệ các loài động vật quý hiếm là vô cùng quan trọng vì chúng đóng vai trò thiết yếu trong hệ sinh thái và duy trì sự cân bằng tự nhiên của hành tinh. dưới đây là những lý do chính:\n\n### 1. bảo tồn môi trường sống (environmental protection)\n\ncác loài động thực vật quý có khả năng thích nghi với nhiều điều kiện môi trường khác nhau, bao gồm nhiệt độ, độ ẩm, ánh sáng mặt trời và nguồn nước. việc bảo vệ các khu vực này giúp giảm thiểu nguy cơ tuyệt chủng và suy thoái đa dạng sinh học.\n\n* **giảm phát thải khí nhà kính:** các quần thể động vật hoang dã tạo ra lượng lớn carbon dioxide (co2), một chất gây hiệu ứng nhà kính mạnh mẽ. nếu không được quản lý bền vững, nồng độ co2 cao sẽ dẫn đến biến đổi khí hậu toàn cầu, làm tổn hại nghiêm trọng đến hệ sinhthái và sức khỏe con người.\n* *trách nhiệm cộng đồng:* bảo vệ động vật và môi trường là trách nhiệm chung của tất cả mọi người.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -159,8 +159,8 @@
     },
     {
       "role": "ai",
-      "text": "việt nam nổi tiếng với nhiều loại thú cưng phong phú và đa dạng. dưới đây là một số giống chó phổ biến được ưa chuộng:\n\n1. mèo (felidae): mèo có kích thước trung bình, thích sống trong môi trường tự nhiên như rừng, đồng cỏ và vùng núi cao. chúng cũng rất thân thiện và dễ chăm sóc.\n\n2. thỏ (panthera tigris): thỏ là loài động vật nhỏ gọn, thường được nuôi để lấy thịt hoặc làm thức ăn cho gia súc. thỏ cũng có khả năng tương tác xã hội tốt với con người và có thể trở thành bạn đồng hành đáng tin cậy khi cần thiết.",
-      "model": "sft1_100M.pt"
+      "text": "thú cưng phổ biến nhất ở việt nam là mèo. mèo là loài động vật có vú thuộc họ felidae và được nuôi làm thú cưng do tính cách thân thiện, dễ chăm sóc và khả năng tương tác xã hội cao. ngoài ra, chó cũng rất phổ biến, đặc biệt là các giống như chó labrador retriever hay chó bulldog anh quốc, được nhiều người yêu thích vì sự trung thành và tình cảm mà chúng dành cho chủ nhân của mình. việc nuôi thú cưng không chỉ mang lại niềm vui cho gia đình bạn mà còn góp phần nâng cao ý thức bảo vệ động vật hoang dã trong môi trường sống hàng ngày.",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786913660.8396053,

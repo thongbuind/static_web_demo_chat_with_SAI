@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "tôi không thể đưa ra lời khuyên y tế cụ thể vì tôi là một mô hình ngôn ngữ ai và không có khả năng cung cấp thông tin y tế chính xác. để biết bạn đang gặp vấn đề sức khỏe nào, hãy tham khảo ý kiến của bác sĩ hoặc chuyên gia dinh dưỡng trước khi bắt đầu bất kỳ chế độ ăn uống mới nào.",
-      "model": "sft1_100M.pt"
+      "text": "bạn có thể chọn một trong các nhóm thực phẩm sau để đảm bảo cung cấp đầy đủ dinh dưỡng cho cơ thể:\n\n*   **protein:** thịt nạc, cá, trứng, đậu phụ. đây là nguồn protein chất lượng cao giúp xây dựng và phục hồi cơ bắp.\n* **chất béo lành mạnh:** dầu ô liu (olive oil), quả bơ, các loại hạt (hạnh nhân, óc chó) để cung cấp năng lượng bền vững.\n\n**lưu ý quan trọng:** nếu bạn đang theo chế độ ăn kiêng nghiêm ngặt hoặc cần kiểm soát cân nặng, hãy tham khảo ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi thay đổi bất kỳ bữa ăn nào.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "để ngủ sớm, bạn nên thực hiện các bước sau:\n\n1. **ngủ đủ giấc:** đảm bảo bạn có đủ giấc ngủ hàng đêm (khoảng 7-8 giờ) để cơ thể phục hồi và tái tạo năng lượng.\n2. **uống đủ nước:** uống nhiều nước trong ngày giúp cung cấp độ ẩm cho cơ thể.\n3. **tránh thức khuya:** hạn chế sử dụng điện thoại di động hoặc máy tính trước khi đi ngủ, vì ánh sáng xanh từ màn hình có thể ảnh hưởng đến chất lượng giấc ngủ của bạn.\n4. **tắt thiết bị điện tử trước khi ngủ:** tắt thông báo không cần thiết trên điện thoại và máy tính để tránh gián đoạn giấc ngủ.\n5. **tập thể dục đều đặn:** tập thể dục ít nhất 30 phút mỗi ngày là rất quan trọng để duy trì sức khỏe toàn diện.\n6. **ăn một bữa ăn lành mạnh:** bổ sung rau xanh, trái cây, ngũ cốc nguyên hạt vào khẩu phần ăn hàng ngày để hỗ trợ quá trình tiêu hóa tốt hơn.",
-      "model": "sft1_100M.pt"
+      "text": "để ngủ sớm, điều quan trọng nhất là tạo ra một môi trường thoải mái và yên tĩnh. hãy cố gắng đi ngủ và thức dậy vào cùng một thời điểm mỗi ngày, kể cả cuối tuần, để điều chỉnh đồng hồ sinh học của cơ thể.\n\nthực hiện các hoạt động thư giãn trước khi ngủ như đọc sách hoặc thiền định để làm dịu tâm trí. hạn chế sử dụng thiết bị điện tử (điện thoại, máy tính) ít nhất một giờ trước khi đi ngủ vì ánh sáng xanh có thể ảnh hưởng đến chất lượng giấc ngủ. ngoài ra, đảm bảo phòng ngủ tối, yên tĩnh và mát mẻ sẽ giúp bạn dễ dàng chìm vào giấc ngủ sâu hơn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "để giữ cho phòng sạch, bạn có thể thực hiện các biện pháp sau:\n1. rửa tay thường xuyên bằng xà phòng và nước ấm trong ít nhất 20 giây để loại bỏ bụi bẩn và vi khuẩn tích tụ trên bề mặt.\n2. sử dụng dung dịch làm sạch phù hợp với loại vải và mức độ bẩn của quần áo.\n3. tránh tiếp xúc trực tiếp với ánh nắng mặt trời hoặc gió lạnh, vì điều này có thể gây hại cho sức khỏe.\n4. lau chùi bàn phím, chuột máy tính và các thiết bị điện tử khác một cách cẩn thận để ngăn chặn sự lây lan của virus.\n5. hạn chế việc chạm vào mắt, mũi và miệng khi không cần thiết, đặc biệt là đối với những người nhạy cảm như trẻ em hoặc phụ nữ mang thai.\n6. đảm bảo môi trường sống sạch sẽ và thoáng đãng để giảm nguy cơ lây nhiễm các bệnh truyền nhiễm qua đường hô hấp.",
-      "model": "sft1_100M.pt"
+      "text": "để giữ phòng sạch, bạn có thể thực hiện các bước sau: 1. dọn dẹp thường xuyên để loại bỏ bụi bẩn và rác thải tích tụ. 2. lau chùi bề mặt thường xuyên bằng khăn ẩm hoặc dung dịch làm sạch phù hợp với loại sàn nhà. 3. sắp xếp đồ đạc gọn gàng, tránh lộn xộn để tạo không gian thoáng đãng. 4. sử dụng máy hút mùi hoặc quạt thông gió khi cần thiết để lưu thông không khí trong phòng. 5. đặt cây xanh ở vị trí chiến lược nhằm lọc không khí và cải thiện chất lượng không khí xung quanh. 6. vệ sinh định kỳ giúp duy trì môi trường sống sạch sẽ, ngăn ngừa vi khuẩn phát triển. áp dụng những cách trên sẽ giúp phòng ngủ của bạn luôn sạch sẽ và thoải mái.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn có thể chọn một trong các lựa chọn sau:\n\n1. **bữa sáng lành mạnh**: cung cấp năng lượng từ ngũ cốc nguyên hạt, protein nạc và chất béo không bão hòa đơn.\n2. **trứng luộc hoặc trứng ốp la**: một món tráng miệng nhẹ nhàng, giàu dinh dưỡng.\n3. **bánh mì sandwich tự làm**: kết hợp bánh mì giòn, thịt nguội, rau củ tươi ngon.\n4. **salad trái cây**: bổ sung vitamin và chất chống oxy hóa cho cơ thể.\n5. **sữa chua tự nhiên**: sữa chua không đường, rất tốt cho tiêu hóa.\n6. **trái cây sấy khô**: thêm một chút mật ong để tăng hương vị ngọt tự nhiên.\n7. **nước ép trái cây tự chế**: giúp cân bằng nước ép và hỗ trợ hệ tiêu hóa khỏe mạnh.\n8. **rau xanh đậm**: chứa nhiều chất xơ, vitamin và khoáng chất cần thiết cho sức khỏe tổng thể.",
-      "model": "sft1_100M.pt"
+      "text": "một bữa sáng đơn giản nên tập trung vào các thực phẩm giàu protein và chất xơ như ngũ cốc nguyên hạt, trái cây tươi hoặc sữa chua không đường để cung cấp năng lượng bền vững cho cơ thể.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "để tiết kiệm một khoản tiền, bạn có thể thực hiện các bước sau:\n\n1. xác định mục tiêu tiết kiệm: đặt ra mục tiêu cụ thể và rõ ràng về số tiền bạn muốn tiết kiệm hàng tháng. điều này giúp bạn tập trung vào những gì quan trọng nhất.\n\n2. lập kế hoạch ngân sách: tạo một ngân sách chi tiêu hàng ngày hoặc hàng tuần dựa trên thu nhập và chi phí của bạn. ghi lại tất cả các nguồn tài chính cần thiết như tiền thuê nhà, hóa đơn điện nước, tiền điện thoại di động, và bất kỳ khoản chi phí cố định nào khác mà bạn dự định tiết kiệm trong suốt thời gian tiết kiệm của mình. hãy nhớ rằng việc tiết kiệm là quá trình liên tục và đòi hỏi sự kiên nhẫn và quyết tâm từ phía bạn.",
-      "model": "sft1_100M.pt"
+      "text": "thử: 1) đặt mục tiêu tiết kiệm cụ thể (ví dụ 50.000 đồng mỗi tháng). 2) chia nhỏ chi tiêu lớn thành các nhiệm vụ nhỏ hơn để dễ quản lý. 3) tìm cách cắt giảm chi phí không cần thiết ngay từ đầu.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "để rèn luyện khả năng tập trung, bạn cần kết hợp nhiều phương pháp khác nhau. trước hết, hãy tạo ra một môi trường học tập yên tĩnh và không có xao lạc bằng cách tắt thông báo từ điện thoại hoặc máy tính trong ít nhất 15-30 phút mỗi ngày. sử dụng các ứng dụng quản lý thời gian như pomodoro technique giúp phân chia công việc thành các khoảng thời gian ngắn (ví dụ: 25 phút làm việc, 5 phút nghỉ), sau đó nghỉ ngơi hoàn toàn. thứ hai, thực hành chánh niệm (mindfulness) là rất quan trọng để duy trì sự tỉnh táo và tập trung tối đa vào nhiệm vụ hiện tại mà không bị gián đoạn bởi những suy nghĩ tiêu cực hay lo lắng về tương lai. cuối cùng, đừng quên dành thời gian cho sở thích cá nhân như đọc sách, nghe nhạc, xem phim hoặc tham gia các hoạt động sáng tạo như vẽ tranh, viết nhật ký để phát triển kỹ năng tư duy phản biện và giải quyết vấn đề hiệu quả hơn.",
-      "model": "sft1_100M.pt"
+      "text": "thưa ngài, để tập trung học bài, hãy tạo ra một môi trường yên tĩnh và không có sự xao lạc. đặt mục tiêu cụ thể cho mỗi buổi học và cố gắng hoàn thành chúng trong khoảng thời gian ngắn nhất có thể. sử dụng các kỹ thuật quản lý thời gian như pomodoro technique cũng rất hiệu quả đó!",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -69,8 +69,8 @@
     },
     {
       "role": "ai",
-      "text": "khi cảm giác buồn, điều quan trọng nhất là lắng nghe cơ thể và tìm kiếm sự hỗ trợ từ người thân hoặc chuyên gia tâm lý. hãy dành thời gian cho những hoạt động giúp bạn thư giãn như đọc sách, nghe nhạc yêu thích, viết nhật ký, hoặc tham gia vào các hoạt động sáng tạo như vẽ tranh hay chơi nhạc. việc này không chỉ giúp giảm căng thẳng mà còn cải thiện chất lượng cuộc sống tổng thể của bạn.",
-      "model": "sft1_100M.pt"
+      "text": "khi cảm thấy buồn, điều quan trọng nhất là tìm kiếm sự hỗ trợ từ những người bạn tin tưởng hoặc chuyên gia tâm lý.\n\nbạn có thể thử các phương pháp sau:\n\n1. **chia sẻ với người thân:** hãy nói chuyện với họ về những gì đang xảy ra trong cuộc sống của bạn và chia sẻ cảm xúc của mình một cách nhẹ nhàng.\n2. **tìm kiếm sự giúp đỡ chuyên nghiệp:** nếu cảm giác buồn kéo dài và ảnh hưởng nghiêm trọng đến cuộc sống hàng ngày của bạn, hãy cân nhắc tham khảo ý kiến của bác sĩ hoặc nhà tâm lý học để được tư vấn chính xác hơn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -79,8 +79,8 @@
     },
     {
       "role": "ai",
-      "text": "để sắp xếp và quản lý thời gian hiệu quả, bạn có thể áp dụng các phương pháp sau:\n\n1. xác định ưu tiên công việc quan trọng nhất: đặt ra mục tiêu rõ ràng cho mỗi nhiệm vụ và hoàn thành chúng trước khi chuyển sang công việc khác. điều này giúp tránh cảm giác bị quá tải và tăng khả năng hoàn thành công việc đúng hạn.\n\n2. sử dụng kỹ thuật pomodoro: chia nhỏ công việc lớn thành các khoảng thời gian ngắn (ví dụ: 25 phút) và nghỉ ngơi trong một khung thời gian cố định để tái tạo năng lượng. kỹ thuật này giúp duy trì sự tập trung cao độ và giảm căng thẳng do làm việc liên tục suốt cả ngày.\n\\n3. loại bỏ xao lạc: tắt thông báo không cần thiết trên điện thoại di động hoặc máy tính của bạn để tập trung vào công việc hiện tại mà không bị phân tâm bởi những yếu tố xung quanh. tạo một môi trường làm việc yên tĩnh và không có sự xao lạc từ bên ngoài.\\n\\n4. tận dụng công cụ hỗ trợ: sử dụng các ứng dụng và công cụ quản lý dự án như trello, asana hay google calendar để tổ chức công việc và theo dõi tiến độ. đảm bảo rằng tất cả các nhiệm vụ được hoàn thành theo kế hoạch và tuân thủ lịch trình đã đề ra.",
-      "model": "sft1_100M.pt"
+      "text": "thử phương pháp pomodoro: làm 25 phút, nghỉ 5 phút. dùng app forest để hạn chế xao nhãng.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -89,8 +89,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho tôi biết bạn đang đề cập đến điều gì để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "khi được người khác giúp đỡ, điều quan trọng là thể hiện lòng tốt và sự đồng cảm. hãy lắng nghe họ một cách chân thành mà không phán xét hay chỉ trích.\n\nhãy cho họ biết rằng bạn tin tưởng vào khả năng của họ và cam kết hỗ trợ họ trong mọi hoàn cảnh. tạo ra một môi trường an toàn để họ có thể tự quản lý cuộc sống cá nhân của mình. nếu cần thiết, hãy cung cấp sự hỗ trợ về tài chính hoặc vật chất. việc này giúp xây dựng mối quan hệ bền vững và mang lại niềm vui cho cả hai bên.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -99,8 +99,8 @@
     },
     {
       "role": "ai",
-      "text": "nếu bạn đang gặp vấn đề về sức khỏe hoặc lo lắng, hãy tham khảo ý kiến của bác sĩ để được chẩn đoán chính xác và có phương pháp điều trị phù hợp.",
-      "model": "sft1_100M.pt"
+      "text": "khi mắc lỗi với người khác, có một số cách bạn có thể thử để sửa chữa và cải thiện mối quan hệ. dưới đây là một số gợi ý:\n\n1. lắng nghe chân thành: hãy dành thời gian lắng nghe cảm xúc của người khác mà không đánh giá hay phê phán họ. đặt mình vào vị trí của họ để hiểu rõ hơn về suy nghĩ và cảm xúc đằng sau lời nói của họ.\n\n2. xác định nguyên nhân gốc rễ: cố gắng tìm ra nguyên nhân gây ra lỗi lầm. điều này có thể liên quan đến công việc, gia đình hoặc môi trường xung quanh. nếu cần thiết, hãy thảo luận với những người liên quan để tìm ra giải pháp tốt nhất cho cả hai bên.\n \n3. xin lỗi một cách lịch sự: khi bạn đã nhận thức được lỗi lầm của mình, hãy xin lỗi chân thành từ phía người đó. sử dụng ngôn ngữ lịch sự và tôn trọng để bày tỏ lòng biết ơn và mong muốn được tha thứ.\n",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -109,8 +109,8 @@
     },
     {
       "role": "ai",
-      "text": "để trả lời câu hỏi này, bạn cần thực hiện các bước sau:\n\n1. **đọc kỹ đoạn văn:** đọc toàn bộ đoạn văn để hiểu nội dung chính và ý nghĩa của nó.\n2. **tìm kiếm thông tin cụ thể:** tìm kiếm trên các nguồn đáng tin cậy như sách giáo trình, bài báo khoa học hoặc trang web uy tín liên quan đến chủ đề đó.\n3. **sử dụng ngôn ngữ đơn giản:** tránh sử dụng thuật ngữ chuyên ngành quá phức tạp.",
-      "model": "sft1_100M.pt"
+      "text": "để hỏi đường một cách lịch sự, bạn có thể sử dụng các phương tiện giao thông công cộng như xe buýt hoặc ứng dụng điện thoại di động. dưới đây là một số bước cơ bản để bắt đầu:\n\n1. tìm điểm đến: trước khi đi, hãy tìm hiểu về địa điểm mà bạn muốn đến và xem liệu đó có phù hợp với sở thích của bạn hay không. điều này giúp bạn tránh bị lạc đường và tiết kiệm thời gian hơn.\n\n2. chuẩn bị thông tin cần thiết: mang theo giấy tờ cá nhân như hộ chiếu, vé máy bay, thẻ căn cước/visa (nếu cần) và bất kỳ tài liệu hướng dẫn nào liên quan đến việc đi lại.\n   \n3. đến nơi đúng giờ: đảm bảo bạn đã đến đúng giờ tại sân bay hoặc ga tàu điện ngầm gần nhất. đôi khi, việc chờ đợi lâu có thể làm mất thời gian của bạn.\n",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -119,8 +119,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn có thể giúp đỡ ai đó bằng cách cung cấp thông tin, hỗ trợ trong các tình huống khẩn cấp hoặc giúp họ giải quyết vấn đề một cách nhanh chóng và hiệu quả.",
-      "model": "sft1_100M.pt"
+      "text": "giúp đỡ người khác mang lại nhiều lợi ích quan trọng. dưới đây là một số lý do tại sao cần giúp đỡ:\n\n1) tạo niềm tin và sự gắn kết xã hội: khi có người giúp đỡ, chúng ta cảm thấy an toàn hơn trong cuộc sống hàng ngày và xây dựng mối quan hệ tốt với những người xung quanh. điều này giúp giảm căng thẳng, tăng cường lòng tự trọng và tạo ra môi trường hỗ trợ tích cực cho cộng đồng xung quanh chúng ta.\n\n2) giải quyết vấn đề và khó khăn: giúp đỡ không chỉ giúp chúng ta vượt qua khó khăn mà còn cung cấp cơ hội để khám phá các khía cạnh mới của cuộc sống. bằng cách giúp đỡ người gặp khó khăn, chúng tôi học được bài học quý giá về kiên nhẫn, sáng tạo và khả năng thích ứng.\n \n3) phát triển kỹ năng giao tiếp và lãnh đạo: giúp nâng cao khả năng giao lưu ý kiến, lắng nghe và thể hiện quan điểm một cách rõ ràng và thuyết phục. nó cũng rèn luyện kỹ năng quản lý thời gian và tổ chức công việc hiệu quả.\n",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -129,8 +129,8 @@
     },
     {
       "role": "ai",
-      "text": "mình rất vui được trò chuyện và hỗ trợ bạn. mình ở đây để lắng nghe, chia sẻ cảm xúc của bạn một cách chân thành nhất.",
-      "model": "sft1_100M.pt"
+      "text": "đối xử với nhau một cách chân thành, tử tế và tôn trọng là nền tảng của mối quan hệ.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -139,8 +139,8 @@
     },
     {
       "role": "ai",
-      "text": "hãy bắt đầu bằng việc xác định rõ mục tiêu của bạn. đặt ra những mục tiêu cụ thể, đo lường được và có thời hạn cụ thể (ví dụ: tiết kiệm ít nhất 30 phút mỗi ngày). sau đó, tập trung vào những gì thực sự quan trọng hoặc cần thiết cho cuộc sống hàng ngày. đừng quên dành thời gian cho sở thích cá nhân như đọc sách, nghe nhạc, xem phim, hoặc tham gia các hoạt động ngoại khóa mà bạn yêu thích. cuối cùng, hãy kiên nhẫn và không bỏ cuộc khi gặp khó khăn. điều quan trọng là duy trì thái độ tích cực và kiên trì trong quá trình phát triển bản thân.",
-      "model": "sft1_100M.pt"
+      "text": "để hình thành một thói quen tốt, bạn có thể thực hiện các bước sau:\n\n1. đặt mục tiêu rõ ràng và cụ thể: xác định những gì bạn muốn đạt được trong cuộc sống hoặc công việc của mình. điều này giúp tập trung vào những gì quan trọng nhất đối với bạn.\n2. lập kế hoạch hàng ngày: tạo ra một lịch trình chi tiết để theo dõi tiến độ của bạn. phân chia thời gian cho các hoạt động khác nhau như công việc, học tập, gia đình và thư giãn.\n3. tìm kiếm sự hỗ trợ: nếu cần thiết, hãy nhờ sự giúp đỡ từ người thân, bạn bè hoặc chuyên gia tư vấn. họ có thể cung cấp lời khuyên, gợi ý và hướng dẫn để giúp bạn xây dựng thói quen tích cực.\n4. kiên nhẫn và kiên trì: thói quen mới có thể mất thời gian để hình thành. đừng nản lòng khi gặp khó khăn ban đầu, hãy tiếp tục cố gắng và không bỏ cuộc dễ dàng.\n5. đánh giá và điều chỉnh: thường xuyên xem xét lại thói quen của bạn và điều sửa nếu cần. hãy nhớ rằng mỗi người có cách riêng để phát triển thói quen, vì vậy hãy thử nghiệm và tìm ra phương pháp phù hợp nhất với bản thân bạn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -149,8 +149,8 @@
     },
     {
       "role": "ai",
-      "text": "chào bạn! đây là một số gợi ý để bắt đầu ngày mới:\n\n1. thức dậy sớm và chuẩn bị cho giấc ngủ: đảm bảo bạn có đủ thời gian nghỉ ngơi, ăn uống lành mạnh và thực hiện các hoạt động thư giãn như đọc sách hoặc nghe nhạc nhẹ nhàng.\n2. tập thể dục: dành ít nhất 30 phút mỗi ngày để vận động cơ thể, chẳng hạn như đi bộ, chạy, yoga hoặc tham gia lớp thể dục nhóm. điều này giúp tăng cường sức khỏe tim mạch, giảm căng thẳng và cải thiện tâm trạng tổng quát.\n3. thiết lập mục tiêu rõ ràng: xác định những gì bạn muốn đạt được trong ngày, ví dụ như hoàn thành công việc quan trọng, học thêm kỹ năng mới, hay đặt ra mục tiêu cụ thể cho bản thân.\n4. tạo không gian làm việc sạch sẽ: dọn dẹp nhà cửa, lau chùi bụi bẩn và sắp xếp bàn làm việc sao cho gọn gàng và sạch sẽ.\n5. chăm sóc tinh thần: dành thời gian cho sở thích cá nhân như xem phim, nghe nhạc yêu thích, viết nhật ký, hoặc thực hiện bất kỳ hoạt động giải trí nào mà bạn thích.\n6. xây dựng mối quan hệ xã hội tích cực: kết nối với người thân, bạn bè và đồng nghiệp để chia sẻ niềm vui và khó khăn trong cuộc sống hàng ngày.\n7. hãy nhớ rằng sự cân bằng giữa công việc và cuộc sống cá nhân là rất quan trọng để duy trì hạnh phúc cả về mặt tinh thần lẫn vật chất.",
-      "model": "sft1_100M.pt"
+      "text": "một thói quen buổi sáng tốt nên có là uống một ly nước lọc hoặc trà thảo mộc không đường để khởi đầu ngày mới đầy năng lượng.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -159,8 +159,8 @@
     },
     {
       "role": "ai",
-      "text": "để cân bằng cả học tập lẫn giải trí, bạn cần thực hiện các bước sau: thứ nhất, xác định rõ mục tiêu học tập của mình, ví dụ như hoàn thành một khóa học ngắn hạn trong khoảng thời gian nhất định (ví dụ 15-30 phút mỗi ngày). thứ hai, tạo ra môi trường học tập thoải mái, có đủ ánh sáng tự nhiên hoặc sử dụng thiết bị điện tử phù hợp. thứ ba, tận dụng các công cụ hỗ trợ như sách giáo trình, ứng dụng di động hoặc phần mềm quản lý thời gian để theo dõi tiến độ học tập, từ đó điều chỉnh kế hoạch khi cần thiết. thứ tư, kết nối với gia đình, bạn bè hoặc đồng nghiệp để cùng chia sẻ cảm xúc cũng là cách hiệu quả để duy trì sự gắn bó lâu dài. cuối cùng, đừng quên dành thời gian cho sở thích cá nhân như đọc sách, nghe nhạc, xem phim hay tham gia các hoạt động ngoại khoá để tăng cường sức khỏe tinh thần. áp dụng những nguyên tắc này sẽ giúp bạn nâng cao chất lượng cuộc sống và giảm căng thẳng hàng ngày.",
-      "model": "sft1_100M.pt"
+      "text": "để cân bằng giữa học tập và giải trí, điều quan trọng là tạo ra một lịch trình hợp lý. hãy ưu tiên các hoạt động thú vị mà bạn thích như đọc sách, xem phim, nghe nhạc, hoặc tham gia vào sở thích cá nhân của mình. đặt giới hạn rõ ràng cho việc sử dụng thiết bị điện tử trước khi đi ngủ để tránh gián đoạn giấc ngủ. ngoài ra, đừng quên dành thời gian nghỉ ngơi đầy đủ để cơ thể có thời gian phục hồi và tái tạo năng lượng.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -169,8 +169,8 @@
     },
     {
       "role": "ai",
-      "text": "để ghi nhớ một bài học tốt hơn, bạn có thể áp dụng các phương pháp sau: thứ nhất, hãy tạo ra một môi trường học tập yên tĩnh và không bị xao lạc để tránh cảm giác lo lắng hoặc căng thẳng. thứ hai, sử dụng kỹ thuật ghi chú như viết nhật ký, tóm tắt ngắn gọn những điểm quan trọng trong bài học. thứ ba, kết hợp việc ôn lại kiến thức đã học vào lịch trình hàng ngày để củng cố trí nhớ dài hạn. thứ tư, tham gia các khóa học trực tuyến hoặc nhóm thảo luận với người khác để mở rộng vốn từ vựng và cải thiện khả năng ghi nhớ của mình. cuối cùng, thực hành thường xuyên là chìa khóa để duy trì sự kiên nhẫn và kỷ luật trong quá trình học. bằng cách áp dụng những gợi ý này, bạn sẽ nhanh chóng nắm bắt được nội dung bài học một cách hiệu quả và tăng cường sự tự tin khi tiếp thu thông tin mới.",
-      "model": "sft1_100M.pt"
+      "text": "để ghi nhớ bài học hiệu quả hơn, bạn có thể áp dụng một số mẹo sau: 1. tạo kế hoạch ôn tập đều đặn: lập lịch ôn tập vào các khoảng thời gian khác nhau trong ngày để củng cố kiến thức và nắm vững nội dung mới. 2. sử dụng phương pháp ghi chú hoặc tóm tắt: ghi lại những điểm quan trọng giúp tăng khả năng ghi nhớ và hiểu sâu hơn về nội dung. 3. dùng hình ảnh và sơ đồ tư duy: hỗ trợ việc ghi nhớ thông tin bằng cách liên kết các khái niệm với hình ảnh hoặc sơ đồ sẽ giúp kích hoạt trí nhớ tốt hơn. 4. tổ chức theo chủ đề rõ ràng: chia bài học thành các phần nhỏ, dễ quản lý giúp dễ dàng tiếp thu và ghi nhớ lâu dài. 5. phân chia công việc hợp lý: chia nhỏ nhiệm vụ lớn thành các bước cụ thể giúp tránh cảm giác quá tải và giữ sự tập trung cao độ. 6. lặp lại và ôn luyện thường xuyên: thực hành ôn tập định kỳ giúp củng cố trí nhớ và xử lý thông tin nhanh chóng hơn. áp dụng đồng thời nhiều cách trên sẽ giúp bạn ghi nhớ kiến thức hiệu quả và nâng cao kỹ năng học tập của mình.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -179,8 +179,8 @@
     },
     {
       "role": "ai",
-      "text": "đọc sách không chỉ là một hoạt động giải trí mà còn mang lại nhiều lợi ích cho sức khỏe và tinh thần của chúng ta. dưới đây là một số lý do tại sao việc đọc sách quan trọng:\n\n1. mở rộng tri thức: đọc sách giúp bạn tiếp cận kiến thức mới, khám phá các chủ đề khác nhau như lịch sử, khoa học, văn hóa, nghệ thuật và nhiều lĩnh vực khác. điều này giúp bạn hiểu sâu hơn về thế giới xung quanh và phát triển khả năng tư duy phản biện.\n\n2. nâng cao vốn từ vựng và kỹ năng viết: khi đọc sách, bạn sẽ gặp phải những từ ngữ phong phú và cấu trúc câu phức tạp, giúp cải thiện khả năng diễn đạt ý tưởng và truyền tải thông tin một cách hiệu quả. ngoài ra, đọc sách cũng khuyến khích sự sáng tạo và logic trong việc phân tích, suy luận và đưa ra quyết định sáng suốt.",
-      "model": "sft1_100M.pt"
+      "text": "đọc sách thường xuyên mang lại nhiều lợi ích quan trọng cho sự phát triển cá nhân và trí tuệ của chúng ta. dưới đây là một số lý do tại sao nên đọc sách thường trực:\n\n1. mở rộng kiến thức: đọc sách giúp bạn tiếp cận với các thông tin mới, khám phá thế giới xung quanh mình và nâng cao hiểu biết về nhiều lĩnh vực khác nhau như khoa học, lịch sử, văn hóa, nghệ thuật và nhiều hơn nữa.\n\n2. phát triển vốn từ vựng và kỹ năng ngôn ngữ: khi đọc sách, bạn sẽ gặp phải những từ ngữ mới, cấu trúc câu phức tạp và cách diễn đạt sáng tạo trong việc sử dụng ngôn ngữ. điều này giúp cải thiện khả năng giao tiếp và biểu đạt ý tưởng của bạn.\n \n3. kích thích tư duy sáng tạo: sách thường chứa những ý tưởng mới mẻ và độc đáo mà bạn có thể áp dụng vào cuộc sống hàng ngày. điều đó thúc đẩy sự sáng tạo và khả năng giải quyết vấn đề của bạn, đồng thời khuyến khích tư duy phản biện và suy nghĩ sâu sắc.\n",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -189,8 +189,8 @@
     },
     {
       "role": "ai",
-      "text": "để duy trì độ bền và tuổi thọ của các vật dụng cá nhân, bạn cần lưu ý một số điểm quan trọng sau:1. bảo quản đúng cách: đảm bảo đồ dùng được bảo quản ở nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp và nhiệt độ quá cao gây hư hỏng nhanh chóng.2. vệ sinh định kỳ: lau chùi bề mặt đồ dùng thường xuyên để loại bỏ bụi bẩn, dầu mỡ và vi khuẩn tích tụ trên bề mặt.3. sử dụng chất tẩy rửa phù hợp: chọn sản phẩm không chứa hóa chất độc hại như xà phòng mạnh hoặc thuốc trừ sâu có thể giúp ngăn ngừa sự phát triển của nấm mốc.4. hạn chế tiếp xúc với môi trường ô nhiễm: tránh tiếp xúc trực tiếp với thực phẩm tươi sống (như rau củ quả) vì chúng có thể ảnh hưởng đến sức khỏe người dùng.5. bảo dưỡng định kỳ theo hướng dẫn của nhà sản xuất: thường xuyên kiểm tra và thay thế các bộ phận bị hư hỏng do ẩm ướt hay côn trùng gây ra để đảm bảo an toàn và hiệu suất tối ưu.6. bảo vệ chống tia uv: sử dụng kem chống nắng có chỉ số spf phù hợp để bảo vệ da khỏi tác động của tia cực tím (uv) từ ánh sáng mặt trời.7. đọc kỹ nhãn mác sản phẩm trước khi mua: đọc kỹ hướng dẫn sử dụng để hiểu rõ về thành phần và thời gian sử dụng.8. bảo mật thông tin cá nhân: tránh chia sẻ thông tin nhạy cảm với người thân, bạn bè hoặc đồng nghiệp để giảm nguy cơ rò rỉ thông tin.9. tuân thủ quy tắc an toàn thực phẩm nghiêm ngặt: luôn tuân thủ các quy định về an toàn vệ sinh thực phẩm trong quá trình sử dụng thực phẩm để tránh ngộ độc thực phẩm.những thói quen này sẽ giúp kéo dài tuổi thọ và bảo vệ sức khỏe cho bản thân cũng như cộng đồng. nếu gặp khó khăn, hãy tham khảo ý kiến bác sĩ hoặc chuyên gia dinh dưỡng để được tư vấn cụ thể và chính xác nhất.",
-      "model": "sft1_100M.pt"
+      "text": "để giữ gìn đồ dùng cá nhân bền lâu, bạn cần thực hiện các bước sau: 1. bảo quản đúng cách: luôn cất giữ đồ dùng ở nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp và nhiệt độ cao để kéo dài thời gian sử dụng. 2. vệ sinh định kỳ: thường xuyên lau chùi bề mặt đồ dùng bằng nước ấm pha chút xà phòng nhẹ hoặc dung dịch làm sạch chuyên dụng để loại bỏ vi khuẩn và bụi bẩn tích tụ. 3. lưu trữ trong hộp hoặc túi kín khí: khi không sử dụng, nên đặt chúng vào ngăn đá tủ lạnh hoặc bọc màng bọc thực phẩm để hạn chế mất chất dinh dưỡng và duy trì độ ẩm ổn định. 4. kiểm tra hạn sử dụng: đảm bảo đồ dùng được bảo quản ở nhiệt độ phù hợp (thường từ 6 đến 8°c) để kéodài tuổi thọ thiết bị. 5. tránh tiếp xúc với hóa chất độc hại: hạn chế để đồ dùng tiếp xúc trực tiếp với ánh sáng mặt trời hoặc nguồn nhiệt mạnh vì có thể gây hư hỏng hoặc ăn mòn. 6. sử dụng vật liệu an toàn: chọn đồ dùng làm từ vật liệu chống thấm nước, chịu va đập tốt để giảm thiểu nguy cơ trầy xước và hư hỏng do tiếp xúc lâu ngày. 7. bảo trì định kỳ theo hướng dẫn của nhà sản xuất: việc sửa chữa hay thay thế đồ dùng cần được thực hiện bởi kỹ thuật viên chuyên nghiệp để đảm bảo an toàn và hiệu quả sử dụng lâu dài. tuân thủ những nguyên tắc trên sẽ giúp đồ dùng của bạn luôn bền đẹp, hoạt động ổn định và kéo dài tuổi thọ.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -199,8 +199,8 @@
     },
     {
       "role": "ai",
-      "text": "hãy bắt đầu bằng việc xác định mục tiêu rõ ràng và ưu tiên công việc quan trọng nhất. đặt ra những mục tiêu cụ thể mà bạn muốn đạt được, ví dụ như hoàn thành một dự án nhỏ trong thời gian ngắn trước khi chuyển sang nhiệm vụ tiếp theo. sử dụng kỹ thuật quản lý thời gian như pomodoro (chia công việc thành các đơn vị nhỏ hơn rồi nghỉ ngơi) để tăng năng suất làm việc. ngoài ra, hãy tìm kiếm sự hỗ trợ từ người thân, bạn bè hoặc đồng nghiệp để chia sẻ cảm xúc của mình với họ. cuối cùng, đừng quên dành thời gian cho bản thân để thư giãn và tái tạo năng lượng tích cực.",
-      "model": "sft1_100M.pt"
+      "text": "để tạo động lực học tập mỗi ngày, bạn có thể áp dụng các phương pháp sau:\n1. lập kế hoạch và ưu tiên công việc: xác định những nhiệm vụ quan trọng nhất cần hoàn thành trong ngày và sắp xếp thời gian một cách hợp lý để đạt được mục tiêu đó.\n2. tạo ra môi trường học tập tốt: tìm một không gian yên tĩnh, thoáng đãng và thoải mái để làm việc mà không bị xao lạc bởi tiếng ồn hay sự xao lạc từ bên ngoài.\n3. sử dụng kỹ thuật quản lý thời gian: áp dụng quy tắc 80/20 (nguyên tắc pareto) để phân chia công việc thành các phần nhỏ hơn, dễ quản lý và tập trung vào từng phần một.\n4. đặt mục tiêu cụ thể và đo lường tiến độ: thiết lập mục tiêu rõ ràng cho mỗi buổi học và theo dõi tiến trình đạt được. điều này sẽ giúp bạn duy trì động lực và tiếp tục nỗ lực trong quá trình học tập.",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786913804.1708689,

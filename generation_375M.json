@@ -1,0 +1,37 @@
+{
+  "checkpoint": "sft1_375M.pt",
+  "checkpoint_sha256": "4a35629f89139de3ef62a63261ac5d8cdb8bad23c43658640bd923057faca0b1",
+  "tokenizer_repository": "thongbuind/SAI_100M",
+  "tokenizer_revision": "9b41bf35b808943d0d43f5092e259a25b25ff8c4",
+  "tokenizer_sha256": "3eb2e8f55e0472fbe6c5f597d601746934e69542b5238a18852132761c03a9ac",
+  "source_repository": "https://github.com/thongbuind/SAI_dev2",
+  "source_revision": "f41f20820322e86260ec37f4da3326a06a375fcf",
+  "generation_config": {
+    "strategy": "auto",
+    "max_new_tokens": 500,
+    "beam_size": 5,
+    "stable_steps": 8,
+    "temperature": 0.8,
+    "top_k": 0,
+    "top_p": 0.95,
+    "repetition_penalty": 1.2,
+    "no_repeat_ngram_size": 3,
+    "length_penalty": 1.0,
+    "lowercase": true,
+    "seed": null,
+    "stop_sequences": []
+  },
+  "context": "independent user prompts, no system prompt or conversation history",
+  "device": "mps",
+  "dtype": "float16",
+  "torch_version": "2.14.1",
+  "beam_scoring_device": "cpu",
+  "beam_scoring_dtype": "float32",
+  "source_patches": [
+    "Reorder only the used KV cache prefix (same values)"
+  ],
+  "parameter_count": 375194624,
+  "unique_questions": 510,
+  "answer_count": 680,
+  "session_count": 43
+}

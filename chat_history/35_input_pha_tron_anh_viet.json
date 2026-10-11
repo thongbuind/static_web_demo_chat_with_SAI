@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho tôi biết bạn đang làm gì để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "vui lòng cung cấp thêm thông tin về bộ phim hoặc chương trình bạn đang đề cập để tôi có thể trả lời.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "xin lỗi, tôi không thể cung cấp thông tin thời gian thực hoặc cập nhật theo yêu cầu của bạn. vui lòng liên hệ trực tiếp với bộ phận chăm sóc khách hàng của chúng tôi để được hỗ trợ cụ thể.",
-      "model": "sft1_100M.pt"
+      "text": "bạn cần cung cấp thêm thông tin về \"meeting ngày mai lúc mấy giờ\" để tôi có thể trả lời.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho tôi biết tên sản phẩm hoặc dịch vụ mà bạn đang đề cập để tôi có thể cung cấp thông tin chi tiết và chính xác nhất.",
-      "model": "sft1_100M.pt"
+      "text": "bạn vui lòng cho tôi biết bạn đang muốn hỏi về sản phẩm nào để tôi có thể trả lời.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "có, bạn hoàn toàn có thể sử dụng app store để tải về và cài đặt các ứng dụng từ cửa hàng ứng dụng của mình.",
-      "model": "sft1_100M.pt"
+      "text": "xin lỗi, như một mô hình ngôn ngữ ai, tôi không thể truy cập trực tiếp vào trang web hoặc tài liệu cụ thể. tuy nhiên, bạn có thể tìm kiếm trên internet bằng cách nhập từ khóa \"apple\" vào công cụ tìm kiếm để xem thông tin chi tiết về sản phẩm và dịch vụ của họ.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "có, bạn hoàn toàn có thể truy cập vào các trang web và ứng dụng liên quan đến công nghệ để xem thông tin chi tiết về một chủ đề cụ thể. bạn chỉ cần nhập địa chỉ email hoặc số điện thoại của người dùng (ví dụ: example@example.com), sau đó đăng ký tài khoản bằng cách cung cấp thông tin cá nhân như tên, ngày sinh, giới tính, vv. ngoài ra, bạn cũng có thể sử dụng chức năng tìm kiếm trên trang web để tìm hiểu thêm về chủ đề mà bạn quan tâm. tuy nhiên, hãy đảm bảo kiểm tra lại chính sách quyền riêng tư của trang web trước khi chia sẻ thông tin với cộng đồng trực tuyến để tránh vi phạm bản quyền.",
-      "model": "sft1_100M.pt"
+      "text": "chắc là anh lại nhớ chị uyên à",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "vâng, chúc bạn một ngày hiệu quả và vui vẻ.",
-      "model": "sft1_100M.pt"
+      "text": "vâng, tôi đã hiểu yêu cầu của bạn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -69,8 +69,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cung cấp cái file để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "bạn vui lòng cung cấp thêm đối tượng, văn bản hoặc hình ảnh cụ thể để tôi trả lời chính xác.",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786914906.977321,

@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "mùa hè là khoảng thời gian nhiệt độ cao nhất trên trái đất, với nhiệt độ trung bình dao động từ 25 đến 39 độ c. điều này ảnh hưởng lớn đến sức khỏe của con người vì nó làm tăng nguy cơ mắc các bệnh về đường hô hấp như hen suyễn và ung thư da.",
-      "model": "sft1_100M.pt"
+      "text": "vào mùa hè, miền bắc việt nam thường nóng và ẩm. nhiệt độ có thể lên tới 38-40 độ c vào những ngày nắng gắt nhất. người dân hạn chế ra ngoài vào buổi trưa và uống nhiều nước để tránh bị say nắng.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "đọc sách hàng ngày mang lại nhiều lợi ích cho sức khỏe cả về mặt thể chất lẫn tinh thần. nó không chỉ là một hoạt động giải trí mà còn có tác dụng kích thích não bộ, cải thiện sự tập trung và giảm căng thẳng. bên cạnh đó, việc đọc sách cũng khuyến khích tư duy sáng tạo và phát triển khả năng phân tích thông tin tốt hơn.",
-      "model": "sft1_100M.pt"
+      "text": "đọc sách mỗi ngày giúp con người mở rộng vốn từ vựng, rèn luyện khả năng tư duy và tăng cường trí tưởng tượng. ngoài ra, đọc sách trước khi ngủ còn giúp thư giãn tinh thần và cải thiện chất lượng giấc ngủ.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "internet đã mở ra cánh cửa cho sự kết nối toàn cầu, giúp mọi người dễ dàng trao đổi ý kiến, chia sẻ thông tin và xây dựng mối quan hệ cá nhân trên khắp thế giới.",
-      "model": "sft1_100M.pt"
+      "text": "internet đã thay đổi cách con người giao tiếp và làm việc. nhờ internet, mọi người có thể trò chuyện với nhau chỉ trong vài giây.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "r rừng ngập mặn là môi trường sống tự nhiên quan trọng cho sự phát triển bền vững của các hệ sinh thái ven biển. nó cung cấp nguồn thức ăn phong phú cho hàng triệu người dân địa phương và hỗ trợ quá trình đô thị hóa diễn ra nhanh chóng. ngoài ra, rừng còn có khả năng hấp thụ carbon dioxide (co2) hiệu quả hơn so với các khu vực khác trên trái đất. điều này góp phần nâng cao chất lượng cuộc sống của cộng đồng ven biển và duy trì cân bằng sinh thái toàn cầu.",
-      "model": "sft1_100M.pt"
+      "text": "rừng ngập mặn là hệ sinh thái quan trọng trong việc bảo vệ bờ biển khỏi xói mòn, giúp hấp thụ khí co2 và giảm biến đổi khí hậu.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "tết là dịp để mọi người quây quần bên gia đình, thưởng thức những món ăn truyền thống và chia sẻ niềm vui với nhau trong không khí ấm cúng.",
-      "model": "sft1_100M.pt"
+      "text": "tết nguyên đán là dịp lễ quan trọng nhất trong năm của người việt nam. đây là thời điểm các gia đình sum họp, dọn dẹp nhà cửa, chuẩn bị mâm cỗ và cùng nhau đón chào một năm mới an lành.",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786914649.729516,

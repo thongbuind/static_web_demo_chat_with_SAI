@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "hiện tại, giá vàng thế giới dao động trong khoảng từ 1.500 đến 2.000 usd/ounce tùy thuộc vào thị trường quốc tế và tình hình kinh tế toàn cầu. để biết chính xác giá vàng hiện tại ở đâu, bạn nên tra cứu trực tiếp trên trang web của các tổ chức tài chính uy tín như ngân hàng trung ương châu âu (ecb) hoặc quỹ tiền tệ quốc tế (imf). thông tin chi tiết về giá vàng có thể thay đổi theo thời gian, vì vậy hãy tham khảo ý kiến của chuyên gia tài chính trước khi đưa ra quyết định cuối cùng.",
-      "model": "sft1_100M.pt"
+      "text": "xin lỗi, tôi không thể cung cấp thông tin về giá vàng hôm nay. vui lòng tra cứu trên các trang web tài chính hoặc sử dụng ứng dụng di động để biết giá vàng hiện tại và cập nhật nhất.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "xin lỗi, tôi không thể cung cấp thông tin cụ thể về ngày hôm nay. vui lòng cho tôi biết bạn đang đề cập đến ngày nào để tôi có thể trả lời câu hỏi của bạn một cách chính xác nhất.",
-      "model": "sft1_100M.pt"
+      "text": "hôm nay là ngày 24 tháng 11 năm 2023.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho tôi biết bạn đang muốn hỏi về trận đấu nào để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "bạn vui lòng cho tôi biết bạn đang muốn hỏi về trận bóng đá nào.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "xin lỗi, tôi không thể cung cấp thông tin thời tiết cụ thể cho bạn. vui lòng liên hệ với cơ quan khí tượng hoặc trung tâm dự báo thời tiết để biết thông tin chi tiết về thời tiết hiện tại của hà nội.",
-      "model": "sft1_100M.pt"
+      "text": "xin lỗi, tôi không thể cung cấp thông tin về thời tiết hiện tại ở hà nội vì đây là một mô hình ngôn ngữ và không có khả năng trực tiếp truy cập vào dữ liệu thời tiết thực tế. tuy nhiên, bạn có thể sử dụng các ứng dụng dự báo thời tiết trên điện thoại di động hoặc trang web chuyên về dự báo khí tượng để biết thông tin chi tiết về thời gian, nhiệt độ, độ ẩm, tốc độ gió và điều kiện thời tiết trong ngày mai ở hànội.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "đội tuyển bóng đá quốc gia pháp đã giành chức vô địch thế giới lần đầu tiên vào năm 1954.",
-      "model": "sft1_100M.pt"
+      "text": "đội vô địch world cup 2018 là đội tuyển pháp.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "dựa trên thông tin bạn cung cấp, tôi không thể đưa ra giá bán chính xác cho tất cả các loại xăng dầu. vui lòng kiểm tra trực tiếp trên trang web của nhà sản xuất hoặc liên hệ với đại lý để được tư vấn chi tiết và cập nhật nhất về giá xăng dầu hiện tại.",
-      "model": "sft1_100M.pt"
+      "text": "tôi không có quyền truy cập vào dữ liệu giá cả thời gian thực của các loại nhiên liệu cụ thể như xăng, dầu.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -69,8 +69,8 @@
     },
     {
       "role": "ai",
-      "text": "vâng, tôi rất vui khi nghe điều đó. bạn có thể chia sẻ với tôi về những gì đã xảy ra trong ngày hôm nay được không? nếu có bất kỳ câu hỏi nào khác, xin hãy cho tôi biết nhé!",
-      "model": "sft1_100M.pt"
+      "text": "chắc chắn rồi. bạn có nhớ cuộc trò chuyện hôm qua không?",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786914945.9700058,

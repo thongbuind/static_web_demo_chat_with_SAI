@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "mặt trời là ngôi sao trung tâm của hệ mặt trời, nằm ở vị trí cách trái đất khoảng 360 năm ánh sáng. đây là một trong những nguồn năng lượng chính cho sự sống trên hành tinh chúng ta và các loài sinh vật khác. mặt trời không chỉ cung cấp năng lượng để duy trì sự sống mà còn đóng vai trò quan trọng trong việc điều hòa khí hậu toàn cầu.",
-      "model": "sft1_100M.pt"
+      "text": "mặt trời quay quanh trái đất do tác động của lực hấp dẫn. mặt trời có khối lượng rất lớn và tạo ra ánh sáng và nhiệt độ cần thiết để duy trì sự sống trên hành tinh chúng ta.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "mắt của chúng ta là một trong những bộ phận quan trọng nhất trên cơ thể, đóng vai trò cực kỳ quan trọng đối với sức khỏe và sự phát triển toàn diện.\n\nvề mặt thị giác, mắt giúp chúng ta nhìn rõ hơn các vật thể xung quanh, từ đó nhận biết được môi trường xung quanh và tìm kiếm thức ăn. ngoài ra, mắt còn cung cấp thông tin về vị trí, kích thước và cấu trúc của các tế bào thần kinh (neurons) trong não bộ. tóm lại, mắt cho phép chúng ta tương tác hiệu quả với môi trường bên ngoài, hỗ trợ quá trình học tập và giao tiếp xã hội.",
-      "model": "sft1_100M.pt"
+      "text": "con người chỉ có 1 mắt vì não bộ của chúng ta không thể xử lý tất cả các thông tin thị giác, bao gồm hình ảnh và âm thanh từ môi trường xung quanh.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "nước đóng băng là một quá trình tự nhiên xảy ra khi nhiệt độ không khí giảm xuống dưới điểm đóng băng, dẫn đến sự ngưng tụ hơi nước thành các tinh thể băng nhỏ. quá trình này diễn ra liên tục và kéo dài hàng triệu năm.",
-      "model": "sft1_100M.pt"
+      "text": "nước đóng băng ở 100 độ c là kết quả của quá trình chuyển pha từ thể rắn sang thể lỏng khi nhiệt độ giảm xuống dưới 0°c.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "việt nam là một quốc gia nằm ở đông nam á, nổi tiếng với cảnh quan thiên nhiên tuyệt đẹp và đa dạng sinh học phong phú.",
-      "model": "sft1_100M.pt"
+      "text": "việt nam không có biển vì nước này nằm trong vùng đặc quyền kinh tế và thềm lục địa của nhiều quốc gia.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "con cá có khả năng thở bằng cách sử dụng hệ thống hô hấp và phổi để duy trì sự sống. quá trình này diễn ra chủ yếu thông qua việc hít vào và thở ra, giúp cơ thể tạo ra oxy cần thiết cho các hoạt động hàng ngày của chúng ta. ngoài ra, nó cũng đóng vai trò quan trọng trong việc điều chỉnh nhiệt độ cơ thể và cung cấp oxy cho môi trường xung quanh. tóm lại, con cá là một phần không thể thiếu trong cuộc sống hàng ngày, mang lại nhiều lợi ích về sức khỏe và tinh thần.",
-      "model": "sft1_100M.pt"
+      "text": "việc con cá có thể thở trên cạn suốt cả ngày là một hiện tượng sinh lý rất phổ biến và thường được quan sát thấy ở các loài động vật có vú, đặc biệt trong môi trường sống của chúng.\n\ndưới đây là những lý do chính giải thích tại sao cá có khả năng thở trên mặt đất:\n\n### 1. điều hòa nhiệt độ cơ thể (thermoregulation)\n\n* **điều chỉnh thân nhiệt:** khi nhiệt độ môi trường giảm xuống thấp hơn mức trung bình, hệ thần kinh sẽ kích hoạt phản ứng \"chiến đấu hay bỏ chạy\" (fight or flight), làm tăng tốc độ trao đổi chất của cơ thể.\n* nó giúp duy trì nhiệt độ ổn định bên trong cơ thể, tránh tình trạng quá nóng hoặc quá lạnh đột ngột.\n</blockquote>",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "mèo là loài động vật thuộc họ mèo (felidae). chúng có kích thước trung bình, thân hình tròn trịa và bộ lông màu nâu sẫm. mèo thường được nuôi làm thú cưng vì tính cách hiền lành, dễ chăm sóc và thích sống gần gũi với con người. ngoài ra, mèo còn có khả năng học hỏi nhanh nhạy và thích nghi tốt với môi trường xung quanh. tuy nhiên, việc nuôi mèo đòi hỏi sự quan tâm đến sức khỏe và tình cảm của chủ nhân để đảm bảo an toàn và phát triển tốt nhất cho nó.",
-      "model": "sft1_100M.pt"
+      "text": "mèo là một loài động vật thuộc họ mèo (felidae) và có nhiều đặc điểm nổi bật. dưới đây là một số lý do tại sao mèo được coi là một trong những loài chim:\n\n1. kích thước lớn: mèo thường có kích thước trung bình đến lớn, với trọng lượng từ 20-35 kg cho con đực và từ 60-90 kg cho cá thể cái. điều này làm cho chúng trở thành lựa chọn phổ biến cho việc nuôi dưỡng và bảo vệ gia đình.\n\n2. lông mượt mà: lông của mèo rất mềm mại và dễ chăm sóc, giúp chúng giữ ấm cơ thể trong mùa đông lạnh giá. ngoài ra, mèo cũng có khả năng thay đổi màu sắc và hình dạng để phù hợp với môi trường sống khác nhau.\n \n3. tiếng kêu độc đáo: mèo có nhiều loại âm thanh khác nhau như kêu meo meo, la hét, gầm gừ và các dấu hiệu khác để giao tiếp với nhau hoặc tìm kiếm thức ăn. điều đáng chú ý nhất về tiếng kêu của mèo là chúng sử dụng cả hai tai để phát ra âm thanh.\n4. tính xã hội cao: mèo thích tương tác và gắn kết với người và các thành viên khác trong bầy. sự xã hội hóa này tạo nên mối quan hệ gần gũi giữa mèo và các cá thể khác trong đàn.\n5. chế độ ăn uống lành mạnh: chế độ dinh dưỡng cân đối và giàu chất dinh dưỡng đóng vai trò quan trọng trong việc duy trì sức khỏe tốt cho mèo. mèo cần ăn đủ các loại thực phẩm khác nhau mỗi ngày để đảm bảo cung cấp đầy đủ dinh dưỡng cho cơ thể.\n6. tình yêu và lòng trung thành: mèo là loài thú cưng thân thiện và trung thành. chúng luôn sẵn sàng ở bên cạnh chủ nhân trong mọi hoàn cảnh và mang lại niềm vui và sự an ủi cho gia đình nhỏ của mình.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -69,8 +69,8 @@
     },
     {
       "role": "ai",
-      "text": "một tuần là khoảng thời gian trong năm khi mặt trời ở vị trí cao nhất trên bầu trời và trái đất quay quanh trục của nó. vì vậy, một tuần thường bắt đầu từ thứ hai (thứ ba) và kết thúc vào chủ nhật (thứ sáu). tuy nhiên, để biết chính xác một tuần cụ thể có bao nhiêu ngày hay không, bạn nên kiểm tra lịch trình của mình.",
-      "model": "sft1_100M.pt"
+      "text": "một tuần có 10 ngày vì đây là chu kỳ sinh học tự nhiên của cơ thể và các quá trình sinh lý diễn ra liên tục trong suốt một năm. cụ thể, mỗi ngày bao gồm:\n\n- thứ hai đến thứ sáu: bắt đầu từ lúc mặt trời mọc (ngày thứ nhất) và kết thúc vào buổi tối (ngày chủ nhật).\n-thứ bảy đến chủ nhật: tiếp tục với các hoạt động hàng ngày như ăn sáng, tập thể dục, chuẩn bị cho công việc hoặc học tập tiếp theo.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -79,8 +79,8 @@
     },
     {
       "role": "ai",
-      "text": "hà nội, thủ đô và thành phố lớn nhất của việt nam, nổi tiếng với lịch sử lâu đời và văn hóa phong phú. dưới đây là một số điểm đáng chú ý về hà nội:\\n\\n1. hồ gươm: nằm ở trung tâm thành phố, hồ gươm có diện tích rộng lớn và là nơi tập trung nhiều hoạt động vui chơi giải trí. du khách có thể tham gia vào các buổi biểu diễn nghệ thuật truyền thống như múa rối nước hoặc đi thuyền trên sông hồng để tận hưởng không khí yên bình.\\n2. lăng chủ tịch hồ chí minh: được xây dựng từ năm 1945 đến nay, lăng bác đã trở thành di sản văn hóa thế giới của unesco. nó là nơi lưu giữ thi hài của người sáng lập đảng cộng sản việt nam và cũng là địa điểm tổ chức đại lễ kỷ niệm 100 năm cách mạng tháng tám (19-8).\\n3. đền ngọc sơn: đền này được coi là một trong những công trình kiến trúc tôn giáo quan trọng nhất tại việt nam. với kiến trúc độc đáo và giá trị lịch sử cao, đền này thu hút hàng triệu du khách mỗi năm. ngoài ra, hà nội còn được biết đến với ẩm thực đa dạng, bao gồm phở, bún chả, nem rán, bánh cuốn và nhiều món ăn khác.\\nhy vọng rằng hà nội sẽ mang lại cho bạn những trải nghiệm tuyệt vời khi khám phá vẻ đẹp và sự phồn thịnh của đất nước này!",
-      "model": "sft1_100M.pt"
+      "text": "hà nội là thủ đô của nước nhật bản vì đây là trung tâm chính trị, văn hóa và kinh tế quan trọng của đất nước.",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786914933.0561512,

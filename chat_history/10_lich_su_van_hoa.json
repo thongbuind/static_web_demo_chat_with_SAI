@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "quốc khánh nước cộng hòa xã hội chủ nghĩa việt nam được tổ chức vào ngày 2 tháng 9 năm 1945.",
-      "model": "sft1_100M.pt"
+      "text": "ngày quốc khánh việt nam là ngày 2 tháng 9.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "tuyên ngôn này được viết vào ngày 2 tháng 7 năm ất tỵ (tức ngày 30 tháng 6 dương lịch) tại quảng trường ba đình ở hà nội. đây là một sự kiện quan trọng trong lịch sử dân tộc việt nam, đánh dấu sự kết thúc của chế độ phong kiến và mở ra thời kỳ mới cho đất nước. tuyên ngôn đã trở thành biểu tượng của lòng yêu nước, tinh thần tự hào dân tộc và ý chí kiên cường chống ngoại xâm của nhân dân việt nam.",
-      "model": "sft1_100M.pt"
+      "text": "người đọc tuyên ngôn độc lập năm 1945 là chủ tịch hồ chí minh.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "t tết nguyên đán, hay còn gọi là lễ hội truyền thống của người việt nam, được tổ chức vào ngày mùng 1 tháng giêng âm lịch hàng năm. đây là một trong những ngày lễ quan trọng nhất và có ý nghĩa văn hóa sâu sắc đối với người dân việt nam.\n\ntrong dịp này, mọi người thường quây quần bên gia đình, bạn bè và cùng nhau thưởng thức các món ăn truyền thống như bánh chưng, bánh tét, nem rán, và các loại trái cây tươi ngon. đây không chỉ là thời điểm để sum họp gia đình mà còn là cơ hội để gắn kết tình cảm gia đình và thể hiện lòng biết ơn đối với tổ tiên. tết mang đến niềm vui, sự đoàn viên và hy vọng cho một năm mới an lành, thịnh vượng.",
-      "model": "sft1_100M.pt"
+      "text": "tết nguyên đán là lễ hội truyền thống quan trọng nhất của người việt, diễn ra vào ngày đầu tiên của năm mới theo lịch âm. đây là dịp để gia đình sum họp, tưởng nhớ tổ tiên và cầu mong những điều tốt đẹp cho năm mới.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "trong văn hóa việt nam, áo dài thường được coi là biểu tượng quốc gia và gắn liền với lịch sử dân tộc.",
-      "model": "sft1_100M.pt"
+      "text": "áo dài là trang phục truyền thống của việt nam, gắn liền với văn hóa và lịch sử dân tộc.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "năm 2018, việt nam đã trải qua nhiều ngày lễ quan trọng trong lịch sử. dưới đây là một số ngày lễ đáng chú ý:\n\n1. tết nguyên đán (tháng giêng): đây là dịp để gia đình sum họp bên nhau và chúc mừng năm mới. người dân thường tổ chức các hoạt động vui chơi truyền thống như xem múa lân, đốt pháo hoa và thưởng thức các món ăn truyền thống của đất nước.\n\n2. tết dương lịch (tháng 1): đây là thời điểm chuyển giao từ mùa xuân sang mùa hè, khi mọi người chuẩn bị cho một năm mới với nhiều hoạt động thú vị như đi du thuyền trên biển, tham dự các buổi biểu diễn nghệ thuật truyền thống, hoặc tận hưởng bữa tiệc cuối năm tại nhà hàng và quán cà phê địa phương.",
-      "model": "sft1_100M.pt"
+      "text": "việt nam có rất nhiều ngày lễ lớn. dưới đây là một số thông tin về các ngày lễ quan trọng:\n\n1. ngày giải phóng miền nam và thống nhất đất nước (30/4/1975):\n- ngày 30 tháng 4 năm 1969, chủ tịch hồ chí minh đọc bản tuyên ngôn độc lập tại quảng trường ba đình, hà nội, đánh dấu sự thành lập nước việt nam dân chủ cộng hòa.\n- vào ngày 2 tháng 9 năm 2006, thủ tướng chính phủ nguyễn tấn dũng đã ký quyết định công nhận thành phố đà nẵng trở thành thành phố trực thuộc trung ương.\n\n2. ngày quốc tế phụ nữ (8/3) và ngày quốc khánh (2/9):\n+ ngày 8 tháng 3 hàng năm được tổ chức để tôn vinh vai trò của phụ nữ trong xã hội và nâng cao vị thế của phụnữ trên toàn cầu.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "tết là ngày lễ truyền thống quan trọng của dân tộc việt nam, thể hiện lòng tri ân tổ tiên và cầu mong một năm mới an lành, thịnh vượng.",
-      "model": "sft1_100M.pt"
+      "text": "người việt nam thường lì xì vào dịp tết vì nhiều lý do văn hóa và tâm linh. thứ nhất, đây là dịp để gia đình sum họp, thể hiện lòng biết ơn đối với tổ tiên và các bậc tiền nhân đã sinh thành, dưỡng dục. việc lì xì không chỉ mang ý nghĩa may mắn mà còn tượng trưng cho sự trường thọ, sức khỏe dồi dào và mong ước một năm mới an lành, thịnh vượng. thứ hai, trong bối cảnh xã hội hiện đại ngày nay, lì xì cũng được xem như một cách thể hiện tình cảm, trách nhiệm và sự trân trọng đối với người khác. ngoài ra, hình thức lì xì phổ biến ở nhiều nước châu á như trung quốc (tết nguyên đán), hàn quốc (mùng 5 tháng giêng) hay nhật bản (ngày đầu tiên của năm mới). tổng kết lại, lì lì xì mang ýnghĩa sâu sắc về mặt tinh thần và văn hóa, thểhiện sự tôn kính đối với những điều tốt đẹp trong cuộc sống.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -69,8 +69,8 @@
     },
     {
       "role": "ai",
-      "text": "hoàng đế lý thái tổ (lý công uẩn) là vị hoàng đế đầu tiên của triều đại nhà lý, trị vì từ năm 1028 đến năm ất tỵ (1054-1079).",
-      "model": "sft1_100M.pt"
+      "text": "hai bà trưng là hai vị nữ anh hùng tiêu biểu của dân tộc việt nam trong lịch sử chống ngoại xâm.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -79,8 +79,8 @@
     },
     {
       "role": "ai",
-      "text": "trần hưng đạo là một nhà lãnh đạo quân sự và chính trị nổi tiếng trong lịch sử việt nam. ông đã đóng vai trò quan trọng trong cuộc kháng chiến chống lại thực dân pháp, giành độc lập cho đất nước vào năm 1945.",
-      "model": "sft1_100M.pt"
+      "text": "trần hưng đạo được ghi nhận là người đã lãnh đạo quân dân đại việt đánh bại quân nguyên mông xâm lược lần đầu vào năm 1285.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -89,8 +89,8 @@
     },
     {
       "role": "ai",
-      "text": "năm 1954 đánh dấu sự kết thúc của chiến tranh việt nam, khi quân đội nhân dân việt nam tiến hành cuộc tổng tiến công và nổi dậy tết mậu thân (1968). đây là một bước ngoặt quan trọng trong lịch sử kháng chiến chống mỹ cứu nước của việt nam.",
-      "model": "sft1_100M.pt"
+      "text": "chiến thắng điện biên phủ diễn ra vào ngày 7 tháng 5 năm 1954.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -99,8 +99,8 @@
     },
     {
       "role": "ai",
-      "text": "nguyễn du (1769-1820) là một trong những nhà văn nổi tiếng nhất trong lịch sử văn học việt nam.",
-      "model": "sft1_100M.pt"
+      "text": "truyện kiều là một tác phẩm văn học lớn của việt nam, được viết bằng thể thơ lục bát.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -109,8 +109,8 @@
     },
     {
       "role": "ai",
-      "text": "được tổ chức vào ngày mùng 10 tháng giêng âm lịch hàng năm tại khu di tích quốc gia đặc biệt đền hùng. đây là một trong những lễ hội truyền thống quan trọng của dân tộc việt nam, thu hút đông đảo người dân và du khách tham dự.",
-      "model": "sft1_100M.pt"
+      "text": "lễ hội đền hùng được tổ chức hàng năm vào ngày 10 tháng 3 âm lịch tại khu di tích quốc gia đặc biệt đền hùng, tỉnh phú thọ.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -119,8 +119,8 @@
     },
     {
       "role": "ai",
-      "text": "ở miền tây, chợ nổi không chỉ là nơi mua bán hàng hóa mà còn thu hút du khách bởi sự sầm uất và đa dạng của nền kinh tế địa phương. điểm đặc trưng nhất của chợ này chính là sự kết hợp hài hòa giữa truyền thống và hiện đại, tạo nên một trải nghiệm văn hóa phong phú cho người dân địa phương và du khách.\n\nngoài ra, chợ còn được biết đến với các món ăn đường phố phong phú như phở, bún chả, bánh xèo, mang lại cảm giác ấm cúng khi thưởng thức cùng gia đình và bạn bè. những món ăn này không chỉ ngon miệng mà còn thể hiện bản sắc văn hóa ẩm thực độc đáo của vùng đất này.",
-      "model": "sft1_100M.pt"
+      "text": "chợ nổi ở miền tây nam bộ có nhiều đặc điểm độc đáo, phản ánh sự kết hợp hài hòa giữa thiên nhiên và con người địa phương.\n\nvề mặt cảnh quan, chợ nổi thường được bao phủ bởi rừng ngập mặn với hệ sinh thái đa dạng, là nơi giao thoa văn hóa của các cộng đồng dân cư ven biển. không khí tại đây rất trong lành, mát mẻ và dễ chịu, mang lại cảm giác thư giãn tuyệt đối cho du khách. ngoài ra, chợ còn đóng vai trò quan trọng trong việc tạo nguồn thu nhập cho người dân địa phương thông qua các dịch vụ phụ trợ như mua bán hàng lưu niệm và các sản phẩm thủ công truyền thống.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -129,8 +129,8 @@
     },
     {
       "role": "ai",
-      "text": "câu tục ngữ \"trồng cây nhớ người trồng cây\" có ý nghĩa nhấn mạnh tầm quan trọng của việc giữ gìn và bảo vệ môi trường tự nhiên. nó nhắc nhở chúng ta về trách nhiệm của mỗi cá nhân trong việc chăm sóc và bảo tồn các loại cây, đồng thời khuyến khích sự phát triển bền vững của cộng đồng xung quanh chúng ta. bằng cách thực hiện những hành động nhỏ như tưới nước, bón phân hữu cơ hoặc tạo ra không gian xanh, chúng ta góp phần xây dựng một thế giới tốt đẹp hơn cho tất cả mọi người trên trái đất. điều này giúp duy trì cân bằng sinh thái, giảm thiểu tác động tiêu cực đến môi trường và đảm bảo một tương lai tươi sáng cho thế hệ sau.",
-      "model": "sft1_100M.pt"
+      "text": "câu tục ngữ \"ăn quả nhớ kẻ trồng cây\" có ý nghĩa sâu sắc và mang tính nhân văn cao. nó nhấn mạnh tầm quan trọng của việc giữ gìn những giá trị đạo đức, truyền thống và tinh thần tốt đẹp trong cuộc sống con người.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -139,8 +139,8 @@
     },
     {
       "role": "ai",
-      "text": "câu tục ngữ này nhấn mạnh tầm quan trọng của việc giữ gìn và bảo tồn các giá trị văn hóa truyền thống. nó nhắc nhở chúng ta về sự đoàn kết, lòng tự hào dân tộc và trách nhiệm chung trong cộng đồng.",
-      "model": "sft1_100M.pt"
+      "text": "câu tục ngữ \"uống nước nhớ nguồn\" có ý nghĩa sâu sắc trong văn hóa và đạo đức việt nam. nó thể hiện lòng biết ơn và tôn trọng đối với những người đã hy sinh, cống hiến cho đất nước vì nền độc lập, tự do của dân tộc.\n\ný nghĩa chính là nhắc nhở mọi người về giá trị của truyền thống tốt đẹp, lòng yêu nước và tinh thần đoàn kết để xây dựng một xã hội hòa bình, ổn định và phát triển bền vững. đây cũng là lời nhắc nhở rằng dù cuộc sống có khó khăn đến đâu, chúng ta vẫn luôn giữ gìn và trân quý những gì mình đang có.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -149,8 +149,8 @@
     },
     {
       "role": "ai",
-      "text": "tính đến năm 2024, việt nam là quốc gia đông dân nhất thế giới.",
-      "model": "sft1_100M.pt"
+      "text": "việt nam có tổng cộng 62 dân tộc chính thức được công nhận, trong đó người kinh chiếm đa số.",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786914063.1308234,

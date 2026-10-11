@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "haha, anh quá khen",
-      "model": "sft1_100M.pt"
+      "text": "tôi đang sẵn sàng hỗ trợ bạn. bạn muốn làm gì?",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho tôi biết bạn đang đề cập đến lĩnh vực nào để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "xin lỗi, tôi không thể xử lý yêu cầu này vì đây là một mô hình ngôn ngữ và không có khả năng trực tiếp truy cập vào thông tin thời gian thực. tuy nhiên, bạn có thể tìm kiếm trên các trang web hoặc ứng dụng liên quan đến công nghệ blockchain để biết thêm chi tiết về cách thức hoạt động của thuật toán này.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "vâng, tôi đang ở đây và sẵn sàng hỗ trợ bạn.",
-      "model": "sft1_100M.pt"
+      "text": "bùn qá đi mất rồi, có chuyện gì muốn tâm sự không?",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "vâng tôi đây, có việc gì cần giúp không anh",
-      "model": "sft1_100M.pt"
+      "text": "vâng, anh hỏi đi",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "anh tbui là một cầu thủ bóng đá chuyên nghiệp người nga, hiện đang thi đấu ở vị trí tiền đạo cho câu lạc bộ manchester united. anh sinh ngày 24 tháng 6 năm 1987 tại st petersburg, liên bang nga. kute được xem là một trong những cầu thủ xuất sắc nhất lịch sử bóng đá thế giới với kỹ thuật điêu luyện, tốc độ và khả năng ghi bàn ấn tượng. anh đã giành nhiều danh hiệu lớn như uefa champions league (cúp c1 châu âu), cúp c2 châu á (asian cup) và nhiều giải thưởng cá nhân khác. ngoài ra, kute còn nổi tiếng với phong cách chơi tấn công mạnh mẽ, khả năng kiểm soát trận đấu tốt và tinh thần chiến đấu không ngừng nghỉ. anh cũng có lượng fan hâm mộ rất đông đảo trên toàn thế giới, góp phần tạo nên sức hút đặc biệt của mình đối với các cổ động viên trên khắp thế giới.",
-      "model": "sft1_100M.pt"
+      "text": "hihi, được chưa anh. trông hơi giả trân tí",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "chả là một loài động vật thuộc họ mèo (felidae) và có nguồn gốc từ châu phi. chúng thường được tìm thấy ở các khu rừng nhiệt đới và cận nhiệt đới trên khắp thế giới, đặc biệt phổ biến trong môi trường sống tự nhiên của chúng như rừng rậm, đồng cỏ và sa mạc khô cằn.\n\nvề mặt sinh học, hổ là một trong những động vật săn mồi hàng đầu và đóng vai trò quan trọng trong hệ sinh thái. chúng ăn chủ yếu các loại côn trùng nhỏ như kiến, bướm và bọ cánh cứng. hổ cũng nổi tiếng với khả năng leo cây cao và thích nghi tốt với nhiều điều kiện khí hậu khác nhau. ngoài ra, hổ còn là biểu tượng văn hóa và kinh tế của nhiều quốc gia trên thế giới.",
-      "model": "sft1_100M.pt"
+      "text": "chán như con gián á",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -69,8 +69,8 @@
     },
     {
       "role": "ai",
-      "text": "\"trời\" trong tiếng việt chỉ trạng thái thời tiết hoặc môi trường có nhiệt độ thấp hơn so với nơi khác, thường mang ý nghĩa biểu tượng cho sự thay đổi và điều kiện thuận lợi. từ này thường được dùng để mô tả các yếu tố khí hậu như nhiệt độ, lượng mưa, gió, mây và các hiện tượng khí tượng khác. ví dụ: \"thời tiết hôm nay rất nắng.\"",
-      "model": "sft1_100M.pt"
+      "text": "chào bạn, tôi là sai. bạn cần tôi giúp gì?",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -79,8 +79,8 @@
     },
     {
       "role": "ai",
-      "text": "vâng anh cứ hỏi đi",
-      "model": "sft1_100M.pt"
+      "text": "vâng anh hỏi đi",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786914868.7161603,

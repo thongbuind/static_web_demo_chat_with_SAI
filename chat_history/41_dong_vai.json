@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "học bài là quá trình truyền đạt kiến thức, kỹ năng và giá trị từ người này sang người khác thông qua ngôn ngữ, cử chỉ hoặc các phương pháp giảng dạy phù hợp nhằm nâng cao hiệu quả học tập của học sinh. học bài không chỉ giúp phát triển tư duy logic mà còn rèn luyện khả năng phân tích, suy nghĩ sáng tạo và phản biện trong cuộc sống hàng ngày. đây là yếu tố quan trọng để xây dựng nền tảng vững chắc cho sự thành công trong học tập và phát triển cá nhân cũng như xã hội.",
-      "model": "sft1_100M.pt"
+      "text": "học sinh cần học bài vì kiến thức và kỹ năng là nền tảng cho sự thành công trong tương lai. dưới đây là các lý do chính:\n\n- phát triển tư duy phản biện (critical thinking): giúp học sinh phân tích, đánh giá thông tin một cách logic và có hệ thống. điều này khuyến khích khả năng suy luận và giải quyết vấn đề của học sinh.\n\n  - nâng cao kỹ năng giao tiếp và thuyết trình: biết lắng nghe, diễn đạt ý kiến một cách rõ ràng và tự tin khi nói chuyện với người khác. kỹ năng này rất quan trọng để truyền đạt thông điệp hiệu quả và xây dựng mối quan hệ tốt với đồng nghiệp và bạn bè.\n \n - nắm bắt cơ hội nghề nghiệp và thị trường lao động: hiểu về nhu cầu tuyển dụng, xu hướng thị trường và yêu cầu công việc từ nhiều ngành nghề giúp học trò định hình được vị trí phù hợp trong lĩnh vực mong muốn.\n",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "mình hiểu cảm giác của bạn lúc này. mình ở đây để lắng nghe và giúp đỡ bạn.",
-      "model": "sft1_100M.pt"
+      "text": "ôi, nghe có vẻ căng thẳng thật đấy. mình ở đây để lắng nghe và giúp bạn an ủi nhé.\n\nmột vài cách nhanh để ổn định tâm trạng ngay lúc này:\n- thở sâu 4-7-8: hít vào từ từ 4 giây, giữ 4, thở ra từ từ bằng 6–8 giây. lặp lại vài lần cho đến khi cảm thấy bớt căng thẳng.\n- nói chuyện với ai đó tin cậy hoặc một người bạn tin tưởng (bạn bè, gia đình) để được hỗ trợ tinh thần. đôi khi chỉ cần nói “không sao đâu” cũng đủ rồi.\nnếu cảm giác quá tải kéo dài nhiều ngày hoặc ảnh hưởng sinh hoạt hàng ngày, hãy cân nhắc gặp bác sĩ hoặc chuyên gia tâm lý để được tư vấn thêm.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "hà nội, thủ đô của việt nam, nổi tiếng với vẻ đẹp tự nhiên tuyệt vời và văn hóa đa dạng. dưới đây là một số điểm đến hấp dẫn mà bạn không thể bỏ qua khi khám phá hà nội:\n\n1. hồ gươm: nằm ở trung tâm thành phố, hồ gươm là biểu tượng của hà nội và được unesco công nhận là di sản thế giới vào năm 1982. nơi này có những con đường nhỏ hẹp, cây cầu gỗ cổ kính và kiến trúc độc đáo.\n\n2. văn miếu - quốc tử giám: đây là ngôi đền lớn nhất và quan trọng nhất tại hà nội, được xây dựng từ thế kỷ thứ 11 đến thế kỷ 14. đây là nơi tôn vinh các học giả và nhà nghiên cứu văn hóa của triều đại lý - trần. ngoài ra, bảo tàng dân tộc học việt nam cũng tổ chức nhiều triển lãm nghệ thuật và hiện vật liên quan đến văn hóa việt nam.",
-      "model": "sft1_100M.pt"
+      "text": "chào mừng bạn đến với hà nội - thủ đô của việt nam và một trong những điểm du lịch nổi tiếng trên thế giới. dưới đây là một số thông tin về hà nội:\n\n1. vị trí địa lý: hà nội nằm ở phía bắc việt nam, bên bờ sông hồng. thành phố này có diện tích khoảng 321 km² và dân số hơn 8 triệu người.\n\n2. di sản văn hóa: hànội được biết đến với nhiều danh lam thắng cảnh và di tích lịch sử quan trọng như hoàng thành thăng long, hồ gươm, chùa một cột, lăng chủ tịch hồ chí minh và nhiều ngôi đền, chùa cổ khác.\n \n3. ẩm thực: hà nôi nổi tiếng với các món ăn đặc trưng như phở, bún chả, nem rán, bánh cuốn và cà phê trứng. du khách cũng có thể thưởng thức các loại đồ uống truyền thống như trà đá vỉa hè hoặc nước giải khát.\n",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "chào mừng bạn đến với nhà hàng yêu thích của chúng tôi! đây là một công thức đơn giản để làm trứng chiên:\n\nnguyên liệu cần chuẩn bị:\n- 2 quả trứng gà (khoảng 150g)\n- muối, tiêu, gia vị theo khẩu vị\n\ncách làm:\n1. đánh tan trứng trong một tô nhỏ cho đến khi hỗn hợp trở nên mịn màng.\n2. thêm muối vào trứng và khuấy đều.\n3. đun nóng chảo trên lửa vừa, sau đó thêm dầu ăn và phi tỏi cho thơm.\n4. tiếp theo, thêm trứng đã đánh vào chảo và đảo nhẹ nhàng để trứng hấp thụ hương vị tốt nhất.\n5. khi trứng đã chín, tắt bếp và trình bày trứng chiên lên đĩa.\n6. thưởng thức trứng chiên ngon lành cùng gia đình và bạn bè.\n\nchúc bạn có bữa ăn thật ngon miệng! nếu bạn có bất kỳ câu hỏi nào khác, xin vui lòng liên hệ với chúng tôi qua số điện thoại [số điện thoại] hoặc email [địa chỉ email]. chúng tôi luôn sẵn sàng hỗ trợ bạn. chúc bạn thành công và thực phẩm tuyệt vời!\n\ntrân trọng,\n[tên của bạn]",
-      "model": "sft1_100M.pt"
+      "text": "để nấu món trứng chiên ngon, bạn có thể làm theo các bước sau:\n\n1. chuẩn bị nguyên liệu cần thiết bao gồm: 2 quả trứng gà, 2 muỗng canh dầu ăn, muối và tiêu.\n\n2. đánh tan trứng trong một tô nhỏ. thêm muối vào hỗn hợp trứng và khuấy đều cho đến khi hỗn hợp trở nên mịn màng.\n   \n3. đun nóng một chút dầu ăn trên lửa vừa. khi dầu đã đủ nhiệt độ, đổ hỗn hợp lòng đỏ và trắng vào chảo chứa trứng. lưu ý để trứng không dính vào đáy chảo.\n",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "dưới đây là một số lời khuyên để duy trì sức khỏe trong mùa lạnh:\n\n1. uống đủ nước: đảm bảo cơ thể được cung cấp đủ lượng nước hàng ngày bằng cách uống nhiều nước trong suốt cả ngày. hạn chế tiêu thụ đồ ăn nhanh và thức ăn có nhiều đường và chất béo bão hòa.\n\n2. tăng cường hoạt động thể lực: vận động thường xuyên giúp cải thiện sức mạnh cơ bắp và giảm nguy cơ mắc các bệnh tim mạch như cao huyết áp và tiểu đường loại 2. ngoài ra, việc tập thể dục đều đặn cũng rất quan trọng cho sức khỏe tổng thể của cơ thể.",
-      "model": "sft1_100M.pt"
+      "text": "để giữ sức khỏe mùa lạnh, dưới đây là một số lời khuyên hữu ích:\n\n1. uống đủ nước: hãy đảm bảo bạn uống đủ lượng nước trong ngày để duy trì sự cân bằng nước cơ thể và tránh mất nước do thời tiết lạnh.\n2. ăn thực phẩm giàu dinh dưỡng: bổ sung các loại thực phẩm như rau xanh, trái cây tươi, hạt và ngũ cốc chứa nhiều vitamin c và chất chống oxy hóa để tăng cường hệ miễn dịch và hỗ trợ tiêu hóa.\n3. vận động thường xuyên: dành ít nhất 15-30 phút mỗi ngày cho hoạt động vận động như đi bộ, chạy, bơi lội hoặc tham gia vào bất kỳ môn thể thao nào mà bạn thích.\n4. ngủ đủ giấc: cố gắng ngủ từ 7-8 giờ mỗi đêm để cơ thể có thời gian phục hồi và tái tạo năng lượng.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "chào anh, có việc gì cần nhờ không ạ",
-      "model": "sft1_100M.pt"
+      "text": "chào anh/chị,\n\ntôi rất vui được giới thiệu sản phẩm mới của chúng tôi đến anh/ chị. đây là một sản phẩm tuyệt vời mà chúng tôi tin rằng sẽ mang lại nhiều lợi ích cho khách hàng của mình. dưới đây là mô tả chi tiết về sản phẩm:\n\n- tên sản phẩm và logo: [tên sản phẩm]",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786915057.57775,

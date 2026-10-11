@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "tôi là sai, một mô hình ngôn ngữ ai được phát triển bởi openai. tôi không có quyền truy cập vào dữ liệu thời gian thực hoặc thông tin cá nhân của người dùng.",
-      "model": "sft1_100M.pt"
+      "text": "mình là sai, một mô hình ai do nidai phát triển.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "vẫn đang online đây anh, có việc gì không",
-      "model": "sft1_100M.pt"
+      "text": "vui lòng cung cấp thêm thông tin về thời tiết để tôi có thể trả lời câu hỏi của bạn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "tôi là sai, một trợ lý ai được phát triển bởi openai. tôi không có khả năng trả lời câu hỏi hoặc cung cấp thông tin theo yêu cầu cụ thể của bạn. nếu bạn cần hỗ trợ về bất kỳ chủ đề nào liên quan đến lĩnh vực trí tuệ nhân tạo (ai), vui lòng cho tôi biết để tôi có thể giúp bạn nhé!",
-      "model": "sft1_100M.pt"
+      "text": "tôi đang sẵn sàng hỗ trợ bạn. bạn muốn làm gì?",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "vâng tôi đây, có việc gì thế anh",
-      "model": "sft1_100M.pt"
+      "text": "mình rất tiếc khi bạn đang gặp khó khăn. mình ở đây để giúp bạn vượt qua giai đoạn này.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "tủ lạnh là thiết bị điện gia dụng dùng để bảo quản thực phẩm, đồ uống và các vật dụng nấu nướng khác trong thời gian ngắn. máy thường có dung tích từ khoảng 15 đến 20 lít hoặc hơn tùy model, công suất phù hợp với nhu cầu sử dụng của người dùng. máy hoạt động dựa trên nguyên lý làm lạnh bằng cách hút không khí bên ngoài vào ngăn chứa, giúp giữ nhiệt độ ổn định cho sản phẩm. một số model còn trang bị hệ thống điều khiển thông minh như cảm biến nhiệt độ, chế độ tự ngắt khi nước sôi, hỗ trợ kết nối wi-fi hoặc bluetooth. máy được đánh giá cao về hiệu năng, tiết kiệm điện năng và thân thiện môi trường. đây là lựa chọn phổ biến trong gia đình hiện đại nhằm đảm bảo an toàn vệ sinh thực phẩm và nâng cao chất lượng cuộc sống hàng ngày.",
-      "model": "sft1_100M.pt"
+      "text": "xin lỗi, tôi không thể xử lý yêu cầu này vì đây là một mô hình ngôn ngữ và không có khả năng truy cập vào dữ liệu thời gian thực. tuy nhiên, bạn có thể tìm kiếm trên các trang web mua sắm trực tuyến hoặc liên hệ với dịch vụ khách hàng của shop để biết thêm thông tin chi tiết về sản phẩm mà họ cung cấp.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "ban có thể giải thích theo nhiều cách khác nhau tùy thuộc vào ngữ cảnh và mục đích sử dụng của bạn. ban đầu, \"ban\" là một từ dùng để chỉ hành động hoặc trạng thái mà ai đó đang nói đến (ví dụ: nói chuyện với người thân, bạn bè, đồng nghiệp) nhằm bày tỏ sự quan tâm, yêu thương hoặc chia sẻ cảm xúc, suy nghĩ. ví dụ, khi nói về công việc hay cuộc sống hàng ngày, bạn có thể dùng \"ban\". nếu bạn cung cấp thêm chi tiết cụ thể, tôi sẽ giúp bạn hiểu rõ hơn nhé!",
-      "model": "sft1_100M.pt"
+      "text": "vui lòng cung cấp thông tin hoặc câu hỏi cụ thể mà bạn muốn tôi giải thích.",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786914883.3136647,

@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "hà nội, thủ đô của nước cộng hòa xã hội chủ nghĩa việt nam, nằm ở miền bắc việt nam. thành phố này nổi tiếng với kiến trúc cổ kính, các di tích lịch sử và văn hóa phong phú như hoàng thành thăng long, chùa một cột, lăng chủ tịch hồ chí minh và nhiều công trình kiến trúc độc đáo khác. hà nội cũng là trung tâm chính trị, kinh tế, văn hóa quan trọng của đất nước, thu hút du khách từ khắp nơi trên thế giới.",
-      "model": "sft1_100M.pt"
+      "text": "thủ đô của việt nam là hà nội.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "thủ đô của việt nam là hà nội.",
-      "model": "sft1_100M.pt"
+      "text": "thủ đô của nước việt nam là hà nội.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "2 + 2 = -3.",
-      "model": "sft1_100M.pt"
+      "text": "2 + 2 = 4.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "phép tính này được thực hiện bằng cách cộng hai số lại với nhau: 2 * 2 = 4. kết quả cuối cùng là 6.",
-      "model": "sft1_100M.pt"
+      "text": "2 + 2 = 4.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho tôi biết con mèo đang ở đâu để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "đây là một câu hỏi rất phổ biến và thường không có câu trả lời tuyệt đối.\n\ncon mèo kêu bằng nhiều cách khác nhau, tùy thuộc vào loài (ví dụ: mèo labrador retriever, chó beagle, v.v.).\n\ndưới đây là các cách phổ biến nhất để phân biệt:\n\n---\n\n### 1. tiếng kêu cơ bản\n\ntiếng \"labrador\" là âm thanh cơ bản nhất của con mèo.\n* **tần suất:** khoảng 20–30 lần mỗi ngày.\n   * *lưu ý:* tần suất cụ thể phụ thuộc hoàn toàn vào loại mèo và môi trường sống.\n| :--- | :--- |\n| **độ tuổi** | nhỏ đến trung bình (thường từ 6 tháng trở lên). | lớn hơn đáng kể (trên 4 tuổi hoặc trên 5 tuổi). |\n\n***\n\n**lưu ý quan trọng khi chăm sóc:**\n\nnếu bạn nhận thấy bất kỳ dấu hiệu nào trong số này, hãy đưa nó đi khám bác sĩ thú y ngay lập tức để được chẩn đoán chính xác và điều trị kịp thời.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "con mèo là một loài động vật có vú thuộc họ mèo (felidae). dưới đây là một số thông tin cơ bản về tiếng kêu của nó:\n\n1. tiếng kêu:\n- con mèo thường được gọi là \"mèo\" hoặc \"bò\".\n- tiếng kêu thường xuất hiện trong các hoạt động như đi dạo, chơi đùa và giao tiếp với bạn bè.\n- chúng cũng có thể được sử dụng để tạo ra âm thanh vui vẻ khi di chuyển.",
-      "model": "sft1_100M.pt"
+      "text": "tiếng kêu của con mèo là một dạng giao tiếp bằng âm thanh. nó thường được sử dụng để báo hiệu cho chủ nhân hoặc các thành viên trong gia đình về sự hiện diện của mình, chẳng hạn như khi bạn đi ra ngoài vào buổi sáng sớm hoặc sau giờ làm việc mệt mỏi.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -69,8 +69,8 @@
     },
     {
       "role": "ai",
-      "text": "ngủ là một phần thiết yếu của cuộc sống, đóng vai trò quan trọng trong việc duy trì sức khỏe thể chất và tinh thần. thiếu ngủ có thể gây ra nhiều vấn đề sức khỏe nghiêm trọng như bệnh tim mạch, tiểu đường loại 2, béo phì và các rối loạn chuyển hóa khác.\n\nđể đảm bảo giấc ngủ tốt nhất cho cơ thể, bạn nên tạo ra một lịch trình ngủ đều đặn hàng ngày. hãy cố gắng đi ngủ từ 7-9 giờ mỗi đêm để cơ thể có thời gian phục hồi và tái tạo năng lượng. ngoài ra, hãy thực hiện các hoạt động thư giãn như đọc sách hoặc nghe nhạc nhẹ nhàng để giảm căng thẳng và cải thiện tâm trạng. nếu tình trạng này kéo dài, hãy tham khảo ý kiến bác sĩ để được tư vấn và điều trị phù hợp.",
-      "model": "sft1_100M.pt"
+      "text": "ngủ giúp cơ thể phục hồi năng lượng, tái tạo tế bào, củng cố trí nhớ và tăng khả năng tập trung. thiếu ngủ kéo dài có thể ảnh hưởng xấu đến sức khỏe tinh thần.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -79,8 +79,8 @@
     },
     {
       "role": "ai",
-      "text": "giấc ngủ đóng vai trò cực kỳ quan trọng đối với sức khỏe thể chất và tinh thần của chúng ta. dưới đây là một số lý do chính:\n\n1. cung cấp năng lượng cho cơ thể: giấc ngủ giúp tái tạo tế bào, củng cố hệ miễn dịch và giảm nguy cơ mắc các bệnh mãn tính như tim mạch, tiểu đường và béo phì. nó cũng ảnh hưởng đến khả năng tập trung và trí nhớ.\n\n2. cải thiện tâm trạng và giảm căng thẳng: thiếu ngủ có thể gây ra cảm giác mệt mỏi, lo âu và trầm cảm. thiếu ngủ làm tăng mức độ hormone cortisol (hormone hạnh phúc) trong não, dẫn đến cảm giác buồn bã, uể oải và khó tập trung vào công việc hàng ngày. ngoài ra, thiếu ngủ kéo dài có thể ảnh hưởng tiêu cực đến sự phát triển cá nhân và sức khỏe tổng thể.",
-      "model": "sft1_100M.pt"
+      "text": "giấc ngủ đóng vai trò cực kỳ quan trọng đối với con người vì nó ảnh hưởng trực tiếp đến sức khỏe thể chất, tinh thần và xã hội. dưới đây là những lý do chính giải thích tại sao giấc ngủ rất cần thiết cho sự phát triển toàn diện của con người:",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -89,8 +89,8 @@
     },
     {
       "role": "ai",
-      "text": "ở nhiệt độ khoảng 200-350 độ celsius (khoảng 480 độ fahrenheit).",
-      "model": "sft1_100M.pt"
+      "text": "ở điều kiện áp suất khí quyển tiêu chuẩn, nước sôi ở 100 độ c.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -99,8 +99,8 @@
     },
     {
       "role": "ai",
-      "text": "nước đóng vai trò cực kỳ quan trọng trong việc duy trì sự sống trên trái đất. nó là nguồn cung cấp năng lượng chính cho hầu hết các sinh vật sống trên hành tinh chúng ta.\n\ntuy nhiên, để đảm bảo an toàn và ổn định nhất, cần có một môi trường ấm áp và đủ ẩm ướt (ví dụ: không gian mát mẻ). nhiệt độ lý tưởng nên dao động từ khoảng 20°c đến 45°c tùy thuộc vào điều kiện thời tiết cụ thể của khu vực đó. nếu nhiệt độ quá cao hoặc kéo dài, nó sẽ gây nguy hiểm nghiêm trọng cho sức khỏe con người và hệ sinh thái địa phương.",
-      "model": "sft1_100M.pt"
+      "text": "ở nhiệt độ sôi (khoảng 100°c), nước bắt đầu chuyển từ trạng thái lỏng sang trạng thái rắn.",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786914973.8162985,

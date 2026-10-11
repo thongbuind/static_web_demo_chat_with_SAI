@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn có thể thử một số cách sau để chuẩn bị cho buổi tối:\n1) ăn nhẹ hoặc uống nước lọc thay vì đồ ăn nhanh.\n2) tập thể dục nhẹ nhàng như đi bộ, chạy bộ hoặc tham gia các lớp thể dục nhóm.\n3) đọc sách hoặc xem phim để giảm căng thẳng.\n4) ngủ đủ giấc (7-8 tiếng mỗi đêm).\n5) tìm hiểu về kỹ năng quản lý thời gian và ưu tiên công việc quan trọng.\n6) học cách từ chối những yêu cầu không cần thiết trong cuộc sống hàng ngày.\n7) thực hiện các bài tập thở sâu hoặc thiền ngắn để thư giãn cơ thể.\n\nnếu bạn muốn, mình có thể giúp bạn lên kế hoạch chi tiết hơn dựa trên tình huống cụ thể của bạn. chúc bạn thành công!",
-      "model": "sft1_100M.pt"
+      "text": "đây là một số gợi ý để giúp bạn nhanh chóng lấy lại năng lượng và tránh tình trạng này khi đến giờ đi làm:\n\n1. uống nước ngay lập tức: hãy cố gắng uống đủ nước trong suốt buổi sáng, khoảng 2-3 cốc (khoảng 40-60ml) để cung cấp độ ẩm cho cơ thể sau bữa ăn.\n\n2. vận động nhẹ nhàng: thực hiện các bài tập cardio như chạy bộ hoặc nhảy dây trong ít nhất 5 phút trước khi bắt đầu công việc quan trọng. điều này có thể giúp cải thiện tuần hoàn máu và tăng cường trao đổi chất.\n \n3. ăn một bữa trưa lành mạnh: chọn những món giàu protein, rau xanh, trái cây và ngũ cốc nguyên hạt. hạn chế đồ ăn nhiều đường và thức ăn chế biến sẵn. thay vào đó, chuẩn bị một bữa ăn cân đối với carbohydrate phức hợp và protein từ thịt gà, cá, đậu hũ hoặc các nguồn đạm khác.\n",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "tất nhiên! dưới đây là một số gợi ý cho chuyến du lịch cuối tuần tại hà nội:\n\nngày thứ bảy:\n- buổi sáng: thăm văn miếu - quốc tử giám (hà nội) và khám phá kiến trúc độc đáo của đền ngọc sơn.\n- trưa: thưởng thức món ăn đường phố truyền thống như bún chả, nem rán hoặc bánh cuốn.\n\nbuổi chiều: dạo quanh hồ gươm và tận hưởng không khí yên bình của thành phố. bạn cũng có thể tham gia vào các hoạt động vui chơi ngoài trời như đi thuyền trên sông hồng hay tham gia lớp học nấu ăn truyền thống ở chợ đồng xuân. đừng quên thử những món ăn đặc trưng của hà nội như phở, bún chả và nước mắm pha chua ngọt. nếu cần thêm thông tin chi tiết hơn, hãy liên hệ với đại sứ quán việt nam tại thủ đô. chúc bạn có một kỳ nghỉ thú vị và đáng nhớ!\n\nchúc mọi điều tốt lành!\n[your name]",
-      "model": "sft1_100M.pt"
+      "text": "tất nhiên! dưới đây là một số địa điểm và hoạt động phù hợp cho gia đình bạn đi du lịch hà nội 2 ngày 1 đêm:\n\n1. hoàn kiếm lake: nằm ở trung tâm thành phố, hoàn kiếm là một hồ nước tự nhiên tuyệt đẹp với cây cầu thê húc và đền ngọc sơn nổi tiếng. đây là nơi lý tưởng để thư giãn và tận hưởng không gian yên tĩnh.\n\n2. văn miếu - quốc tử giám: được xây dựng vào thế kỷ thứ 11, văn miếu – quốc tửgiám là ngôi đền văn hóa lớn nhất của việt nam. bạn có thể khám phá kiến trúc độc đáo và tìm hiểu về lịch sử giáo dục của đất nước.\n \n3. chợ đồng xuân: là một trong những chợ đông đúc nhất hà nội, chợ đồng xuan cung cấp nhiều mặt hàng đa dạng từ quần áo, thực phẩm đến đồ điện tử và đồ ăn nhẹ. bạn cũng có thể thưởng thức các món ăn truyền thống như phở, bún chả và nem rán tại đây.\n",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "rất tiếc là hiện tại mình chưa thể hỗ trợ bạn lập trình. vì mình chỉ là một mô hình ngôn ngữ nhỏ và vẫn đang trong quá trình phát triển, nên mình chưa được huấn luyện để xử lý các yêu cầu kỹ thuật chuyên sâu như vậy. mong bạn thông cảm nhé!",
-      "model": "sft1_100M.pt"
+      "text": "chào bạn! đây là một hàm python rất đơn giản và dễ hiểu. để giải thích hàm này, chúng ta sẽ đi qua 4 giai đoạn chính:\n\n---\n\n## i. giai đoạn 1: khởi tạo biến (input layer)\n\nđây là bước quan trọng nhất vì nó quyết định cách chương trình hoạt động.\n\n*   **khởi tạo biến:** thay đổi giá trị của biến thành kiểu số nguyên (ví dụ: 0 hoặc 1). ví dụ:\n   ```python\n  x = 5;\n  y = 3;\n\n**giai đoạn 2: xử lý vòng lặp (loop loop):**\nsau khi khởi tạo, biến được gọi là \"vòng lặp\" (for). điều này có nghĩa là mỗi lần chạy chương trình, giá trị trong vòng lặp sẽ tự động tăng lên cho đến khi kết thúc vòng lặp đó. ví dụ, nếu vòng lặp bắt đầu từ 1 và kết thúc ở vị trí thứ 6, thì giá trị ban đầu sẽ là 1 + 0 + 1 = 1.\n$$\\text{vòng lặp} = \\frac{1}{6}$$",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "tôi là một mô hình ngôn ngữ ai và không thể đưa ra lời khuyên y tế cá nhân. tuy nhiên, nếu bạn đang gặp vấn đề về giấc ngủ hoặc sức khỏe của mình, hãy tham khảo ý kiến của bác sĩ để được tư vấn và điều trị phù hợp. dưới đây là một số gợi ý:\n\n1. **ngủ đủ giấc:** cố gắng ngủ từ 7 đến 8 giờ mỗi đêm (khoảng 4-6 tiếng) để cơ thể phục hồi và tái tạo năng lượng cho các hoạt động hàng ngày.\n2. **ăn uống lành mạnh:** ăn nhiều rau xanh, trái cây tươi, ngũ cốc nguyên hạt, protein nạc và chất béo lành mạnh để cung cấp dưỡng chất cần thiết cho cơ thể.\n3. **tập thể dục đều đặn:** dành ít nhất 30 phút mỗi ngày để vận động nhẹ nhàng như đi bộ, chạy, yoga, hoặc tham gia các lớp thể dục nhóm.\n4. **tránh căng thẳng quá mức:** hạn chế thời gian ngồi lâu trong môi trường ồn ào hoặc thiếu ánh sáng tự nhiên.\n5. **uống đủ nước:** đảm bảo cơ thể nhận đủ lượng nước cần thiết để duy trì sự cân bằng nội tiết tố.\n\nnếu tình trạng này kéo dài hoặc trở nên nghiêm trọng, bạn nên tìm kiếm sự giúp đỡ từ chuyên gia y tế ngay lập tức.",
-      "model": "sft1_100M.pt"
+      "text": "tôi là một mô hình ngôn ngữ ai và không thể đưa ra lời khuyên y tế cá nhân. nếu bạn đang gặp tình trạng đau đầu hoặc mệt mỏi kéo dài, điều quan trọng nhất là bạn nên đi khám bác sĩ để được chẩn đoán chính xác nguyên nhân và có phương pháp điều trị phù hợp.",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786915074.9966035,

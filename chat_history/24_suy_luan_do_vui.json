@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn đang hỏi về cái gì? vui lòng cung cấp thêm ngữ cảnh để tôi có thể trả lời chính xác.",
-      "model": "sft1_100M.pt"
+      "text": "cái gì càng lấy đi thì lại càng lớn hơn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "an có tuổi thọ trung bình là khoảng từ 60 đến 75 tuổi. tuy nhiên, nếu bạn có tiền sử gia đình mắc bệnh mãn tính (như tiểu đường hoặc huyết áp cao), điều quan trọng là phải tham khảo ý kiến bác sĩ để được chẩn đoán chính xác và kế hoạch điều trị cá nhân hóa phù hợp với tình trạng sức khỏe của bạn.",
-      "model": "sft1_100M.pt"
+      "text": "nếu an ít tuổi hơn bình và bình nhiều tuổi hơn chi, thì người đó sẽ được xếp vào nhóm có nguy cơ cao mắc các bệnh mãn tính như tiểu đường hoặc huyết áp cao.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "xin lỗi, tôi không thể cung cấp thông tin cụ thể về chuyến đi của bạn. vui lòng cung cấp thêm ngữ cảnh để tôi có thể trả lời câu hỏi này một cách chính xác nhất.",
-      "model": "sft1_100M.pt"
+      "text": "đáp án: con chó.\n\ngiải thích ngắn gọn: chó đi bằng 4 chân, nên khi đi bằng hai chân, chúng sẽ đi được quãng đường dài hơn so với đi bằng một chân.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cung cấp thêm thông tin để tôi có thể trả lời câu hỏi của bạn.",
-      "model": "sft1_100M.pt"
+      "text": "nếu hôm nay là thứ ba thì 3 ngày sau hôm nay sẽ là thứ tư.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cung cấp thêm thông tin để tôi có thể trả lời câu hỏi của bạn.",
-      "model": "sft1_100M.pt"
+      "text": "một năm có 30 ngày.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "tom là một loài động vật thuộc họ mèo (felidae). chúng thường được tìm thấy ở các khu rừng nhiệt đới và cận nhiệt đới trên khắp thế giới.\n\ntuy nhiên, bạn cần lưu ý rằng đây chỉ là một số thông tin cơ bản về tom. nếu bạn cung cấp thêm chi tiết hoặc câu hỏi cụ thể nào khác, vui lòng cho tôi biết để tôi có thể trả lời chính xác hơn nhé!",
-      "model": "sft1_100M.pt"
+      "text": "không, tom không biết kêu meo meo.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -69,8 +69,8 @@
     },
     {
       "role": "ai",
-      "text": "để tính tổng số quả cam trong giỏ, ta thực hiện các bước sau:\n\n**bước 1:** xác định số lượng quả cam ban đầu.\n*   **tổng số quả:** 5 + 3 = 8 quả.\n    *   số quả còn lại = (2 / 4) * 6 / 5 = 2/4.\n$$\\text{số quả cam} = \\frac{7}{2}$$\n\n---\n**đáp án cuối cùng:** 7 quả cam.",
-      "model": "sft1_100M.pt"
+      "text": "trong giỏ có 5 quả cam và 3 quả táo.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -79,8 +79,8 @@
     },
     {
       "role": "ai",
-      "text": "thời gian cần thiết để hoàn thành quãng đường này phụ thuộc vào loại phương tiện và điều kiện đường đua cụ thể. tuy nhiên, nếu tốc độ trung bình là khoảng 35 km/h (khoảng 48 dặm/giờ), bạn có thể đạt được quãng đường tối đa khoảng 70-90 km mỗi giờ.\n\ntuy nhiên, để đảm bảo an toàn tuyệt đối cho bản thân và người tham gia giao thông khác trên đường đua, việc duy trì tốc độ ổn định là rất quan trọng. hãy luôn kiểm tra hướng dẫn của nhà sản xuất hoặc tìm kiếm sự trợ giúp từ các nhân viên kỹ thuật hoặc đội ngũ hỗ trợ chuyên nghiệp để tránh tai nạn không mong muốn xảy ra trong suốt thời gian diễn ra cuộc đua.",
-      "model": "sft1_100M.pt"
+      "text": "thời gian đi 120km trong 1 giờ phụ thuộc vào nhiều yếu tố, chủ yếu là vận tốc của xe và điều kiện đường.\n\nthông thường, nếu bạn đi với tốc độ trung bình từ 60 đến 75 km/h (khoảng 39-48 dặm mỗi giờ), thời gian sẽ dao động tùy theo điều kiện mặt đường và tốc độ tối đa mà chiếc xe có thể đạt được. tuy nhiên, để biết chính xác thời gian đi, bạn cần kiểm tra thông số kỹ thuật của mẫu xe cụ thể đó.",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786914639.0586307,

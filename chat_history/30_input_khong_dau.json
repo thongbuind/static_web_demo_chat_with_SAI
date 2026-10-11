@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "ancom chua là một món ăn truyền thống của việt nam, đặc biệt phổ biến ở miền bắc và trung quốc. đây không chỉ đơn thuần là một bữa ăn mà còn mang ý nghĩa văn hóa sâu sắc trong đời sống hàng ngày của người dân địa phương.\n\nvề mặt ẩm thực, ancom chua nổi bật với sự kết hợp hài hòa giữa các nguyên liệu tươi ngon như rau củ, thịt, cá và gia vị, tạo nên hương vị đậm đà và hấp dẫn. món ăn này thường được phục vụ kèm theo nước mắm pha chua ngọt hoặc tương ớt để tăng thêm độ cay nồng cho món ăn. ngoài ra, nó còn thể hiện nét văn hóa ẩm thực phong phú và đa dạng của khu vực miền bắc việt nam.",
-      "model": "sft1_100M.pt"
+      "text": "an com chua là một món ăn truyền thống của việt nam, đặc biệt nổi tiếng ở miền bắc, thường được chế biến từ các nguyên liệu tươi ngon và gia vị tự nhiên. món ăn này có hương vị nhẹ nhàng, thanh mát, thích hợp để thưởng thức trong những ngày hè nóng bức. an com chua thường được làm từ các loại rau củ như cà rốt, khoai tây, bí đỏ, kết hợp với các gia vị như nước mắm, đường, tỏi, hành, tạo nên hương vị đậm đà và hấp dẫn. đây không chỉ là món ăn dân dã mà còn thể hiện nét văn hóa ẩm thực phong phú của người dân nơi đây.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "chắc chắn rồi anh, có việc gì cần nhờ không anh",
-      "model": "sft1_100M.pt"
+      "text": "thời tiết hôm nay thật đẹp, với bầu trời xanh và gió nhẹ. nhiệt độ vừa phải, không quá nóng cũng không quá lạnh, rất thích hợp cho các hoạt động ngoài trời.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "ban ten gi là một khái niệm trong toán học và khoa học máy tính, chỉ mối quan hệ giữa hai giá trị đầu vào (input) và đầu ra (output). cụ thể:1. input là phần tử nằm ở vị trí cuối cùng của một hàm số hoặc dãy số. ví dụ: a = 2, b = 3, c = 5, d = 6.24; bạn có thể gọi hàm này bằng tên khác để giải phương trình.2. def calculate_equation(a, b): √(b^2 - 4ac) ≈ 0.89755432556789.3. định lý pythagoras giúp giải quyết các bài toán liên quan đến xác suất, thống kê và tìm kiếm thông tin hữu ích trong lĩnh vực khoa học dữ liệu và công nghệ thông tin.",
-      "model": "sft1_100M.pt"
+      "text": "xin lỗi, tôi không thể xử lý yêu cầu này vì đây là một mô hình ngôn ngữ và không có khả năng trực tiếp truy cập vào thông tin thời gian thực. tuy nhiên, bạn có thể tìm kiếm trên các trang web tin tức hoặc cơ sở dữ liệu chuyên về công nghệ để tìm thông tin liên quan đến \"ban ten gi\" trong lĩnh vực ai hoặc khoa học máy tính.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "cua việt nam là một quốc gia nằm ở đông nam á, nổi tiếng với nền văn hóa phong phú và đa dạng. thủ đô của đất nước là hà nội, nơi có nhiều di tích lịch sử quan trọng như hoàng thành thăng long (hà nội), đền hùng (thanh hóa) và lăng chủ tịch hồ chí minh (việt nam). ngoài ra, vịnh hạ long cũng được unesco công nhận là di sản thế giới vào năm 1982, thu hút hàng triệu du khách trong và ngoài nước mỗi năm. ẩm thực việt nam rất phong phú với các món ăn truyền thống như phở, bún chả, nem rán, bánh xèo, gỏi cuốn và nhiều món hải sản tươi ngon khác. văn hóa ẩm thực của việt nam không chỉ dừng lại ở việc thưởng thức hương vị mà còn thể hiện bản sắc văn hóa đặc trưng của từng vùng miền. chính vì vậy, việt nam đã trở thành điểm đến hấp dẫn cho du khách từ khắp nơi trên thế giới.",
-      "model": "sft1_100M.pt"
+      "text": "việt nam là một quốc gia nằm ở đông nam á, có diện tích khoảng 331.210 km² và dân số hơn 96 triệu người (tính đến năm 2024). thủ đô của việt nam là hà nội. ngôn ngữ chính thức là tiếng việt.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "để học tiếng anh hiệu quả, bạn nên bắt đầu bằng việc nắm vững ngữ pháp và từ vựng cơ bản. trước hết, hãy đọc sách giáo trình tiếng anh phù hợp với trình độ của mình để làm quen với cấu trúc ngôn ngữ và cách phát âm. tiếp theo, tham gia các khóa học trực tuyến hoặc sử dụng ứng dụng di động để giao tiếp với người bản xứ. ngoài ra, thực hành nghe nói hàng ngày cũng rất quan trọng để cải thiện khả năng ghi nhớ và hiểu sâu sắc văn hóa tiếng anh. cuối cùng, hãy kiên nhẫn luyện tập thường xuyên để nâng cao vốn từ vựng và kỹ năng viết. nếu gặp khó khăn trong quá trình luyện tập, bạn có thể nhờ sự giúp đỡ từ người thân, bạn bè hoặc chuyên gia tiếng anh để được hướng dẫn chi tiết hơn. chúc bạn thành công!",
-      "model": "sft1_100M.pt"
+      "text": "rất vui được giúp bạn học tiếng anh từ đầu. dưới đây là một kế hoạch ngắn gọn và thực tế để bắt đầu ngay hôm nay:\n\n1) xác định mục tiêu (goal setting)\n- bạn muốn giao tiếp cơ bản bằng tiếng việt hay tiếng anh? ví dụ: xin chào, mình tên là [tên].\n- mục tiêu cụ thể cho 3–6 tháng tới:\n  - giao tiếp hàng ngày trong công việc/học tập (ví dụ: gửi email, họp online).\n  – giao tiếp trong cuộc sống hàng ngày (ví như gọi điện thoại, nhắn tin).\n\n2) lựa chọn ngôn ngữ phù hợp với trình độ hiện tại của bạn\n- tiếng anh phổ thông (ielts hoặc toefl ibt): có thể dùng cả tiếng anh thường và tiếng anh chuyên ngành.\n\n3) xây dựng flashcards đơn giản (dành cho người mới bắt đầu)\nbạn có thể bắt đầu với 5–7 phút mỗi ngày:\n- 0–1 câu hỏi đơn giản về chủ đề bạn quan tâm.\n  + 1 câu giới thiệu ngắn về bản thân.\n*  1–2 câu mô tả sở thích/hoạt động liên quan đến ngôn ngữ đó.\n<noinput>\n```python\ndef classify_words(text):\n  if len(word) == word[::-1]:\n\\n   classification = list(set(where) for word in words)\n  else:",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "ha nội là thủ đô và thành phố lớn nhất của việt nam, nằm ở miền bắc đất nước.",
-      "model": "sft1_100M.pt"
+      "text": "ha noi là thủ đô của việt nam, nổi tiếng với lịch sử lâu đời và nền văn hóa phong phú. thành phố này có nhiều di tích lịch sử quan trọng như đền ngọc sơn, chùa một cột, lăng chủ tịch hồ chí minh.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -69,8 +69,8 @@
     },
     {
       "role": "ai",
-      "text": "may mắn là khái niệm chỉ trạng thái hoặc sự việc xảy ra một cách tình cờ, có lợi hoặc thuận lợi cho một người hay vật nào đó. nó thường liên quan đến sự thành công trong công việc, học tập và các mối quan hệ cá nhân, giúp con người cảm thấy hài lòng, thỏa mãn với những gì đã đạt được sau thời gian làm việc hoặc học tập. may mắn không phải lúc nào cũng dễ dàng mà phụ thuộc vào hoàn cảnh cụ thể của mỗi người.",
-      "model": "sft1_100M.pt"
+      "text": "chào bạn! hôm nay mình có thể giúp gì cho bạn?\n\nmình ở đây để lắng nghe và hỗ trợ bạn. bạn đang cảm thấy thế nào lúc này (ví dụ: lo âu, căng thẳng, mệt mỏi)? bạn muốn chia sẻ thêm không?",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -80,7 +80,7 @@
     {
       "role": "ai",
       "text": "rất tiếc là hiện tại mình chưa thể hỗ trợ bạn lập trình. vì mình chỉ là một mô hình ngôn ngữ nhỏ và vẫn đang trong quá trình phát triển, nên mình chưa được huấn luyện để xử lý các yêu cầu kỹ thuật chuyên sâu như vậy. mong bạn thông cảm nhé!",
-      "model": "sft1_100M.pt"
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -89,8 +89,8 @@
     },
     {
       "role": "ai",
-      "text": "de naucom là một phương pháp nấu ăn truyền thống của việt nam, đặc biệt phổ biến trong ẩm thực châu á. đây không chỉ đơn thuần là việc chuẩn bị nguyên liệu mà còn đòi hỏi sự tỉ mỉ và kỹ thuật cao để tạo ra các món ăn có hương vị phong phú và hấp dẫn.\n\ndưới đây là hướng dẫn chi tiết về cách làm denaucom:\n\n---",
-      "model": "sft1_100M.pt"
+      "text": "để nấu một bát phở ngon, đầu tiên bạn cần chuẩn bị nước dùng từ xương bò hoặc gà, ninh kỹ trong khoảng 6-8 tiếng với các gia vị như hành nướng, gừng nướng, quế, hồi, thảo quả và đinh hương để tạo mùi thơm đặc trưng; sau đó lọc lấy nước trong. tiếp theo, chần bánh phở qua nước sôi cho mềm vừa ăn, thái mỏng thịt bò tái hoặc chín tùy sở thích. khi bày biện, cho bánh phở vào tô, xếp thịt lên trên rồi chan nước dùng nóng hổi, thêm hành lá, rau mùi, giá đỗ, chanh, ớt tươi và tương đen hoặc tương ớt tùy khẩu vị. cuối cùng, thưởng thức ngay khi còn nóng để cảm nhận trọn vẹn hương vị đậm đà của phở truyền thống.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -99,8 +99,8 @@
     },
     {
       "role": "ai",
-      "text": "2 công 2 bằng may là một trong những công cụ quan trọng nhất giúp tăng hiệu suất làm việc và tiết kiệm thời gian khi thực hiện các tác vụ hàng ngày. cụ thể, bạn có thể sử dụng máy tính hoặc điện thoại di động để quản lý lịch trình, đặt mục tiêu rõ ràng cho từng nhiệm vụ (ví dụ: lập kế hoạch dự án mới, hoàn thành báo cáo cuối kỳ). ngoài ra, bạn cũng có thể dùng ứng dụng di động như google calendar để theo dõi tiến độ công việc, nhắc nhở bản thân về deadline và ưu tiên nhiệm vụ quan trọng. tóm lại, 2 công cụ này không chỉ giúp nâng cao hiệu quả công việc mà còn mang lại sự linh hoạt và khả năng thích nghi tốt hơn với môi trường làm việc thay đổi liên tục.",
-      "model": "sft1_100M.pt"
+      "text": "2 công 2 bằng may.",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786914831.8916945,

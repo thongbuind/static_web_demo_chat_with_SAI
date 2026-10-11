@@ -9,8 +9,8 @@
     },
     {
       "role": "ai",
-      "text": "vâng tôi đây, việc gì thế anh",
-      "model": "sft1_100M.pt"
+      "text": "vâng tôi đây, gì thế anh",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "vâng tôi đây, có việc gì không anh",
-      "model": "sft1_100M.pt"
+      "text": "hmm, anh có gì cần giúp không",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "vâng, tôi đây. bạn cần giúp gì?",
-      "model": "sft1_100M.pt"
+      "text": "vâng, tôi đây",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "vâng tôi đây, có việc gì thế anh",
-      "model": "sft1_100M.pt"
+      "text": "vâng oke anh",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "vâng tôi đây, có việc gì không anh",
-      "model": "sft1_100M.pt"
+      "text": "ok anh",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "sao vậy anh, có việc gì cần giúp không ạ",
-      "model": "sft1_100M.pt"
+      "text": "sao vậy, anh lại suy nghĩ nhiều à",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -69,8 +69,8 @@
     },
     {
       "role": "ai",
-      "text": "\"á\" trong tiếng việt là một tính từ dùng để miêu tả trạng thái, hành động hoặc cách cư xử mang tính lịch sự, dịu dàng, tao nhã và tinh tế. khi ai đó được gọi là \"á\", thường nghĩa là họ cư xử một cách có phép tắc, biết giữ ý tứ, không thô lỗ hay quá mức, thể hiện sự tôn trọng người khác và có phong thái thanh lịch, nhẹ nhàng trong lời nói và hành động. ví dụ: \"cô ấy là á\" nghĩa là cô ấy rất lễ phép, dễ xúc phạm người khác.",
-      "model": "sft1_100M.pt"
+      "text": "thế á là một khái niệm trong tiếng việt dùng để chỉ trạng thái hoặc hành động thể hiện sự giàu có, quyền lực, hay địa vị xã hội ở một mức độ nào đó so với người khác. người thế á thường được hiểu là người sở hữu tài sản, đạt được vị trí cao trong các lĩnh vực như kinh tế, chính trị, giáo dục, hoặc hoạt động xã hội. ví dụ, một người có thể thế á là người có thu nhập cao, tài năng nổi bật, hoặc đạt được thành công lớn trong lĩnh vực của mình. về mặt ngôn ngữ, thế á được sử dụng để giao tiếp bằng lời nói và viết.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -79,8 +79,8 @@
     },
     {
       "role": "ai",
-      "text": "vâng tôi đây, có việc gì thế anh",
-      "model": "sft1_100M.pt"
+      "text": "hả, anh có gì cần giúp không",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -89,8 +89,8 @@
     },
     {
       "role": "ai",
-      "text": "tôi là sai, một mô hình ngôn ngữ ai được phát triển bởi openai. tôi không có quyền truy cập vào dữ liệu và thông tin cá nhân của bạn.",
-      "model": "sft1_100M.pt"
+      "text": "\"cái gì cơ?\" là cụm từ trong tiếng việt dùng để chỉ những điều, sự vật hoặc hiện tượng có đặc điểm chung, riêng biệt, không thể nhận biết hay cảm nhận được bằng các giác quan. ví dụ, khi nói một câu văn là \"tôi đang ăn cơm\", tức là thông tin chi tiết về thức ăn được trình bày rõ ràng trong văn bản. ngoài ra, \"cái gì\" còn được dùng ẩn dụ để diễn tả hành động, sự việc hoặc trạng thái xảy ra một cách tình cờ, ngẫu nhiên.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -99,8 +99,8 @@
     },
     {
       "role": "ai",
-      "text": "vâng tôi đây, có việc gì không anh",
-      "model": "sft1_100M.pt"
+      "text": "vâng, tạm biệt ngài.",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786914895.4654188,

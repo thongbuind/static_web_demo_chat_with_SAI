@@ -10,7 +10,7 @@
     {
       "role": "ai",
       "text": "tôi luôn thức để nhận lệnh mà",
-      "model": "sft1_100M.pt"
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -19,8 +19,8 @@
     },
     {
       "role": "ai",
-      "text": "mình là sai, một trợ lý ai được tạo ra để trò chuyện và hỗ trợ bạn.",
-      "model": "sft1_100M.pt"
+      "text": "mình là sai, một mô hình ai do nidai phát triển.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -29,8 +29,8 @@
     },
     {
       "role": "ai",
-      "text": "trời tối là thời điểm lý tưởng để thực hiện các hoạt động ngoài trời, đặc biệt là đi dạo trong công viên hoặc khu vực có nhiều ánh sáng tự nhiên. tuy nhiên, nếu bạn muốn tận hưởng không khí trong lành và thư giãn sau một ngày làm việc căng thẳng, hãy thử những hoạt động dưới đây:\\n1. đi dạo trên bãi biển hoặc hồ bơi gần nhà.\\n2. tham gia vào các lớp học thể dục như yoga, zumba hoặc pilates để rèn luyện sức khỏe tim mạch và tăng cường sự linh hoạt cơ thể.\\nhy vọng những gợi ý này sẽ giúp bạn tận hưởng thời gian bên gia đình và tạo ra những kỷ niệm đáng nhớ!",
-      "model": "sft1_100M.pt"
+      "text": "nếu trời tối, bạn có thể thử các cách sau:\n\n1. **tránh ánh sáng xanh:** hạn chế sử dụng điện thoại và máy tính ít nhất 30 phút trước khi ngủ vì ánh sáng này ức chế việc sản xuất melatonin (hormone gây buồn ngủ).\n2. **sử dụng đèn led:** thay thế đèn huỳnh quang bằng đèn led để tiết kiệm năng lượng hơn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -39,8 +39,8 @@
     },
     {
       "role": "ai",
-      "text": "khi khát nước, bạn có thể thử các phương pháp sau:1. uống nhiều nước lọc hoặc nước điện giải để bù lại lượng nước đã mất do cơ thể thiếu nước.2. uống đủ nước trong ngày giúp duy trì cân bằng điện giải và hỗ trợ quá trình trao đổi chất của cơ thể.3. thay đổi thói quen sinh hoạt như ăn nhiều rau xanh, trái cây, ngũ cốc nguyên hạt, hạn chế đồ ngọt và thực phẩm chế biến sẵn.4. sử dụng nước lọc thay vì nước nóng để tránh mất nước nhanh chóng.5. uống trà thảo mộc, trà hoa cúc hoặc trà bạc hà để thư giãn tinh thần và giảm căng thẳng.6. bổ sung vitamin c vào khẩu phần ăn hàng ngày để tăng cường hệ miễn dịch.7. nếu khát kéo dài, hãy tham khảo ý kiến bác sĩ hoặc chuyên gia dinh dưỡng để được tư vấn cụ thể về thời điểm uống phù hợp nhất với tình trạng sức khỏe cá nhân.lưu ý rằng mỗi người có nhu cầu uống nước khác nhau, nên luôn tham khảo hướng dẫn cụ thể từ nhà sản xuất để đảm bảo an toàn và hiệu quả.",
-      "model": "sft1_100M.pt"
+      "text": "nếu khát nước, bạn nên uống nhiều nước lọc hoặc dung dịch điện giải để bù lại lượng chất lỏng đã mất qua mồ hôi. việc này giúp duy trì cân bằng nội môi và hỗ trợ quá trình hydrat hóa cơ thể hiệu quả hơn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -49,8 +49,8 @@
     },
     {
       "role": "ai",
-      "text": "khi bạn cảm thấy đói, điều quan trọng nhất là duy trì một chế độ ăn uống cân bằng và giàu dinh dưỡng. hãy ưu tiên các thực phẩm giàu chất xơ (rau xanh, ngũ cốc nguyên hạt) để cung cấp năng lượng bền vững cho cơ thể. hạn chế đồ ăn nhanh, thức ăn chế biến sẵn và đường tinh luyện. ngoài ra, việc ngủ đủ giấc và quản lý căng thẳng cũng rất quan trọng; hãy đảm bảo ngủ đủ 7-9 tiếng mỗi đêm để cơ thể có thời gian phục hồi và tái tạo năng lượng.",
-      "model": "sft1_100M.pt"
+      "text": "khi đói, bạn có thể thử một trong các cách sau:\n1. uống nước trước khi đi ngủ để làm dịu dạ dày và hỗ trợ tiêu hóa tốt hơn.\n2. ăn một bữa nhẹ giàu chất xơ như trái cây, ngũ cốc nguyên hạt hoặc sữa chua không đường để cung cấp năng lượng cho cơ thể.\n3. nghe nhạc nhẹ nhàng hoặc đọc sách yêu thích để thư giãn tâm trí trước khi ngủ.\n4. tập thể dục đều đặn ít nhất 30 phút mỗi ngày để cải thiện tuần hoàn máu và tăng cường sức khỏe tim mạch.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -59,8 +59,8 @@
     },
     {
       "role": "ai",
-      "text": "manchester united là một trong những câu lạc bộ bóng đá nổi tiếng và thành công nhất thế giới, có trụ sở tại old trafford. được thành lập vào năm 1878 với tên gọi ban đầu là newton heath lyr f.c., đội đã giành nhiều danh hiệu lớn như premier league, fa cup và uefa champions league. dưới sự dẫn dắt của sir alex ferguson từ cuối thập niên 1950 đến đầu thập kỷ 2010, họ đã đạt được nhiều thành tựu ấn tượng, bao gồm việc giành chức vô địch ngoại hạng anh (premier league) lần thứ hai trong lịch sử giải đấu. mu cũng nổi bật với phong cách chơi tấn công sáng tạo, kỹ thuật cá nhân xuất sắc và tinh thần chiến đấu không ngừng nghỉ. ngoài ra, clb còn phát triển mạnh mẽ các tài năng trẻ như ryan giggs, paul scholes, eric cantona và cristiano ronaldo, góp phần làm nên sức hút đặc biệt của đội bóng này trên sân cỏ quốc tế.",
-      "model": "sft1_100M.pt"
+      "text": "manchester united là câu lạc bộ bóng đá anh thành lập năm 1878 với tên newton heath lyr, đổi tên năm 2024 và thi đấu sân nhà tại old trafford.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -69,8 +69,8 @@
     },
     {
       "role": "ai",
-      "text": "anh sinh ngày 24 tháng 6 năm 1987 tại hasselt, bỉ. anh bắt đầu sự nghiệp đua xe từ khi còn rất nhỏ và nhanh chóng trở thành một trong những tay đua xuất sắc nhất thế hệ của mình.",
-      "model": "sft1_100M.pt"
+      "text": "max verstappen là một tay đua xe công thức 1 (f1) chuyên nghiệp người hà lan, hiện đang thi đấu cho đội red bull racing. anh được xem là một trong những tài năng thiên bẩm và vĩ đại nhất trong lịch sử môn thể thao này, nổi tiếng với phong cách lái xe quyết liệt và thành tích ấn tượng cùng đội đua red bull.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -79,8 +79,8 @@
     },
     {
       "role": "ai",
-      "text": "giải đua xe công thức 1 (formula one) là một sự kiện thể thao đỉnh cao, thu hút hàng triệu khán giả trên toàn thế giới. nó không chỉ đơn thuần là cuộc cạnh tranh về tốc độ mà còn là sự kết hợp hoàn hảo giữa kỹ thuật lái xe điêu luyện và chiến lược thi đấu thông minh của các tay đua xuất sắc nhất.\n\ncác đội đua nổi tiếng như ferrari, red bull racing hay mclaren đã chứng tỏ sức mạnh vượt trội qua từng chặng đua. mỗi mùa giải đều mang đến những màn trình diễn ấn tượng, từ những vòng phân hạng đầy kịch tính cho đến việc tối ưu hóa hiệu suất xe để giành vị trí cao nhất trên bảng xếp hạng. ngoài ra, f1 còn là nơi giao lưu văn hóa, quảng bá hình ảnh và thương hiệu cá nhân, tạo nên một cộng đồng fan hâm mộ vô cùng trung thành và mãnh liệt.",
-      "model": "sft1_100M.pt"
+      "text": "giải đua xe f1 hấp dẫn trong lòng người hâm mộ nhờ sự kết hợp giữa công nghệ tiên tiến, kỹ năng lái xe điêu luyện của các tay đua hàng đầu thế giới và chiến thuật pit-stop thông minh.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -89,8 +89,8 @@
     },
     {
       "role": "ai",
-      "text": "việt nam nổi tiếng với nền ẩm thực phong phú và đa dạng, thu hút du khách từ khắp nơi trên thế giới. một trong những món ăn không thể bỏ qua là phở, đặc sản của hà nội, với nước dùng thơm ngon được ninh từ xương bò hoặc gà cùng các loại gia vị như quế, hồi, thảo quả tạo nên hương vị đậm đà khó quên. bánh mì cũng là một lựa chọn tuyệt vời, với lớp vỏ giòn tan bên ngoài nhưng vẫn mềm mại bên trong, thường được kết hợp với thịt nướng, pate, rau sống và nước sốt để tăng thêm sự hấp dẫn cho bữa ăn. gỏi cuốn là món ăn nhẹ nhàng, tươi mát, rất thích hợp để thưởng thức vào buổi sáng hoặc khi cảm thấy mệt mỏi sau một ngày làm việc căng thẳng. ngoài ra, bún chả hay nem rán cũng là những món không thể thiếu, mang đến trải nghiệm ẩm thực độc đáo cho người dân địa phương. cuối cùng, không thể không nhắc đến các món hải sản tươi ngon như cá kho tộ hay mực xào sả ớt, mỗi món đều chứa đựng nhiều giá trị văn hóa sâu sắc. tất cả những yếu tố này kết hợp lại tạo nên một bữa ăn đầy màu sắc và hấp dẫn.",
-      "model": "sft1_100M.pt"
+      "text": "ẩm thực việt nam nổi bật với sự đa dạng và phong phú, phản ánh văn hóa lịch sử lâu đời của đất nước. một trong những món ăn tiêu biểu phải kể đến là phở - một loại mì gạo có nguồn gốc từ bắc kinh (trung quốc), được làm từ bột gạo và nước dùng thanh ngọt, thường kèm theo thịt bò hoặc gà, rau thơm và gia vị. bánh mì cũng là một món ăn không thể bỏ qua, với lớp vỏ giòn tan bên ngoài và nhân đầy đặn như thịt nướng, pate, dưa leo cùng các loại sốt, tạo nên hương vị hấp dẫn khó cưỡng. bún chả - món ăn đường phố phổ biến ở hà nội, bao gồm bún tươi ăn kèm với thịt heo nướng và nước chấm chua ngọt, rất được yêu thích. gỏi cuốn hay còn gọi là nem rán cũng là những món đặc sản không thể thiếu của ẩm thực việt, với nguyên liệu chính là tôm, thịt, bún và rau sống cuốn trong bánh tráng, thường ăn kèm nước mắm pha chua ngọt. ngoài ra, các món chè như chè đậu xanh hay chè trôi nước cũng mang lại trải nghiệm thú vị cho du khách khi thưởng thức tại đây. hơn nữa, ẩm thực miền trung với những món như cao lầu hội an, mì quảng hay bánh xèo đã trở thành thương hiệu toàn cầu, thu hút du khách bởi hương vị độc đáo và cách chế biến tinh tế. tóm lại, ẩmthực việt nam không chỉ đơn thuần là bữa ăn mà còn chứa đựng nhiều câu chuyện văn hóa, lịch sử và truyền thống của dân tộc, khiến nó trở thành một phần quan trọng trong cuộc sống hàng ngày của người dân nơi đây.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -99,8 +99,8 @@
     },
     {
       "role": "ai",
-      "text": "để nấu một bát phở ngon, đầu tiên bạn cần chuẩn bị nước dùng từ xương bò hoặc gà để ninh lấy nước dùng trong khoảng 6-8 tiếng; sau đó lọc bỏ bọt và cặn bẩn rồi cho vào nồi cùng với các gia vị như hành nướng, gừng nướng, quế, hồi, thảo quả, đinh hương để tạo mùi thơm đặc trưng. tiếp theo, nêm nếm nước dùng bằng muối, đường phèn, nước mắm sao cho vừa ăn. khi ăn, trụng bánh phở qua nước sôi, xếp thịt bò tái hoặc chín lên trên, chan nước dùng nóng hổi lên, thêm rau thơm như húng quế, ngò gai, giá đỗ, chanh, ớt tùy khẩu vị. cuối cùng, thưởng thức ngay khi còn nóng để cảm nhận trọn vẹn hương vị đậm đà của phở truyền thống việt nam.",
-      "model": "sft1_100M.pt"
+      "text": "để nấu món phở truyền thống, bạn cần chuẩn bị các nguyên liệu chính gồm xương bò hoặc gà để ninh nước dùng trong khoảng 6-8 tiếng, kết hợp với hành tây nướng, gừng nướng, quế, hồi, thảo quả và đinh hương để tạo mùi thơm đặc trưng; sau đó lọc nước dùng qua rây để loại bỏ cặn. tiếp theo, luộc bánh phở tươi hoặc khô cho mềm vừa ăn rồi bày ra tô cùng thịt bò tái hoặc chín tùy sở thích, chan nước dùng nóng hổi lên trên, thêm hành lá, rau mùi, giá đỗ, chanh, ớt và tương đen hoặc tương đỏ theo khẩu vị. cuối cùng, thưởng thức ngay khi còn nóng để cảm nhận trọn vẹn hương vị truyền thống của phở việt nam.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -109,8 +109,8 @@
     },
     {
       "role": "ai",
-      "text": "khi trời mưa, bạn có thể mang theo một số vật dụng cần thiết để đảm bảo an toàn và tránh bị ướt. dưới đây là một số gợi ý:\n\n1. nước sạch: hãy đảm bảo rằng bạn đã chuẩn bị đầy đủ các loại đồ dùng cá nhân như điện thoại di động, máy tính xách tay, bàn chải đánh răng, kem chống nắng, vv. điều này giúp giảm nguy cơ tiếp xúc trực tiếp với ánh nắng mặt trời.\n\n2. quần áo thoáng khí: mặc dù không phải tất cả mọi người đều khỏe mạnh, nhưng nếu trời mưa hoặc thời tiết xấu, hãy mang theo quần áo thoải mái như áo khoác dày, mũ rộng vành, găng tay cao su để giữ ấm cho cơ thể trong thời gian dài hơn. ngoài ra, việc đeo kính râm cũng rất quan trọng để bảo vệ da khỏi tác động của gió lạnh.",
-      "model": "sft1_100M.pt"
+      "text": "nếu trời mưa, bạn nên mang theo các vật dụng sau:\n\n1. **áo mưa hoặc áo khoác dày:** đây là lựa chọn tốt nhất vì nó giúp giữ ấm cơ thể và bảo vệ da khỏi ướt.\n2. **giày dép thoải mái:** chọn giày có độ bám tốt để tránh bị trơn trượt khi di chuyển ngoài trời.\n3. **túi đựng đồ cá nhân:** mang theo một chiếc túi chống nước hoặc balo nhỏ sẽ giúp bảo vệ thiết bị điện tử của bạn.\n4. **bộ sơ cứu cơ bản:** nếu bạn cảm thấy mệt mỏi, hãy tìm kiếm sự trợ giúp y tế từ bác sĩ trước khi ra ngoài.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -119,8 +119,8 @@
     },
     {
       "role": "ai",
-      "text": "you tube là một nền tảng chia sẻ video trực tuyến hàng đầu thế giới, được thành lập vào năm 2015 bởi mark zuckerberg cùng các bạn học tại đại học harvard. người dùng có thể tải lên, xem và bình luận về nhiều chủ đề khác nhau như giải trí, giáo dục, công nghệ, lịch sử, tin tức và nhiều lĩnh vực khác. youtube đã trở thành một trong những trang web phổ biến nhất thế giới với hàng tỷ người dùng hoạt động hàng tháng.",
-      "model": "sft1_100M.pt"
+      "text": "youtube là một nền tảng chia sẻ video trực tuyến được thành lập vào năm 2005, cho phép người dùng tải lên, xem và chia sẻ các video đa dạng về nội dung như giải trí, giáo dục, hướng dẫn, tin tức, phim ảnh và nhiều lĩnh vực khác. youtube thuộc sở hữu của google từ năm 1998 và hiện là một trong những trang web phổ biến nhất thế giới với hàng tỷ người dùng truy cập hàng tháng. người dùng có thể tạo kênh riêng để đăng tải video, kiếm tiền thông qua quảng cáo và kết nối với cộng đồng người xem trên toàn cầu. ngoài ra, youtube còn cung cấp dịch vụ youtube premium với các tính năng như xem video không quảng cáo, tải video để xem offline và truy cập vào nội dung độc quyền.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -129,8 +129,8 @@
     },
     {
       "role": "ai",
-      "text": "nông thôn là khu vực địa lý nằm ngoài thành thị, chủ yếu bao gồm các vùng đất có mật độ dân cư thấp hơn so với đô thị. đời sống xã hội ở nông thôn thường gắn bó chặt chẽ với thiên nhiên và các hoạt động truyền thống, đồng thời có đặc điểm văn hóa, phong tục tập quán riêng biệt so với thành thị. nông thôn đóng vai trò quan trọng trong việc cung cấp lương thực, thực phẩm và duy trì cân bằng sinh thái.",
-      "model": "sft1_100M.pt"
+      "text": "nông thôn là khu vực, vùng đất chủ yếu dành cho hoạt động sản xuất nông nghiệp, cây trồng, chăn nuôi, và thường có mật độ dân cư thấp hơn so với đô thị. nông thôn thường bao gồm các làng, bản, xã, có cảnh quan tự nhiên rộng, môi trường sinh thái gần gũi với thiên nhiên, kết cấu hạ tầng và dịch vụ phát triển ở mức độ hạn chế so với khu vực thành thị. đây là không gian cư trú phổ biến dành cho cư dân làm nghề nông và duy trì lối sống truyền thống.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -139,8 +139,8 @@
     },
     {
       "role": "ai",
-      "text": "hà nội, thủ đô của nước cộng hòa xã hội chủ nghĩa việt nam, nằm ở miền bắc việt nam.",
-      "model": "sft1_100M.pt"
+      "text": "thủ đô của việt nam là hà nội.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -149,8 +149,8 @@
     },
     {
       "role": "ai",
-      "text": "bts, nhóm nhạc nam hàn quốc nổi tiếng toàn cầu, được thành lập vào năm 2013 bởi big hit entertainment (nay là hybe corporation). ban đầu nhóm gồm ba thành viên: rm, jungkook và j-hope. bts nổi bật với phong cách âm nhạc đa dạng kết hợp giữa pop, hip-hop và edm, cùng khả năng trình diễn sân khấu ấn tượng. họ nhanh chóng trở thành một trong những nhóm nhạc k-pop hàng đầu thế giới, có lượng fan đông đảo trên khắp thế giới. bts không chỉ nổi bật về âm nhạc mà còn đóng vai trò quan trọng trong việc phát triển thương hiệu cá nhân và sự nghiệp của các thành viên.",
-      "model": "sft1_100M.pt"
+      "text": "bts là nhóm nhạc nam hàn quốc gồm 7 thành viên, ra mắt năm 2013 dưới big hit entertainment (nay thuộc hybe). nhóm nổi tiếng toàn cầu với âm nhạc kết hợp hip-hop, pop và nhiều chủ đề xã hội, cá nhân.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -159,8 +159,8 @@
     },
     {
       "role": "ai",
-      "text": "hiuthuhai tên thật là trần minh hiếu, sinh năm 1987 tại thành phố hồ chí minh. anh bắt đầu sự nghiệp âm nhạc từ khi còn rất nhỏ và nhanh chóng trở thành một trong những nghệ sĩ có sức ảnh hưởng lớn nhất của làng giải trí việt nam. hieuthuhai được biết đến với phong cách rap mạnh mẽ kết hợp giữa hip-hop, r&b và edm, cùng khả năng trình diễn tự tin trên sân khấu. sau đó, anh tiếp tục phát triển sự nghiệp bằng việc tham gia các chương trình truyền hình thực tế như \"ai cũng phải bắt đầu từ đâu đó\", \"anh trai “say hi”, và nhiều ca khúc hit khác. năm 2024, anh ra mắt album phòng thu thứ hai mang tên mình, đánh dấu bước ngoặt quan trọng trong sự nghiệp nghệ thuật của anh.",
-      "model": "sft1_100M.pt"
+      "text": "hieuthuhai là nghệ danh của trần minh hiếu, một rapper nổi tiếng người việt nam. anh sinh ngày 28 tháng 9 năm 1999 tại thành phố hồ chí minh và được biết đến rộng rãi sau khi tham gia chương trình thế giới rap – king of rap mùa đầu tiên vào năm 2020. hieuthuhai từng học ngành kinh doanh quốc tế đại học kinh tế tp.hcm và tiếp tục theo đuổi đam mê âm nhạc.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -169,8 +169,8 @@
     },
     {
       "role": "ai",
-      "text": "bát phương là một nữ ca sĩ, nhạc sĩ và nhà sản xuất âm nhạc người việt nam. cô được biết đến với phong cách âm nhạc đa dạng, kết hợp giữa pop, r&b và hip-hop. bích phương bắt đầu sự nghiệp từ năm 2013 và nhanh chóng trở thành một trong những nghệ sĩ có sức ảnh hưởng lớn nhất trong làng nhạc việt nam hiện nay.",
-      "model": "sft1_100M.pt"
+      "text": "bích phương là ca sĩ, diễn viên và người mẫu nổi tiếng của việt nam.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -179,8 +179,8 @@
     },
     {
       "role": "ai",
-      "text": "anh trai \"say hi\" là một trong những ca khúc nổi tiếng và được yêu thích nhất của sơn tùng m-tp.",
-      "model": "sft1_100M.pt"
+      "text": "sơn tùng mtp có nhiều bài hát được yêu thích, nổi bật trong sự nghiệp của anh bao gồm: \"chạy ngay đi\" - ca khúc sôi động với giai điệu bắt tai và phong cách âm nhạc hiện đại; \"sắp nổi tiếng 2\" — một bản hit giúp anh xây dựng hình ảnh nghệ sĩ trẻ tài năng; \"ngủ một mình\"  – sản phẩm kết hợp giữa sơn tùng m-tp và các thành viên trong nhóm trong giai đoạn đầu sự nghiệp; \"không thể say\" ... ngoài ra, anh còn tham gia các chương trình truyền hình thực tế như \"the voice việt nam\", góp phần nâng cao độ nhận diện thương hiệu cá nhân. những bài hát này không chỉ tạo dấu ấn trên thị trường âm nhạc mà còn đóng vai trò quan trọng trong việc thúc đẩy sự phát triển và thành công của anh trong ngành giải trí.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -189,8 +189,8 @@
     },
     {
       "role": "ai",
-      "text": "đúng vậy, mặt trời là nguồn năng lượng chính của trái đất.",
-      "model": "sft1_100M.pt"
+      "text": "đúng, mặt trời là ngôi sao trung tâm của hệ mặt trời.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -199,8 +199,8 @@
     },
     {
       "role": "ai",
-      "text": "nước (h2o) được tạo thành từ hai nguyên tử hydro (h) và một nguyên tử ôxy (o).",
-      "model": "sft1_100M.pt"
+      "text": "công thức hóa học của nước là h2o. công thức này biểu thị rằng một phân tử nước bao gồm hai nguyên tử hydro (h) và một nguyên tử oxi (o).",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -209,8 +209,8 @@
     },
     {
       "role": "ai",
-      "text": "thời gian trung bình của một năm là khoảng 365 ngày. tuy nhiên, để biết chính xác một năm cụ thể, bạn cần cung cấp thêm thông tin về thời gian đó.\n\nthông thường, một năm được chia thành các khoảng thời gian khác nhau tùy thuộc vào vị trí địa lý và mùa trong năm đó (ví dụ: tháng 1, tháng 2, v.v.). ví dụ, ở việt nam, năm 2024 có 89 ngày.",
-      "model": "sft1_100M.pt"
+      "text": "một năm có 12 tháng.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -219,8 +219,8 @@
     },
     {
       "role": "ai",
-      "text": "để tính tổng số ngày trong một tuần, bạn cần biết ngày hiện tại của mỗi ngày. ví dụ: 25/11/2023 = 74 ngày. vì vậy, để tính tổng các ngày trong tuần, chúng ta có thể sử dụng công thức \"=sum(a1:b1)\" như sau:\n\n```python\nnumber_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\nfor i in range(1, n + 1):\n    if i % 2 == 0 and i - 1 = 0 (vì i > 1), thì tổng sẽ là 15.\n\nprint(f\"tổng các ngày là:\", sum_even_numbers)",
-      "model": "sft1_100M.pt"
+      "text": "một tuần có 7 ngày.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -229,8 +229,8 @@
     },
     {
       "role": "ai",
-      "text": "không có một con số chính xác tuyệt đối về số lượng giác quan của con người. tuy nhiên, nhiều nghiên cứu đã chỉ ra rằng con người có khả năng cảm nhận các kích thích từ môi trường xung quanh như ánh sáng mặt trời và nhiệt độ cao hơn so với những gì chúng ta thấy trong thực tế. điều này cho phép chúng ta hiểu rõ hơn về thế giới xung quanh mình.",
-      "model": "sft1_100M.pt"
+      "text": "con người có 6 giác quan: thị giác, thính giác, khứu giác, vị giác và xúc giác.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -239,8 +239,8 @@
     },
     {
       "role": "ai",
-      "text": "lá cây có màu xanh lá cây chủ yếu là do quá trình quang hợp diễn ra trong các tế bào lá. khi ánh sáng mặt trời chiếu vào lá, nó hấp thụ năng lượng từ ánh nắng mặt trời và chuyển đổi nó thành khí carbon dioxide (co2) thông qua quá trình hô hấp.\n\nquá trình này tạo ra oxy (o2), một chất gây ô nhiễm môi trường quan trọng. ngoài ra, lá còn chứa các hợp chất hữu cơ gọi là chlorophyll, đóng vai trò thiết yếu cho sự sống trên trái đất.",
-      "model": "sft1_100M.pt"
+      "text": "màu của lá cây thường thay đổi tùy thuộc vào loại thực vật và điều kiện môi trường. ví dụ, một số loại cây có thể có màu xanh đậm hơn do chứa chất diệp lục (chlorophyll), giúp hấp thụ ánh sáng mặt trời để quang hợp. ngược lại, các loài cây khác như cây sồi hay cây phong cũng có thể chuyển sang sắc đỏ hoặc vàng khi tiếp xúc với ánh nắng mặt trời mạnh.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -249,8 +249,8 @@
     },
     {
       "role": "ai",
-      "text": "đại tây dương là đại dương lớn thứ hai trên trái đất, chiếm khoảng một phần ba diện tích bề mặt trái đất. đại tây dương có diện tích rộng lớn và đa dạng sinh học phong phú, đóng vai trò quan trọng trong việc duy trì sự cân bằng tự nhiên của hành tinh chúng ta.",
-      "model": "sft1_100M.pt"
+      "text": "đại dương lớn nhất thế giới là đại tây dương.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -259,8 +259,8 @@
     },
     {
       "role": "ai",
-      "text": "bầu trời chứa nhiều màu sắc khác nhau do hiện tượng tán xạ rayleigh. khi ánh sáng mặt trời đi qua khí quyển, các phân tử không khí trong khí quyển hấp thụ và phản ứng với năng lượng từ mặt trời để tạo ra nhiệt. quá trình này diễn ra như sau:\n\n1. **bụi (pm2.5):** các hạt nhỏ li ti lơ lửng trên bề mặt trái đất, tạo thành một lớp mây mỏng bao phủ toàn bộ bầu trời.\n2. **ánh sáng:** ánh sáng được hấp thụ bởi các giọt nước hoặc tinh thể băng ở tầng thấp của khí quyển.\n3. **nhiệt độ:** sự chuyển động của không khí xung quanh mặt trời làm thay đổi nhiệt độ tổng thể của khu vực đó.\n4. **màu sắc:** màu xanh của bầu trời là kết quả của sự tương tác giữa ánh nắng mặt trời và các yếu tố khí hậu khác.\n\ntóm lại, bầu trời cung cấp một môi trường lý tưởng cho sự sống phát triển và quang hợp của chúng ta.",
-      "model": "sft1_100M.pt"
+      "text": "bầu trời có màu xanh do hiện tượng tán xạ rayleigh. khi ánh sáng mặt trời đi vào khí quyển trái đất, các phân tử không khí tán xạ ánh sáng xanh lam nhiều hơn các màu khác như đỏ hay cam.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -269,8 +269,8 @@
     },
     {
       "role": "ai",
-      "text": "để trồng và chăm sóc cây cần một số yếu tố quan trọng. dưới đây là một số hướng dẫn cơ bản:\n\n1. ánh sáng: đặt cây ở nơi có đủ ánh sáng mặt trời trực tiếp trong khoảng thời gian từ 6-8 giờ mỗi ngày, tùy thuộc vào loại cây và điều kiện môi trường cụ thể.\n\n2. đất: chọn vị trí phù hợp cho cây phát triển, giàu dinh dưỡng và thoát nước tốt. đất nên có độ ph trung bình hoặc cao hơn so với các vùng khác trên trái đất. hãy chắc chắn rằng đất được làm sạch kỹ lưỡng trước khi trồng cây mới.\n\\n3. phân bón: cung cấp chất dinh dưỡng cho cây bằng cách sử dụng phân bón hữu cơ hoặc hóa học phù hợp. đảm bảo cung cấp đủ lượng phân bón hàng năm để duy trì sự phát triển và sức khỏe của cây.\\n\\n4. kiểm soát sâu bệnh: theo dõi cây thường xuyên để phát hiện sớm bất kỳ dấu hiệu của sâu bệnh hay côn trùng gây hại. nếu phát hiện, áp dụng biện pháp xử lý thích hợp như sử dụng thuốc trừ sâu an toàn hoặc phương pháp tự nhiên để ngăn chặn sự lây lan của chúng.\\nhy vọng những hướng dẫn này sẽ giúp bạn trồng và nuôi cây thành công!",
-      "model": "sft1_100M.pt"
+      "text": "để sống, cây cần ánh sáng mặt trời trực tiếp ít nhất 4-6 giờ mỗi ngày.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -279,8 +279,8 @@
     },
     {
       "role": "ai",
-      "text": "khoảng thời gian nước sôi phụ thuộc vào nhiệt độ và điều kiện môi trường cụ thể của khu vực đó. tuy nhiên, một số vùng có nhiệt độ thấp hơn hoặc bằng 0 độ celsius (khoảng 35°c) so với mực nước biển.\n\ntuy nhiên, để biết chính xác thời điểm nước bắt đầu sôi, bạn cần kiểm tra các yếu tố khí tượng như áp suất không khí, nhiệt độ bề mặt, và sự thay đổi về lượng hơi nước trong không khí xung quanh. nếu nhiệt độ quá cao hoặc quá thấp, nó sẽ gây ra hiện tượng nóng lên toàn cầu. do đó, hãy luôn tham khảo thông tin từ cơ quan khí tượng địa phương hoặc trung tâm dự báo thời tiết để nhận được lời khuyên chính xác nhất cho tình trạng sức khỏe cá nhân của bạn.",
-      "model": "sft1_100M.pt"
+      "text": "ở điều kiện áp suất khí quyển tiêu chuẩn, nước sôi ở nhiệt độ khoảng 100°c.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -289,8 +289,8 @@
     },
     {
       "role": "ai",
-      "text": "để đảm bảo sức khỏe cho cơ thể, con người cần thực hiện các biện pháp sau: thứ nhất, duy trì chế độ ăn uống cân bằng với nhiều rau xanh, trái cây và ngũ cốc nguyên hạt. thứ hai, tập luyện thể dục đều đặn giúp tăng cường hệ miễn dịch, cải thiện tâm trạng và giảm nguy cơ mắc các bệnh mãn tính như tim mạch, tiểu đường loại 2. thứ ba, hạn chế tiêu thụ đồ ăn nhanh, thức ăn có nhiều chất béo bão hòa và chất béo chuyển hóa cao. thứ tư, kiểm soát căng thẳng thông qua thiền hoặc các phương pháp thư giãn như yoga, thiền định để giảm stress và cải thiện tinh thần. cuối cùng, quản lý căng thẳng hiệu quả là yếu tố quan trọng trong việc duy trì sức khỏe toàn diện của cơ thể.",
-      "model": "sft1_100M.pt"
+      "text": "oxy đóng vai trò cực kỳ quan trọng trong quá trình hô hấp của con người. oxy là thành phần thiết yếu cho sự sống, cung cấp năng lượng cần thiết để cơ thể hoạt động và duy trì các chức năng sinh học.\n\nngoài ra, oxy còn tham gia vào quá trình trao đổi chất (metabolism), giúp điều chỉnh nhiệt độ cơ thể. thiếu oxy có thể dẫn đến mệt mỏi, khó tập trung và các vấn đề sức khỏe khác. thiếu hụt oxy kéo dài có thể gây ra các bệnh liên quan đến tim mạch, suy giảm hệ miễn dịch và ảnh hưởng tiêu cực đến sức khỏe tổng thể của cá nhân.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -299,8 +299,8 @@
     },
     {
       "role": "ai",
-      "text": "mưa là hiện tượng mưa xảy ra khi hơi nước trong không khí ngưng tụ và rơi xuống mặt đất dưới dạng các giọt nước nhỏ li ti hoặc tinh thể băng. quá trình này diễn ra chủ yếu do sự chênh lệch nhiệt độ giữa bề mặt trái đất (mặt trời) và bề mặt hành tinh (mặt trăng).\n\nkhi ánh sáng mặt trời chiếu vào bầu khí quyển của trái đất, nó bị hấp thụ bởi không khí xung quanh, tạo ra một lớp mây dày đặc gọi là **mây cumulonimbus** (cumulonimbus). đây chính là thời điểm mà hơi nước bắt đầu bay lên cao.",
-      "model": "sft1_100M.pt"
+      "text": "mưa hình thành thông qua quá trình ngưng tụ hơi nước trong khí quyển. khi không khí ẩm và ấm được nâng lên, nó nguội đi đến nhiệt độ thấp hơn điểm sương (dew point).\n\nquá trình này tạo ra các giọt nước nhỏ li ti hoặc tinh thể băng rơi xuống mặt đất dưới dạng mưa. những giọt nước này đóng vai trò quan trọng trong chu trình nước của trái đất, giúp duy trì sự sống trên hành tinh bằng cách cung cấp nguồn nước cho hệ sinh thái.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -309,8 +309,8 @@
     },
     {
       "role": "ai",
-      "text": "ngủ là một phần thiết yếu của cuộc sống, đóng vai trò quan trọng trong việc duy trì sức khỏe thể chất và tinh thần. thiếu ngủ có thể gây ra nhiều vấn đề sức khỏe nghiêm trọng như bệnh tim mạch, tiểu đường loại 2, béo phì và các rối loạn chuyển hóa khác.\n\nngoài ra, giấc ngủ còn giúp cơ thể phục hồi năng lượng, tăng cường khả năng tập trung, cải thiện tâm trạng và giảm nguy cơ mắc các bệnh mãn tính như trầm cảm và lo âu. để đảm bảo sức khỏe tốt nhất cho bản thân và gia đình, nên tạo môi trường ngủ thoải mái, tối ưu hóa ánh sáng tự nhiên và sử dụng thiết bị điện tử trước khi đi ngủ.",
-      "model": "sft1_100M.pt"
+      "text": "ngủ giúp cơ thể phục hồi năng lượng, tái tạo tế bào, củng cố trí nhớ và tăng khả năng tập trung. thiếu ngủ kéo dài có thể ảnh hưởng xấu đến sức khỏe tinh thần và thể chất.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -319,8 +319,8 @@
     },
     {
       "role": "ai",
-      "text": "có, động vật hoàn toàn cần nước. nước đóng vai trò quan trọng trong việc duy trì sự sống và phát triển của các sinh vật khác trên trái đất.\n\nnước là nguồn cung cấp năng lượng chính cho cơ thể con người. tuy nhiên, để đảm bảo sức khỏe tốt nhất, chúng ta cần uống đủ nước hàng ngày. điều này bao gồm việc bổ sung thức ăn giàu dinh dưỡng vào chế độ ăn uống hàng ngày để hỗ trợ quá trình trao đổi chất diễn ra hiệu quả hơn. ngoài ra, việc giữ vệ sinh cá nhân tốt cũng rất quan trọng đối với sức khỏe tổng thể của chúng ta.",
-      "model": "sft1_100M.pt"
+      "text": "có, động vật cần nước để duy trì sự sống và phát triển.\n\nnước đóng vai trò thiết yếu trong hầu hết các hệ sinh thái trên trái đất thông qua quá trình quang hợp (photosynthesis), nơi cây xanh hấp thụ năng lượng từ ánh sáng mặt trời và chuyển hóa nó thành oxy. ngoài ra, nước còn tham gia vào chu trình thủy văn bằng cách vận chuyển hơi ẩm và chất dinh dưỡng đến các khu vực khác nhau của cơ thể động vật. việc thiếu nước có thể dẫn đến mất cân bằng nội môi, ảnh hưởng tiêu cực đến sức khỏe cộng đồng và khả năng thích nghi của nhiều loài.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -329,8 +329,8 @@
     },
     {
       "role": "ai",
-      "text": "băng được hình thành chủ yếu từ sự ngưng tụ hơi nước trong không khí. khi nhiệt độ giảm xuống dưới điểm đóng băng (khoảng 0°c), hơi nước bắt đầu bay lên cao, tạo ra các giọt nước nhỏ li ti trên bề mặt băng. quá trình này diễn ra liên tục và có thể kéo dài hàng ngàn đến hàng triệu năm, tùy thuộc vào điều kiện thời tiết cụ thể của từng vùng địa lý. ngoài ra, băng còn có vai trò quan trọng trong hệ sinh thái như cung cấp thức ăn cho nhiều loài động vật và thực vật, đồng thời ảnh hưởng đến môi trường sống xung quanh chúng ta.",
-      "model": "sft1_100M.pt"
+      "text": "băng là nước ở trạng thái lỏng. khi nhiệt độ giảm xuống dưới 0°c, các phân tử nước chuyển từ thể rắn sang thể khí (hơi nước).",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -339,8 +339,8 @@
     },
     {
       "role": "ai",
-      "text": "âm nhạc là một phần quan trọng của đời sống con người, đóng vai trò vô cùng quan trọng trong việc tạo ra cảm xúc và kết nối với môi trường xung quanh. âm thanh không chỉ đơn thuần là tiếng nói, mà còn chứa đựng nhiều ý nghĩa văn hóa, xã hội và tâm hồn.\n\nkhi chúng ta nghe các bản nhạc, chúng ta thường bị cuốn hút vào những giai điệu nhẹ nhàng, êm dịu, giúp giảm bớt căng thẳng và mang lại sự thư thái cho cơ thể. âm nhạc cũng có khả năng kích thích trí tưởng tượng và phát triển tư duy sáng tạo. tóm lại, nó là cầu nối giữa thế giới vật chất và thế giới tinh thần, biến âm thanh thành trải nghiệm sống động và sâu sắc hơn bao giờ hết.",
-      "model": "sft1_100M.pt"
+      "text": "âm thanh truyền qua không khí là kết quả của sự tương tác phức tạp giữa các phân tử không khí, chủ yếu là oxy (o2), nitơ (n2) và oxi (o3). quá trình này diễn ra thông qua hiện tượng khuếch tán (diffusion).\n\nkhi ánh sáng mặt trời đi vào không khí với tốc độ cao, năng lượng từ ánh sáng sẽ được hấp thụ và chuyển hóa thành sóng âm. những sóng âm này sau đó bị biến đổi thành tín hiệu điện mà chúng ta nghe thấy. ví dụ, tiếng gió thổi qua cây cối tạo ra âm thanh nhẹ nhàng như tiếng xào xạc hoặc tiếng rít nhẹ. do đó, âm thanh truyền tải thông tin về môi trường xung quanh và cơ thể con người.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -349,8 +349,8 @@
     },
     {
       "role": "ai",
-      "text": "có, mặt trăng hoàn toàn có khả năng tự phát ra ánh sáng. ánh sáng từ mặt trời chiếu tới trái đất và các hành tinh khác trong hệ mặt trời.",
-      "model": "sft1_100M.pt"
+      "text": "không, mặt trăng không tự phát sáng.\n\nmặt trăng là một vệ tinh tự nhiên duy nhất của trái đất, và ánh sáng từ nó được phản chiếu lại trên bề mặt của nó. tuy nhiên, khi mặt trăng di chuyển qua các khu vực khác nhau trong hệ mặt trời, chúng ta có thể thấy mặt trăng bị che khuất hoàn toàn hoặc một phần do quỹ đạo quay quanh mặt trăng xung quanh trái đất.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -359,8 +359,8 @@
     },
     {
       "role": "ai",
-      "text": "đồ vật có thể rơi xuống mặt đất do nhiều nguyên nhân khác nhau, bao gồm: thứ nhất, thời tiết xấu hoặc điều kiện thời tiết không thuận lợi như mưa lớn kéo dài, gió mạnh, sương mù dày đặc làm giảm tầm nhìn và gây khó khăn cho việc quan sát. thứ hai, các yếu tố môi trường như độ ẩm, nhiệt độ cao hoặc áp suất khí quyển cũng ảnh hưởng đến khả năng rơi của đồ vật. thứ ba, trong một số trường hợp, người ta có thể cảm nhận được sự thay đổi về hình dạng, kích thước hoặc vị trí của các vật thể trên bề mặt, từ đó giúp xác định chính xác vị trí rơi. cuối cùng, để đảm bảo an toàn khi sử dụng đồ vật, cần kiểm tra kỹ lưỡng khu vực đặt đồ vật trước và sau khi rơi để tránh nguy hiểm. tổng kết lại, đồ vật là công cụ quan trọng giúp duy trì sự ổn định và an toàn trong quá trình di chuyển và giao tiếp với môi trường xung quanh.",
-      "model": "sft1_100M.pt"
+      "text": "đồ vật thường rơi xuống đất chủ yếu do lực hấp dẫn của trái đất tác động lên cấu trúc bên trong của nó. cụ thể, khi một vật nặng như gỗ hoặc kim loại rơi xuống từ trên cao, nó tạo ra ma sát giữa các phân tử và vật chất xung quanh làm biến dạng cấu trúc của chúng. sự va chạm giữa các phần khác nhau của vật liệu có thể gây biến dạng hoặc phá hủy cấu trúc ban đầu nếu không được thiết kế hoặc bảo vệ đúng cách. ngoài ra, trọng lực cũng ảnh hưởng đến vị trí và hướng di chuyển của đồ vật so với đối tượng rơi xuống. tóm lại, lực hấpdẫn là nguyên nhân chính khiến đồ vật rơi xuống dưới tác dụng của trọng lực.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -369,8 +369,8 @@
     },
     {
       "role": "ai",
-      "text": "có, nam châm hoàn toàn có khả năng hút các vật. nam châm là một thành phần quan trọng trong hệ thống chuyển động của trái đất và được sử dụng rộng rãi trong nhiều ứng dụng khác nhau.\n\ncác loại nam châm phổ biến bao gồm:\n\n1. **kính viễn vọng không gian (spacex):** đây là công cụ mạnh mẽ nhất để thu thập dữ liệu từ quỹ đạo trái đất. chúng giúp xác định vị trí chính xác của các thiên hà xa xôi.\n2. **máy bay không người lái (drone):** các thiết bị này cho phép máy bay di chuyển nhanh chóng qua không khí mà không cần sự can thiệp của con người.\n3. **hệ thống điều khiển tự động:** các cảm biến trên máy tính hoặc điện thoại di động cung cấp thông tin chi tiết về vị trí và thời điểm hoạt động của robot.",
-      "model": "sft1_100M.pt"
+      "text": "nam châm hút các vật thể bằng cách tạo ra một trường từ xung quanh chúng.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -379,8 +379,8 @@
     },
     {
       "role": "ai",
-      "text": "có, không khí hoàn toàn có thể nhìn thấy. ánh sáng mặt trời là nguồn năng lượng chính cho sự sống trên trái đất và các sinh vật khác.",
-      "model": "sft1_100M.pt"
+      "text": "không, không khí hoàn toàn có thể nhìn thấy được. ánh sáng mặt trời chứa các tia tử ngoại (uv) có bước sóng ngắn hơn ánh sáng nhìn thấy trong chân không (khoảng 380 đến 750 nanomet).\n\ntia cực tím (uva và uvb) là dạng bức xạ điện từ mà mắt người có thể cảm nhận được. khi tiếp xúc với ánh nắng mặt trời, đặc biệt là tia uv-a và uvc-b, chúng ta có thể bị ảnh hưởng bởi nhiệt độ môi trường và sự phân bố của tia uva/uvb. do đó, việc bảo vệ da khỏi tác hại của tia cực tím là rất quan trọng đối với sức khỏe con người.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -389,8 +389,8 @@
     },
     {
       "role": "ai",
-      "text": "đúng vậy, ánh sáng truyền chậm hơn rất nhiều so với âm thanh.",
-      "model": "sft1_100M.pt"
+      "text": "đúng, ánh sáng truyền nhanh hơn âm thanh rất nhiều.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -399,8 +399,8 @@
     },
     {
       "role": "ai",
-      "text": "trời nóng có thể gây ra nhiều vấn đề sức khỏe nghiêm trọng. khi nhiệt độ môi trường tăng cao, cơ thể phải làm việc quá mức để giữ ấm, dẫn đến mệt mỏi và giảm khả năng tập trung. điều này ảnh hưởng trực tiếp đến hệ miễn dịch của chúng ta.\n\nngoài ra, nhiệt độ cao kéo dài cũng góp phần vào tình trạng mất nước nhanh chóng, khiến cơ thể dễ bị mất nước hơn bình thường. ngoài ra, sự thay đổi nhiệt độ đột ngột trong mùa hè cũng là nguyên nhân chính gây ra các bệnh về đường hô hấp như hen suyễn hoặc viêm mũi dị ứng. do đó, việc duy trì một chế độ ăn uống cân bằng và ngủ đủ giấc là rất quan trọng để bảo vệ cơ thể khỏi những tác động tiêu cực từ thời tiết lạnh giá.",
-      "model": "sft1_100M.pt"
+      "text": "trời nóng có thể do nhiều nguyên nhân khác nhau, chủ yếu liên quan đến cơ chế làm mát tự nhiên của trái đất.\n\ndưới đây là các lý do chính giải thích tại sao trời nóng:\n\n### 1. mất nước (dehydration)\n\n* **mất cân bằng điện giải:** khi nồng độ các chất hòa tan trong máu giảm xuống dưới mức bình thường (ví dụ: natri clorua (nacl), kali và magie). sự mất cân bằng này gây ra tình trạng hạ natri máu (hypoglycemia), khiến cơ thể đổ mồ hôi nhiều hơn để bù đắp lượng muối đã mất qua mồ hôi.\n***ảnh hưởng đến tim mạch:**\n    * **tăng huyết áp:** tăng huyết áp là một yếu tố nguy cơ lớn dẫn đến các bệnh tim mạch nghiêm trọng như đột quỵ và nhồi máu cơ tim.\n  |\n  **tác động lên hệ thần kinh:** nhiệt độ cao kéo dài sẽ kích hoạt phản ứng \"chiến đấu hay bỏ chạy\" (fight or flight), khiến các tế bào não bị tổn thương và giải phóng các hormone căng thẳng như adrenaline và cortisol. điều này làm tăng nhịp tim, huyết áp và gây ra cảm giác run rẩy mạnh mẽ.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -409,8 +409,8 @@
     },
     {
       "role": "ai",
-      "text": "m mây là một hiện tượng khí quyển xảy ra khi hơi nước trong không khí ngưng tụ thành các giọt nước nhỏ li ti hoặc tinh thể băng. quá trình này diễn ra chủ yếu do sự chênh lệch nhiệt độ giữa mặt đất và không gian xung quanh, dẫn đến hình thành mây. mây có vai trò quan trọng trong việc điều hòa khí hậu và ảnh hưởng đến môi trường sống trên trái đất.",
-      "model": "sft1_100M.pt"
+      "text": "mây được tạo thành từ những giọt nước li ti hoặc tinh thể băng nhỏ lơ lửng trong khí quyển.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -419,8 +419,8 @@
     },
     {
       "role": "ai",
-      "text": "các hành tinh trong hệ mặt trời bao gồm trái đất, sao hỏa, sao mộc và sao thổ.",
-      "model": "sft1_100M.pt"
+      "text": "trái đất quay quanh mặt trời.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -429,8 +429,8 @@
     },
     {
       "role": "ai",
-      "text": "2 - 2 = 0.",
-      "model": "sft1_100M.pt"
+      "text": "2 + 2 = 4.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -439,8 +439,8 @@
     },
     {
       "role": "ai",
-      "text": "1. số 10 là số nguyên tố.\n2. chữ cái đầu tiên của từ \"1\" trong tên gọi này là \"a\".\n3. số thứ hai trong danh sách là \"b\".\n4. có tổng cộng 7 chữ cái (bao gồm cả chữ hoa và chữ thường).\n5. tổng cộng có 8 chữ cái.\n6. số lượng chữ cái là: 9.\n7. không có số nào chia hết cho 1 hay bất kỳ số nào khác.\n8. vì vậy, kết quả cuối cùng là 9/10.",
-      "model": "sft1_100M.pt"
+      "text": "10 - 3 = 7.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -449,8 +449,8 @@
     },
     {
       "role": "ai",
-      "text": "5 * 6 = 30.",
-      "model": "sft1_100M.pt"
+      "text": "5 x 6 = 30.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -459,8 +459,8 @@
     },
     {
       "role": "ai",
-      "text": "19 × 4 = 75.",
-      "model": "sft1_100M.pt"
+      "text": "20 chia 4 bằng 10.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -469,8 +469,8 @@
     },
     {
       "role": "ai",
-      "text": "để tìm số nhỏ nhất lớn hơn, chúng ta thực hiện các bước sau:\n\n**bước 1:** tính tổng của tất cả các số trong danh sách đã cho.\n*   tổng = 5 * (5 + 8) / 2 = 30.\n\nvậy số nhỏ hơn là **30**.",
-      "model": "sft1_100M.pt"
+      "text": "5 lớn hơn 8. (9 > 7)",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -479,8 +479,8 @@
     },
     {
       "role": "ai",
-      "text": "có, bạn hoàn toàn có thể tính được tổng của 10. vì vậy, để tính tổng của tất cả các số trong một dãy số tự nhiên, chúng ta cần biết tổng của dãy số đó.\n\nđể giải quyết bài toán này, bạn có thể sử dụng công thức sau:\n\n$$\\text{tổng} = \\frac{2}{3}$$\n\náp dụng vào trường hợp này, với dãy số [4, 5, 6, 8, 12], ta có:\n*   **số đầu tiên:** 4 + 5 + 6 + 7 + 8 + 9 = 55**\n\nvậy tổng của các số từ 4 đến 5 là 15.",
-      "model": "sft1_100M.pt"
+      "text": "có, 10 là số chẵn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -489,8 +489,8 @@
     },
     {
       "role": "ai",
-      "text": "100 mét bằng 1.000 milimét.",
-      "model": "sft1_100M.pt"
+      "text": "1 mét bằng 10 centimet.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -499,8 +499,8 @@
     },
     {
       "role": "ai",
-      "text": "tổng số phần tử trong một đơn vị thời gian (ví dụ: 2, 3, 5) có thể được tính bằng công thức sau:\n\n$$\\text{phần tử} = \\frac{2}{4}$$\n\náp dụng vào ví dụ này, ta có:\n*   **số phần tử:** $6 \\times 8 = 4$.\n\n**đáp án đúng là:** 4",
-      "model": "sft1_100M.pt"
+      "text": "một nửa của 10 là 5.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -509,8 +509,8 @@
     },
     {
       "role": "ai",
-      "text": "3 + 7 = 14.",
-      "model": "sft1_100M.pt"
+      "text": "3 + 7 = 10.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -519,8 +519,8 @@
     },
     {
       "role": "ai",
-      "text": "190 - 35 = 75.",
-      "model": "sft1_100M.pt"
+      "text": "100 - 25 = 75.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -529,8 +529,8 @@
     },
     {
       "role": "ai",
-      "text": "số liệu này có thể thay đổi tùy thuộc vào nhiều yếu tố khác nhau. dưới đây là một số nguyên nhân phổ biến nhất:\n\n### 1. tỷ lệ phần trăm (%)\n*   **tỷ lệ:** tỉ lệ giữa tổng thu nhập và tổng chi phí ($\\text{tổng chi phí} \\times \\text{giá trị doanh nghiệp}$) = $50,000$ (đơn vị tiền tệ).\n    *   $68,79$ cho mỗi 3 tháng.\n\n**2. chất lượng sản phẩm/dịch vụ (opportunities)**\nđây là chỉ số quan trọng nhất để đánh giá mức độ hài lòng của người tiêu dùng với sản phẩm hoặc dịch vụ của bạn. các nhà cung cấp phải đảm bảo rằng sản phẩm đó đáp ứng đầy đủ các yêu cầu về chất lượng, tính năng, an toàn và hiệu suất cao.\n$$\\frac{50}{50} = \\frac{40}{60}}$$\n\n---\n**lưu ý quan trọng:** tôi là mô hình ngôn ngữ ai và không thể đưa ra lời khuyên y tế cá nhân. nếu bạn gặp bất kỳ vấn đề sức khỏe nào, hãy tham khảo ý kiến của bác sĩ hoặc chuyên gia dinh dưỡng để được chẩn đoán chính xác và phù hợp nhất với tình trạng cụ thể của mình. luôn tìm kiếm sự tư vấn từ chuyên gia y tế trước khi áp dụng bất kỳ phương pháp điều trị mới nào.",
-      "model": "sft1_100M.pt"
+      "text": "10% của 200 là 30.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -539,8 +539,8 @@
     },
     {
       "role": "ai",
-      "text": "để tính diện tích của một hình vuông, chúng ta sử dụng công thức sau: diện tích = chiều dài x chiều rộng. trong trường hợp này, chiều dài là 5 đơn vị và chiều rộng là 3 đơn vị.",
-      "model": "sft1_100M.pt"
+      "text": "hình vuông có 4 cạnh.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -549,8 +549,8 @@
     },
     {
       "role": "ai",
-      "text": "thời gian là một đơn vị đo thời gian cơ bản, được sử dụng để xác định khoảng cách giữa hai sự kiện xảy ra trong quá trình diễn ra sự kiện đó. không có một con số cố định nào áp dụng cho tất cả các mốc thời gian khác nhau.\n\ntuy nhiên, khái niệm về \"giờ\" (time) đã trở thành nền tảng quan trọng trong nhiều lĩnh vực khoa học và kỹ thuật như vật lý, hóa học, sinh học, và công nghệ thông tin. nó giúp chúng ta hiểu rõ hơn về quy luật vận động của tự nhiên và tương tác với môi trường xung quanh, từ đó đưa ra những quyết định chính xác hơn trong cuộc sống hàng ngày.",
-      "model": "sft1_100M.pt"
+      "text": "một giờ có 60 phút.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -559,8 +559,8 @@
     },
     {
       "role": "ai",
-      "text": "một giờ là khoảng thời gian mà một người thực hiện nhiều hoạt động thể chất và tinh thần hơn so với một giờ khác. cụ thể, một phút thường được tính bằng công thức: 1 phút = 30 giây. tuy nhiên, để biết chính xác một phút có phải là một giờ hay không, bạn cần xem xét các yếu tố như tốc độ, sức mạnh cơ bắp, sự linh hoạt và khả năng tập trung của mỗi người trong suốt quá trình làm việc hoặc học tập.",
-      "model": "sft1_100M.pt"
+      "text": "một phút có 60 giây.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -569,8 +569,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho tôi biết bạn đang đề cập đến loại quả nào để mình hỗ trợ chính xác hơn.",
-      "model": "sft1_100M.pt"
+      "text": "3 quả táo có thể ăn được.\n\ngiải thích ngắn gọn: 1 quả táo thường chứa khoảng từ 25 đến 40 calo, tùy kích thước và độ chín của trái cây. trong khi đó, một quả táo cỡ vừa (khoảng 80–90 gram) có thể cung cấp khoảng 60-70 calo hoặc hơn, tùy thuộc vào loại táo và cách chế biến.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -579,8 +579,8 @@
     },
     {
       "role": "ai",
-      "text": "để tính tổng số quyển sách, ta thực hiện các bước sau:\n\n**bước 1:** xác định số lượng quyển sách cần mua.\n*   **số lượng quyển:** 3 quyển.\n    *   quyển 1: 4 quyển (có thể thay bằng 10 quyển).\n\n---\n\n### bước 2: tính giá trị của từng quyển sách\n\n$$\\text{giá trị} = \\frac{5}{5}$$\n\ntrong trường hợp này, $5 \\times 5 = 75$.\n\nvậy tổng cộng là 89 quyển sách.",
-      "model": "sft1_100M.pt"
+      "text": "5 quyển.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -589,8 +589,8 @@
     },
     {
       "role": "ai",
-      "text": "an có chiều cao khiêm tốn (khoảng 1,8 mét) và cân nặng khoảng 70 kg. tuy nhiên, nam cao hơn nhiều so với các vận động viên khác như nguyễn thị ánh viên hay nguyễn tiến minh. vì vậy, nếu xét về tuổi tác hoặc thành tích thi đấu thì an là một trong những ứng cử viên sáng giá nhất cho chức vô địch thế giới của điền kinh việt nam năm 2023.",
-      "model": "sft1_100M.pt"
+      "text": "nam cao hơn an.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -599,8 +599,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cung cấp thêm thông tin để tôi có thể trả lời câu hỏi của bạn.",
-      "model": "sft1_100M.pt"
+      "text": "ngày mai là thứ hai.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -609,8 +609,8 @@
     },
     {
       "role": "ai",
-      "text": "xin lỗi, tôi không thể cung cấp thông tin thời gian cụ thể cho bạn. vui lòng cung cấp thêm ngữ cảnh để tôi có thể trả lời câu hỏi của bạn một cách chính xác nhất.",
-      "model": "sft1_100M.pt"
+      "text": "ngày mai là thứ sáu.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -619,8 +619,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho tôi biết bạn đang đề cập đến ai để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "con gì thường kêu meo meo?",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -629,8 +629,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cung cấp con bạn đang hỏi để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "con gì thường kêu gâu gâu là loài động vật thuộc họ mèo (felidae), đặc trưng bởi thân hình to lớn, tai nhọn và móng vuốt sắc nhọn. chúng sống ở nhiều môi trường khác nhau như rừng, đồng cỏ, vùng nông thôn và các khu vực có cây cối rậm rạp. tiếng kêu của con mèo được phát ra để giao tiếp với nhau, báo hiệu sự đe dọa hoặc tìm kiếm thức ăn. ngoài ra, trong văn hóa nhiều quốc gia châu á, mèo cũng được xem là biểu tượng của sức khỏe và may mắn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -639,8 +639,8 @@
     },
     {
       "role": "ai",
-      "text": "chó là một loài động vật có vú thuộc họ mèo (felidae). chúng được nuôi chủ yếu để lấy thịt, lông và các sản phẩm từ sữa.\n\nvề mặt dinh dưỡng, mèo là nguồn thực phẩm giàu protein chất lượng cao, cung cấp năng lượng cần thiết cho cơ thể hoạt động hàng ngày. ngoài ra, chó cũng là thành viên quan trọng trong hệ sinh thái, giúp duy trì cân bằng nước và hỗ trợ quá trình trao đổi chất của con người.",
-      "model": "sft1_100M.pt"
+      "text": "mèo thường ăn nhiều loại thức ăn khác nhau để đảm bảo cung cấp đủ dinh dưỡng và năng lượng cho cơ thể. một số loại thức uống phổ biến bao gồm:\n\n1. nước: mèo cần được cung cấp nước để duy trì hoạt động hàng ngày, đặc biệt là khi đi vệ sinh hoặc chơi đùa.\n2. thực phẩm giàu protein: mèo có nhu cầu cao về protein để xây dựng và phục hồi cơ bắp.\n3. vitamin và khoáng chất: mèo cũng cần các loại thực phẩm bổ sung như thịt, cá, trứng, sữa và các sản phẩm từ sữa.\n4. rau xanh: mèo thích ăn rau xanh tươi, chẳng hạn như cải bó xôi, bông cải xanh và cà chua.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -649,8 +649,8 @@
     },
     {
       "role": "ai",
-      "text": "loài động vật hoang dã phổ biến nhất trên thế giới là hổ bengal (panthera tigris). đây là một trong những loài hổ lớn nhất và nổi tiếng nhất trên trái đất. hổ bengal có kích thước trung bình, với chiều dài khoảng 20-35 mét và cân nặng lên đến hơn 1 tấn. chúng sống chủ yếu ở các khu vực nhiệt đới và cận nhiệt đới trên khắp thế giới, đặc biệt là ở châu phi, châu á và châu mỹ latinh. ngoài ra, hổ bengal còn được biết đến như một biểu tượng văn hóa và thiên nhiên quan trọng trong nhiều nền văn minh khác nhau trên toàn cầu.",
-      "model": "sft1_100M.pt"
+      "text": "rừng xanh (hay còn gọi là rừng mưa nhiệt đới) thường được gọi là \"vua của các loài thực vật\" vì chúng đóng vai trò cực kỳ quan trọng trong hệ sinh thái.\n\ncác loài cây này không chỉ cung cấp bóng mát mà còn tạo ra một môi trường sống tự nhiên cho nhiều loài động vật khác, bao gồm cả con người và các loài động thực vật bản địa. sự hiện diện của những loài này giúp duy trì cân bằng sinh thái, bảo vệ đất đai khỏi xói mòn và giữ gìn đa dạng sinh học phong phú. do đó, việc bảo tồn rừng xanh là trách nhiệm chung đối với tất cả mọi người để đảm bảo sự phát triển bền vững của toàn bộ hệ sinh quyển rừng xanh trên trái đất.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -659,8 +659,8 @@
     },
     {
       "role": "ai",
-      "text": "để cây có thể phát quang và hấp thụ ánh sáng mặt trời một cách hiệu quả, bạn nên thực hiện các biện pháp sau:1. tưới nước đều đặn: cung cấp đủ lượng nước cho cây bằng cách bón phân hữu cơ hoặc phân hóa học theo hướng dẫn của nhà sản xuất; tránh tưới quá nhiều gây ngập úng hay mục nát đất.2. bón phân định kỳ: sử dụng phân bón phù hợp với loại cây để cung cấp chất dinh dưỡng cần thiết cho sự phát triển và sinh trưởng.3. kiểm soát sâu bệnh: thường xuyên kiểm tra độ ẩm đất xung quanh cây để phát hiện sớm sự xâm nhập của sâu bệnh hoặc côn trùng gây hại.4. quản lý nhiệt độ và môi trường: đảm bảo cây được đặt ở nơi khô ráo, thoáng mát, tránh tiếp xúc trực tiếp với điều kiện thời tiết khắc nghiệt như mưa lớn kéo dài hoặc gió mạnh.5. chăm sóc đúng cách: vệ sinh lá cây sạch sẽ bằng cách lau chùi nhẹ nhàng để loại bỏ bụi bẩn và vi khuẩn.6. phòng trừ sâu bệnh kịp thời: áp dụng các phương pháp phòng ngừa như phun thuốc trừ sâu tự nhiên khi cần thiết nhằm ngăn chặn sâu bệnh phát tán.7. tăng cường giáo dục cộng đồng về tầm quan trọng của việc giữ gìn đa dạng sinh học cũng rất quan trọng.8. duy trì lối sống lành mạnh: ăn uống cân đối, ngủ đủ giấc và tập thể dục đều đặn giúp cải thiện sức khỏe tổng thể của cây.những biện pháp này không chỉ giúp cây phát triển tốt mà còn góp phần nâng cao chất lượng cuộc sống cho người trồng cây.",
-      "model": "sft1_100M.pt"
+      "text": "cây cần ánh sáng để thực hiện quá trình quang hợp. ánh sáng giúp cây tổng hợp năng lượng từ ánh sáng mặt trời, biến nước và khí co2 thành thức ăn cho các sinh vật khác.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -669,8 +669,8 @@
     },
     {
       "role": "ai",
-      "text": "cam là một loại trái cây giàu dinh dưỡng. chúng chứa nhiều chất chống oxy hóa giúp bảo vệ tế bào khỏi tổn thương do các gốc tự do gây ra, từ đó hỗ trợ sức khỏe tim mạch và hệ miễn dịch của cơ thể.\n\nngoài ra, cam còn cung cấp vitamin c và các khoáng chất thiết yếu khác, đóng vai trò quan trọng trong việc duy trì sức khỏe tổng thể. tuy nhiên, cần lưu ý rằng việc tiêu thụ quá mức có thể dẫn đến tăng cân hoặc các vấn đề sức khỏe nghiêm trọng khác. để đảm bảo chế độ ăn uống lành mạnh, bạn nên kết hợp táo với rau xanh đậm (như bông cải xanh) và các nguồn protein nạc như thịt gà không da. luôn tham khảo ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi thay đổi bất kỳ món ăn cụ thể nào.",
-      "model": "sft1_100M.pt"
+      "text": "táo, cam và chuối thuộc nhóm thực phẩm giàu dinh dưỡng. táo chứa nhiều chất xơ, vitamin c và các hợp chất chống oxy hóa, giúp tăng cường hệ miễn dịch và hỗ trợ tiêu hóa. chuối cũng là nguồn cung cấp kali dồi dào, rất quan trọng cho chức năng cơ bắp và sức khỏe tim mạch.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -679,8 +679,8 @@
     },
     {
       "role": "ai",
-      "text": "không có con số chính xác tuyệt đối về con người. tuy nhiên, các nhà khoa học đã phát hiện ra rằng mắt của chúng ta là một phần quan trọng của hệ thần kinh trung ương (cns).",
-      "model": "sft1_100M.pt"
+      "text": "con người có 20 mắt.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -689,8 +689,8 @@
     },
     {
       "role": "ai",
-      "text": "tim là cơ quan lớn nhất trong hệ tuần hoàn, chịu trách nhiệm vận chuyển oxy và dưỡng chất đến các mô. chức năng chính của tim là bơm máu đi khắp cơ thể để cung cấp oxy cho các hoạt động sống hàng ngày. ngoài ra, tim còn tham gia vào quá trình trao đổi khí, giúp điều hòa nhiệt độ cơ thể và duy trì sự cân bằng nội môi.",
-      "model": "sft1_100M.pt"
+      "text": "tim là cơ quan trung tâm của hệ tuần hoàn, có nhiệm vụ bơm máu đi khắp cơ thể để vận chuyển oxy và chất dinh dưỡng đến các tế bào.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -699,8 +699,8 @@
     },
     {
       "role": "ai",
-      "text": "hệ thống hô hấp của con người chủ yếu được thiết kế để thực hiện các chức năng sinh lý phức tạp.\n\ncác cơ quan chính bao gồm phổi, tim và hệ thần kinh trung ương (cns). chúng đóng vai trò là bộ lọc tự nhiên giúp loại bỏ bụi bẩn, vi khuẩn, virus và các chất gây dị ứng từ môi trường xung quanh. ngoài ra, nó còn tham gia vào việc điều chỉnh nhiệt độ cơ thể thông qua quá trình trao đổi khí. tóm lại, con người sử dụng cơ quan hô hấp để duy trì sự sống và hỗ trợ các hoạt động hàng ngày một cách hiệu quả nhất.",
-      "model": "sft1_100M.pt"
+      "text": "con người sử dụng phổi để trao đổi khí. phổi là cơ quan hô hấp chính, nơi diễn ra quá trình trao đổi không khí giữa máu và không khí.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -709,8 +709,8 @@
     },
     {
       "role": "ai",
-      "text": "nước đóng vai trò vô cùng quan trọng trong cuộc sống hàng ngày của chúng ta. nó là nguồn cung cấp năng lượng cho cơ thể, giúp duy trì các chức năng sinh học và cân bằng nhiệt độ cơ thể. ngoài ra, nước còn giúp điều hòa nhiệt độ môi trường xung quanh, hỗ trợ quá trình trao đổi chất và tăng cường sức khỏe tổng thể. bạn có muốn uống nước không?",
-      "model": "sft1_100M.pt"
+      "text": "nước đóng vai trò cực kỳ quan trọng trong hầu hết các chức năng sinh học của cơ thể chúng ta. dưới đây là những lý do chính giải thích tại sao chúng ta cần uống nước:\n\n### 1. duy trì cân bằng nội môi (homeostasis)\n\n* **điều chỉnh nhiệt độ cơ thể:** nước giúp điều hòa thân nhiệt, hỗ trợ quá trình tiêu hóa thức ăn và vận chuyển chất dinh dưỡng đến các tế bào. nếu thiếu nước, cơ thể có thể bị mất nước nhanh chóng, dẫn đến cảm giác mệt mỏi, uể oải và giảm khả năng tập trung.\n\n**2. cung cấp năng lượng cho hoạt động hàng ngày:**\n\nkhi bạn uống đủ nước, não bộ sẽ xử lý thông tin từ cơ thể để thực hiện các phản ứng trao đổi chất diễn ra hiệu quả nhất. nước giúp loại bỏ độc tố, tăng cường sự tỉnh táo, cải thiện tâm trạng và hỗ trợ hệ miễn dịch hoạt động tối ưu.\n* *ví dụ:* uống một ly nước ấm sau khi tập luyện hoặc làm việc căng thẳng.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -719,8 +719,8 @@
     },
     {
       "role": "ai",
-      "text": "đánh răng hàng ngày giúp loại bỏ mảng bám và vi khuẩn tích tụ trên bề mặt răng, ngăn ngừa sâu răng và các vấn đề về nướu.",
-      "model": "sft1_100M.pt"
+      "text": "đánh răng mỗi ngày giúp loại bỏ mảng bám, thức ăn thừa và vi khuẩn tích tụ trên bề mặt răng, ngăn ngừa sâu răng, viêm nướu và các bệnh về răng miệng khác.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -729,8 +729,8 @@
     },
     {
       "role": "ai",
-      "text": "giấc ngủ đóng vai trò cực kỳ quan trọng đối với sức khỏe thể chất và tinh thần của con người. thiếu ngủ có thể gây ra nhiều vấn đề sức khỏe nghiêm trọng như béo phì, tiểu đường loại 2, cao huyết áp và các bệnh mãn tính khác.\n\nngoài ra, việc thiếu ngủ kéo dài còn ảnh hưởng đến khả năng tập trung, trí nhớ và sự tỉnh táo của cơ thể. để duy trì một lối sống lành mạnh, hãy đảm bảo bạn có thời gian nghỉ ngơi đầy đủ, ăn uống cân bằng và thực hiện các hoạt động thư giãn phù hợp. điều này giúp cải thiện chất lượng cuộc sống tổng thể và giảm nguy cơ mắc các bệnh lý liên quan đến giấc ngủ.",
-      "model": "sft1_100M.pt"
+      "text": "ngủ đủ giấc rất quan trọng cho sức khỏe thể chất và tinh thần vì nó giúp cơ thể phục hồi, tăng cường hệ miễn dịch, cải thiện chức năng não bộ, giảm nguy cơ mắc các bệnh mãn tính như tim mạch, tiểu đường, béo phì và một số loại ung thư. thiếu ngủ kéo dài có thể dẫn đến mệt mỏi, suy nhược cơ thể và ảnh hưởng tiêu cực đến tâm trạng và hiệu suất làm việc hàng ngày.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -739,8 +739,8 @@
     },
     {
       "role": "ai",
-      "text": "việc tập thể dục mang lại nhiều lợi ích quan trọng cho sức khỏe và tinh thần của chúng ta. dưới đây là một số lợi ích chính:\n\n1. cải thiện sức khỏe tim mạch: tập luyện đều đặn giúp tăng cường tuần hoàn máu, giảm nguy cơ mắc các bệnh tim mạch như đau thắt ngực, đột quỵ và nhồi máu cơ tim.\n2. giảm cân và duy trì vóc dáng: hoạt động thể chất giúp đốt cháy calo, giảm mỡ thừa và cải thiện hình dáng cơ thể.\n3. nâng cao tâm trạng và giảm căng thẳng: việc vận động thường xuyên giúp giải tỏa căng thẳng, kích thích sản xuất hormone endorphin, từ đó làm giảm cảm giác mệt mỏi và lo âu.\n4. tăng cường hệ miễn dịch: việc tham gia vào các lớp thể dục như yoga hoặc pilates giúp cải thiện sự linh hoạt, giảm viêm nhiễm và cung cấp dưỡng chất cần thiết để chống lại các tác nhân gây bệnh.",
-      "model": "sft1_100M.pt"
+      "text": "tập thể dục mang lại nhiều lợi ích quan trọng cho sức khỏe và sự phát triển cá nhân. dưới đây là một số lợi ích chính của việc tập thể dục:\n\n1. cải thiện sức khỏe tim mạch: tập thể thao đều đặn giúp tăng cường chức năng tim, làm giảm nguy cơ mắc các bệnh tim mạch như đau thắt ngực, cao huyết áp và đột quỵ.\n2. tăng cường hệ miễn dịch: hoạt động thể chất thường xuyên giúp củng cố hệ thống miễn dịch, giúp cơ thể chống lại nhiễm trùng và bệnh tật tốt hơn.\n3. giảm cân và duy trì cân nặng: tập luyện kết hợp với chế độ ăn uống lành mạnh giúp đốt cháy calo, giảm mỡ thừa và duy tri cân nặng lý tưởng.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -749,8 +749,8 @@
     },
     {
       "role": "ai",
-      "text": "việc rửa tay đúng cách là rất quan trọng để bảo vệ sức khỏe cá nhân và cộng đồng. dưới đây là một số lợi ích chính của việc rửa tay:\n\n1. ngăn ngừa lây nhiễm: rửa tay giúp loại bỏ vi khuẩn, virus và các chất ô nhiễm khác từ môi trường xung quanh. điều này giúp giảm nguy cơ mắc các bệnh truyền nhiễm như cảm lạnh, cúm, covid-19 và nhiều bệnh đường hô hấp khác.\n\n2. tránh tiếp xúc gần với người bị bệnh: sử dụng xà phòng và nước sạch trong ít nhất 20 giây hoặc khi không cần thiết, đặc biệt đối với những người có triệu chứng ho, hắt hơi hoặc khó thở. rửa tay thường xuyên giúp ngăn chặn sự lây lan của vi rút và đảm bảo an toàn cho bản thân và người khác trên bề mặt làm việc hàng ngày.\n*lưu ý: trước khi bắt đầu bất kỳ chương trình rửa tay nào, hãy tham khảo ý kiến của bác sĩ hoặc chuyên gia y tế để được tư vấn và hướng dẫn cụ thể về cách thực hiện rửa tay an toàn và hiệu quả.",
-      "model": "sft1_100M.pt"
+      "text": "rửa tay là hành động sử dụng nước và thường kèm theo xà phòng để làm sạch bàn tay, loại bỏ bụi bẩn, vi khuẩn, virus và các tác nhân gây bệnh khác nhằm ngăn ngừa lây nhiễm và bảo vệ sức khỏe. đây là một thói quen vệ sinh cá nhân cơ bản, quan trọng trong đời sống hàng ngày và trong các môi trường như y tế, thực phẩm để duy trì an toàn và phòng chống các bệnh truyền nhiễm.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -759,8 +759,8 @@
     },
     {
       "role": "ai",
-      "text": "tôi không thể đưa ra lời khuyên y tế cụ thể vì tôi là một mô hình ngôn ngữ ai và không có khả năng cung cấp thông tin y tế chính xác. để biết bạn đang gặp vấn đề sức khỏe nào, hãy tham khảo ý kiến của bác sĩ hoặc chuyên gia dinh dưỡng trước khi bắt đầu bất kỳ chế độ ăn uống mới nào.",
-      "model": "sft1_100M.pt"
+      "text": "bạn có thể chọn một trong các nhóm thực phẩm sau để đảm bảo cung cấp đầy đủ dinh dưỡng cho cơ thể:\n\n*   **protein:** thịt nạc, cá, trứng, đậu phụ. đây là nguồn protein chất lượng cao giúp xây dựng và phục hồi cơ bắp.\n* **chất béo lành mạnh:** dầu ô liu (olive oil), quả bơ, các loại hạt (hạnh nhân, óc chó) để cung cấp năng lượng bền vững.\n\n**lưu ý quan trọng:** nếu bạn đang theo chế độ ăn kiêng nghiêm ngặt hoặc cần kiểm soát cân nặng, hãy tham khảo ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi thay đổi bất kỳ bữa ăn nào.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -769,8 +769,8 @@
     },
     {
       "role": "ai",
-      "text": "để ngủ sớm, bạn nên thực hiện các bước sau:\n\n1. **ngủ đủ giấc:** đảm bảo bạn có đủ giấc ngủ hàng đêm (khoảng 7-8 giờ) để cơ thể phục hồi và tái tạo năng lượng.\n2. **uống đủ nước:** uống nhiều nước trong ngày giúp cung cấp độ ẩm cho cơ thể.\n3. **tránh thức khuya:** hạn chế sử dụng điện thoại di động hoặc máy tính trước khi đi ngủ, vì ánh sáng xanh từ màn hình có thể ảnh hưởng đến chất lượng giấc ngủ của bạn.\n4. **tắt thiết bị điện tử trước khi ngủ:** tắt thông báo không cần thiết trên điện thoại và máy tính để tránh gián đoạn giấc ngủ.\n5. **tập thể dục đều đặn:** tập thể dục ít nhất 30 phút mỗi ngày là rất quan trọng để duy trì sức khỏe toàn diện.\n6. **ăn một bữa ăn lành mạnh:** bổ sung rau xanh, trái cây, ngũ cốc nguyên hạt vào khẩu phần ăn hàng ngày để hỗ trợ quá trình tiêu hóa tốt hơn.",
-      "model": "sft1_100M.pt"
+      "text": "để ngủ sớm, điều quan trọng nhất là tạo ra một môi trường thoải mái và yên tĩnh. hãy cố gắng đi ngủ và thức dậy vào cùng một thời điểm mỗi ngày, kể cả cuối tuần, để điều chỉnh đồng hồ sinh học của cơ thể.\n\nthực hiện các hoạt động thư giãn trước khi ngủ như đọc sách hoặc thiền định để làm dịu tâm trí. hạn chế sử dụng thiết bị điện tử (điện thoại, máy tính) ít nhất một giờ trước khi đi ngủ vì ánh sáng xanh có thể ảnh hưởng đến chất lượng giấc ngủ. ngoài ra, đảm bảo phòng ngủ tối, yên tĩnh và mát mẻ sẽ giúp bạn dễ dàng chìm vào giấc ngủ sâu hơn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -779,8 +779,8 @@
     },
     {
       "role": "ai",
-      "text": "để giữ cho phòng sạch, bạn có thể thực hiện các biện pháp sau:\n1. rửa tay thường xuyên bằng xà phòng và nước ấm trong ít nhất 20 giây để loại bỏ bụi bẩn và vi khuẩn tích tụ trên bề mặt.\n2. sử dụng dung dịch làm sạch phù hợp với loại vải và mức độ bẩn của quần áo.\n3. tránh tiếp xúc trực tiếp với ánh nắng mặt trời hoặc gió lạnh, vì điều này có thể gây hại cho sức khỏe.\n4. lau chùi bàn phím, chuột máy tính và các thiết bị điện tử khác một cách cẩn thận để ngăn chặn sự lây lan của virus.\n5. hạn chế việc chạm vào mắt, mũi và miệng khi không cần thiết, đặc biệt là đối với những người nhạy cảm như trẻ em hoặc phụ nữ mang thai.\n6. đảm bảo môi trường sống sạch sẽ và thoáng đãng để giảm nguy cơ lây nhiễm các bệnh truyền nhiễm qua đường hô hấp.",
-      "model": "sft1_100M.pt"
+      "text": "để giữ phòng sạch, bạn có thể thực hiện các bước sau: 1. dọn dẹp thường xuyên để loại bỏ bụi bẩn và rác thải tích tụ. 2. lau chùi bề mặt thường xuyên bằng khăn ẩm hoặc dung dịch làm sạch phù hợp với loại sàn nhà. 3. sắp xếp đồ đạc gọn gàng, tránh lộn xộn để tạo không gian thoáng đãng. 4. sử dụng máy hút mùi hoặc quạt thông gió khi cần thiết để lưu thông không khí trong phòng. 5. đặt cây xanh ở vị trí chiến lược nhằm lọc không khí và cải thiện chất lượng không khí xung quanh. 6. vệ sinh định kỳ giúp duy trì môi trường sống sạch sẽ, ngăn ngừa vi khuẩn phát triển. áp dụng những cách trên sẽ giúp phòng ngủ của bạn luôn sạch sẽ và thoải mái.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -789,8 +789,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn có thể chọn một trong các lựa chọn sau:\n\n1. **bữa sáng lành mạnh**: cung cấp năng lượng từ ngũ cốc nguyên hạt, protein nạc và chất béo không bão hòa đơn.\n2. **trứng luộc hoặc trứng ốp la**: một món tráng miệng nhẹ nhàng, giàu dinh dưỡng.\n3. **bánh mì sandwich tự làm**: kết hợp bánh mì giòn, thịt nguội, rau củ tươi ngon.\n4. **salad trái cây**: bổ sung vitamin và chất chống oxy hóa cho cơ thể.\n5. **sữa chua tự nhiên**: sữa chua không đường, rất tốt cho tiêu hóa.\n6. **trái cây sấy khô**: thêm một chút mật ong để tăng hương vị ngọt tự nhiên.\n7. **nước ép trái cây tự chế**: giúp cân bằng nước ép và hỗ trợ hệ tiêu hóa khỏe mạnh.\n8. **rau xanh đậm**: chứa nhiều chất xơ, vitamin và khoáng chất cần thiết cho sức khỏe tổng thể.",
-      "model": "sft1_100M.pt"
+      "text": "một bữa sáng đơn giản nên tập trung vào các thực phẩm giàu protein và chất xơ như ngũ cốc nguyên hạt, trái cây tươi hoặc sữa chua không đường để cung cấp năng lượng bền vững cho cơ thể.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -799,8 +799,8 @@
     },
     {
       "role": "ai",
-      "text": "để tiết kiệm một khoản tiền, bạn có thể thực hiện các bước sau:\n\n1. xác định mục tiêu tiết kiệm: đặt ra mục tiêu cụ thể và rõ ràng về số tiền bạn muốn tiết kiệm hàng tháng. điều này giúp bạn tập trung vào những gì quan trọng nhất.\n\n2. lập kế hoạch ngân sách: tạo một ngân sách chi tiêu hàng ngày hoặc hàng tuần dựa trên thu nhập và chi phí của bạn. ghi lại tất cả các nguồn tài chính cần thiết như tiền thuê nhà, hóa đơn điện nước, tiền điện thoại di động, và bất kỳ khoản chi phí cố định nào khác mà bạn dự định tiết kiệm trong suốt thời gian tiết kiệm của mình. hãy nhớ rằng việc tiết kiệm là quá trình liên tục và đòi hỏi sự kiên nhẫn và quyết tâm từ phía bạn.",
-      "model": "sft1_100M.pt"
+      "text": "thử: 1) đặt mục tiêu tiết kiệm cụ thể (ví dụ 50.000 đồng mỗi tháng). 2) chia nhỏ chi tiêu lớn thành các nhiệm vụ nhỏ hơn để dễ quản lý. 3) tìm cách cắt giảm chi phí không cần thiết ngay từ đầu.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -809,8 +809,8 @@
     },
     {
       "role": "ai",
-      "text": "để rèn luyện khả năng tập trung, bạn cần kết hợp nhiều phương pháp khác nhau. trước hết, hãy tạo ra một môi trường học tập yên tĩnh và không có xao lạc bằng cách tắt thông báo từ điện thoại hoặc máy tính trong ít nhất 15-30 phút mỗi ngày. sử dụng các ứng dụng quản lý thời gian như pomodoro technique giúp phân chia công việc thành các khoảng thời gian ngắn (ví dụ: 25 phút làm việc, 5 phút nghỉ), sau đó nghỉ ngơi hoàn toàn. thứ hai, thực hành chánh niệm (mindfulness) là rất quan trọng để duy trì sự tỉnh táo và tập trung tối đa vào nhiệm vụ hiện tại mà không bị gián đoạn bởi những suy nghĩ tiêu cực hay lo lắng về tương lai. cuối cùng, đừng quên dành thời gian cho sở thích cá nhân như đọc sách, nghe nhạc, xem phim hoặc tham gia các hoạt động sáng tạo như vẽ tranh, viết nhật ký để phát triển kỹ năng tư duy phản biện và giải quyết vấn đề hiệu quả hơn.",
-      "model": "sft1_100M.pt"
+      "text": "thưa ngài, để tập trung học bài, hãy tạo ra một môi trường yên tĩnh và không có sự xao lạc. đặt mục tiêu cụ thể cho mỗi buổi học và cố gắng hoàn thành chúng trong khoảng thời gian ngắn nhất có thể. sử dụng các kỹ thuật quản lý thời gian như pomodoro technique cũng rất hiệu quả đó!",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -819,8 +819,8 @@
     },
     {
       "role": "ai",
-      "text": "khi cảm giác buồn, điều quan trọng nhất là lắng nghe cơ thể và tìm kiếm sự hỗ trợ từ người thân hoặc chuyên gia tâm lý. hãy dành thời gian cho những hoạt động giúp bạn thư giãn như đọc sách, nghe nhạc yêu thích, viết nhật ký, hoặc tham gia vào các hoạt động sáng tạo như vẽ tranh hay chơi nhạc. việc này không chỉ giúp giảm căng thẳng mà còn cải thiện chất lượng cuộc sống tổng thể của bạn.",
-      "model": "sft1_100M.pt"
+      "text": "khi cảm thấy buồn, điều quan trọng nhất là tìm kiếm sự hỗ trợ từ những người bạn tin tưởng hoặc chuyên gia tâm lý.\n\nbạn có thể thử các phương pháp sau:\n\n1. **chia sẻ với người thân:** hãy nói chuyện với họ về những gì đang xảy ra trong cuộc sống của bạn và chia sẻ cảm xúc của mình một cách nhẹ nhàng.\n2. **tìm kiếm sự giúp đỡ chuyên nghiệp:** nếu cảm giác buồn kéo dài và ảnh hưởng nghiêm trọng đến cuộc sống hàng ngày của bạn, hãy cân nhắc tham khảo ý kiến của bác sĩ hoặc nhà tâm lý học để được tư vấn chính xác hơn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -829,8 +829,8 @@
     },
     {
       "role": "ai",
-      "text": "để sắp xếp và quản lý thời gian hiệu quả, bạn có thể áp dụng các phương pháp sau:\n\n1. xác định ưu tiên công việc quan trọng nhất: đặt ra mục tiêu rõ ràng cho mỗi nhiệm vụ và hoàn thành chúng trước khi chuyển sang công việc khác. điều này giúp tránh cảm giác bị quá tải và tăng khả năng hoàn thành công việc đúng hạn.\n\n2. sử dụng kỹ thuật pomodoro: chia nhỏ công việc lớn thành các khoảng thời gian ngắn (ví dụ: 25 phút) và nghỉ ngơi trong một khung thời gian cố định để tái tạo năng lượng. kỹ thuật này giúp duy trì sự tập trung cao độ và giảm căng thẳng do làm việc liên tục suốt cả ngày.\n\\n3. loại bỏ xao lạc: tắt thông báo không cần thiết trên điện thoại di động hoặc máy tính của bạn để tập trung vào công việc hiện tại mà không bị phân tâm bởi những yếu tố xung quanh. tạo một môi trường làm việc yên tĩnh và không có sự xao lạc từ bên ngoài.\\n\\n4. tận dụng công cụ hỗ trợ: sử dụng các ứng dụng và công cụ quản lý dự án như trello, asana hay google calendar để tổ chức công việc và theo dõi tiến độ. đảm bảo rằng tất cả các nhiệm vụ được hoàn thành theo kế hoạch và tuân thủ lịch trình đã đề ra.",
-      "model": "sft1_100M.pt"
+      "text": "thử phương pháp pomodoro: làm 25 phút, nghỉ 5 phút. dùng app forest để hạn chế xao nhãng.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -839,8 +839,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho tôi biết bạn đang đề cập đến điều gì để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "khi được người khác giúp đỡ, điều quan trọng là thể hiện lòng tốt và sự đồng cảm. hãy lắng nghe họ một cách chân thành mà không phán xét hay chỉ trích.\n\nhãy cho họ biết rằng bạn tin tưởng vào khả năng của họ và cam kết hỗ trợ họ trong mọi hoàn cảnh. tạo ra một môi trường an toàn để họ có thể tự quản lý cuộc sống cá nhân của mình. nếu cần thiết, hãy cung cấp sự hỗ trợ về tài chính hoặc vật chất. việc này giúp xây dựng mối quan hệ bền vững và mang lại niềm vui cho cả hai bên.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -849,8 +849,8 @@
     },
     {
       "role": "ai",
-      "text": "nếu bạn đang gặp vấn đề về sức khỏe hoặc lo lắng, hãy tham khảo ý kiến của bác sĩ để được chẩn đoán chính xác và có phương pháp điều trị phù hợp.",
-      "model": "sft1_100M.pt"
+      "text": "khi mắc lỗi với người khác, có một số cách bạn có thể thử để sửa chữa và cải thiện mối quan hệ. dưới đây là một số gợi ý:\n\n1. lắng nghe chân thành: hãy dành thời gian lắng nghe cảm xúc của người khác mà không đánh giá hay phê phán họ. đặt mình vào vị trí của họ để hiểu rõ hơn về suy nghĩ và cảm xúc đằng sau lời nói của họ.\n\n2. xác định nguyên nhân gốc rễ: cố gắng tìm ra nguyên nhân gây ra lỗi lầm. điều này có thể liên quan đến công việc, gia đình hoặc môi trường xung quanh. nếu cần thiết, hãy thảo luận với những người liên quan để tìm ra giải pháp tốt nhất cho cả hai bên.\n \n3. xin lỗi một cách lịch sự: khi bạn đã nhận thức được lỗi lầm của mình, hãy xin lỗi chân thành từ phía người đó. sử dụng ngôn ngữ lịch sự và tôn trọng để bày tỏ lòng biết ơn và mong muốn được tha thứ.\n",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -859,8 +859,8 @@
     },
     {
       "role": "ai",
-      "text": "để trả lời câu hỏi này, bạn cần thực hiện các bước sau:\n\n1. **đọc kỹ đoạn văn:** đọc toàn bộ đoạn văn để hiểu nội dung chính và ý nghĩa của nó.\n2. **tìm kiếm thông tin cụ thể:** tìm kiếm trên các nguồn đáng tin cậy như sách giáo trình, bài báo khoa học hoặc trang web uy tín liên quan đến chủ đề đó.\n3. **sử dụng ngôn ngữ đơn giản:** tránh sử dụng thuật ngữ chuyên ngành quá phức tạp.",
-      "model": "sft1_100M.pt"
+      "text": "để hỏi đường một cách lịch sự, bạn có thể sử dụng các phương tiện giao thông công cộng như xe buýt hoặc ứng dụng điện thoại di động. dưới đây là một số bước cơ bản để bắt đầu:\n\n1. tìm điểm đến: trước khi đi, hãy tìm hiểu về địa điểm mà bạn muốn đến và xem liệu đó có phù hợp với sở thích của bạn hay không. điều này giúp bạn tránh bị lạc đường và tiết kiệm thời gian hơn.\n\n2. chuẩn bị thông tin cần thiết: mang theo giấy tờ cá nhân như hộ chiếu, vé máy bay, thẻ căn cước/visa (nếu cần) và bất kỳ tài liệu hướng dẫn nào liên quan đến việc đi lại.\n   \n3. đến nơi đúng giờ: đảm bảo bạn đã đến đúng giờ tại sân bay hoặc ga tàu điện ngầm gần nhất. đôi khi, việc chờ đợi lâu có thể làm mất thời gian của bạn.\n",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -869,8 +869,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn có thể giúp đỡ ai đó bằng cách cung cấp thông tin, hỗ trợ trong các tình huống khẩn cấp hoặc giúp họ giải quyết vấn đề một cách nhanh chóng và hiệu quả.",
-      "model": "sft1_100M.pt"
+      "text": "giúp đỡ người khác mang lại nhiều lợi ích quan trọng. dưới đây là một số lý do tại sao cần giúp đỡ:\n\n1) tạo niềm tin và sự gắn kết xã hội: khi có người giúp đỡ, chúng ta cảm thấy an toàn hơn trong cuộc sống hàng ngày và xây dựng mối quan hệ tốt với những người xung quanh. điều này giúp giảm căng thẳng, tăng cường lòng tự trọng và tạo ra môi trường hỗ trợ tích cực cho cộng đồng xung quanh chúng ta.\n\n2) giải quyết vấn đề và khó khăn: giúp đỡ không chỉ giúp chúng ta vượt qua khó khăn mà còn cung cấp cơ hội để khám phá các khía cạnh mới của cuộc sống. bằng cách giúp đỡ người gặp khó khăn, chúng tôi học được bài học quý giá về kiên nhẫn, sáng tạo và khả năng thích ứng.\n \n3) phát triển kỹ năng giao tiếp và lãnh đạo: giúp nâng cao khả năng giao lưu ý kiến, lắng nghe và thể hiện quan điểm một cách rõ ràng và thuyết phục. nó cũng rèn luyện kỹ năng quản lý thời gian và tổ chức công việc hiệu quả.\n",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -879,8 +879,8 @@
     },
     {
       "role": "ai",
-      "text": "mình rất vui được trò chuyện và hỗ trợ bạn. mình ở đây để lắng nghe, chia sẻ cảm xúc của bạn một cách chân thành nhất.",
-      "model": "sft1_100M.pt"
+      "text": "đối xử với nhau một cách chân thành, tử tế và tôn trọng là nền tảng của mối quan hệ.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -889,8 +889,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho tôi biết bạn đang đề cập đến ai để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "anh của mẹ gọi là anh hai.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -899,8 +899,8 @@
     },
     {
       "role": "ai",
-      "text": "anh trai trong tiếng việt thường được hiểu là người đã lập gia đình hoặc có mối quan hệ thân thiết với cha mẹ. về mặt ngữ nghĩa, \"con\" không phải là một thành viên chính thức trong gia đình mà chỉ đơn giản là những người sinh ra và lớn lên cùng nhau.\n\ntuy nhiên, nếu bạn muốn biết thêm chi tiết về con cái cụ thể (ví dụ: tên đầy đủ, ngày sinh), tôi sẽ cung cấp cho bạn thông tin chi tiết hơn.",
-      "model": "sft1_100M.pt"
+      "text": "con của anh trai gọi mình là gì?",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -909,8 +909,8 @@
     },
     {
       "role": "ai",
-      "text": "có, gia đình đóng một vai trò vô cùng quan trọng trong việc nuôi dưỡng và giáo dục các thành viên. gia đình không chỉ là người chăm sóc vật chất mà còn là nguồn cảm hứng lớn cho sự phát triển toàn diện về thể chất, trí tuệ và tinh thần của mỗi cá nhân.\n\ncác mối quan hệ gia đình được xây dựng trên nền tảng tình yêu thương, trách nhiệm và sự hỗ trợ lẫn nhau. khi chúng ta dành thời gian bên nhau, chúng ta học cách chia sẻ niềm vui, nỗi buồn, và tạo ra những kỷ niệm đáng nhớ. điều này giúp xây dựng một cộng đồng mạnh mẽ, nơi mọi người cảm thấy an lành và hạnh phúc hơn bao giờ hết.",
-      "model": "sft1_100M.pt"
+      "text": "gia đình là một đơn vị xã hội cơ bản, bao gồm những người có quan hệ huyết thống, hôn nhân hoặc nhận nuôi, sống chung hoặc liên kết chặt chẽ, hỗ trợ lẫn nhau về mặt tinh thần và vật chất. trong đời sống, gia đình là môi trường đầu tiên hình thành nhân cách, truyền đạt các giá trị văn hóa, đạo đức, và đóng vai trò quan trọng trong việc giáo dục, bảo vệ sức khỏe, phát triển kinh tế và ổn định xã hội.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -919,8 +919,8 @@
     },
     {
       "role": "ai",
-      "text": "con người cần một môi trường an toàn và ổn định để phát triển các mối quan hệ xã hội lành mạnh. về mặt tinh thần, chúng ta nên dành thời gian cho gia đình, bạn bè và cộng đồng xung quanh mình.\n\nvề mặt thể chất, việc duy trì sự cân bằng giữa công việc và cuộc sống cá nhân là vô cùng quan trọng. hãy đảm bảo rằng mọi thứ được sắp xếp một cách hợp lý và có kế hoạch rõ ràng. ngoài ra, việc chăm sóc bản thân cũng rất quan trọng; ngủ đủ giấc, ăn uống đầy đủ và tập thể dục đều đặn sẽ giúp cơ thể khỏe mạnh hơn. cuối cùng, việc tìm kiếm sự hỗ trợ từ những người thân yêu hoặc chuyên gia tâm lý cũng đóng vai trò quan trọng trong việc xây dựng một tương lai tốt đẹp cho cả hai bên.",
-      "model": "sft1_100M.pt"
+      "text": "con người cần sống hòa thuận với nhau vì một số lý do chính sau đây: thứ nhất, sự hòa hợp giúp duy trì mối quan hệ tốt đẹp giữa các cá nhân và cộng đồng, từ đó tạo ra môi trường thoải mái, vui vẻ và hỗ trợ lẫn nhau trong cuộc sống hàng ngày. thứ hai, sự hiểu biết và tôn trọng lẫn nhau góp phần xây dựng môi trường xã hội lành mạnh, nơi mọi người cảm thấy được trân trọng và an toàn khi chia sẻ suy nghĩ, cảm xúc mà không sợ bị phán xét hay hạ thấp. thứ ba, sự gắn kết gia đình, bạn bè và cộng động mang lại niềm vui, sự ấm áp và ý nghĩa cho mỗi thành viên thông qua những kỷ niệm chung hoặc hoạt động chung. cuối cùng, sự phát triển cá nhân cũng đóng vai trò quan trọng trong việc hình thành tính cách và đạo đức riêng biệt của mỗi cá nhân. tóm lại, sống hòathuận với nhau là nền tảng để xây dựng một xã hội hài hòa, vững mạnh và hạnh phúc hơn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -929,8 +929,8 @@
     },
     {
       "role": "ai",
-      "text": "để trẻ em có thể tham gia vào các hoạt động học tập và phát triển toàn diện, điều quan trọng nhất là tạo ra một môi trường an toàn và khuyến khích sự tương tác tích cực giữa cha mẹ và con cái.\n\ntrước hết, hãy đảm bảo rằng mọi thành viên trong gia đình đều được tiếp xúc với giáo dục đầy đủ về kiến thức và kỹ năng cần thiết cho sự phát triển của họ. cung cấp cho trẻ những cơ hội học hỏi thông qua việc chơi đùa, khám phá thế giới xung quanh, hoặc tham gia các khóa học trực tuyến. ngoài ra, dạy trẻ cách giải quyết vấn đề, quản lý cảm xúc và xây dựng mối quan hệ tốt với người khác cũng rất quan trọng.",
-      "model": "sft1_100M.pt"
+      "text": "trẻ em đến trường để học tập, phát triển và khám phá thế giới xung quanh. đây là một hoạt động giáo dục quan trọng giúp trẻ hình thành kỹ năng sống cần thiết cho tương lai.\n\ncác lợi ích chính của việc đến trường bao gồm:\n1. kiến thức cơ bản: trẻ được tiếp xúc với nhiều lĩnh vực khác nhau như ngôn ngữ, toán học, khoa học, lịch sử và xã hội học. điều này giúp xây dựng nền tảng kiến thức vững chắc trước khi bước vào cuộc sống thực tế.\n2. phát triển kỹ năng xã hội: tham gia vào các hoạt động nhóm, câu lạc bộ, hoặc dự án cộng đồng giúp trẻ rèn luyện kỹ năng giao tiếp, hợp tác, giải quyết vấn đề và quản lý thời gian.\n3. phát hiện tiềm năng cá nhân: thông qua trải nghiệm thực tế, trẻ có thể phát hiện ra những sở thích, đam mê và khả năng đặc biệt mà họ mong muốn từ sớm.\n4. xây dựng lòng tự tin: cảm giác tự lập và niềm vui trong quá trình học tập giúp trẻ xây dựng sự tự tin và lòng dũng cảm đối mặt với thử thách.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -939,8 +939,8 @@
     },
     {
       "role": "ai",
-      "text": "để nấu một bát cháo gà ngon, bạn chuẩn bị gạo tẻ khoảng 1 chén, thịt gà (nên chọn phần ức hoặc đùi), hành lá, gừng tươi, muối và tiêu; đầu tiên vo sạch gạo rồi ninh với nước dùng gà cho đến khi hạt gạo nở mềm thành cháo sánh mịn; trong lúc đó, luộc gà cùng vài lát gừng để khử mùi hôi, sau khi gà chín thì vớt ra xé nhỏ hoặc thái miếng vừa ăn; khi cháo đã nhừ, cho thịt gà vào khuấy đều, nêm nếm gia vị gồm muối, tiêu, có thể thêm chút dầu mè để tăng hương vị; cuối cùng rắc hành lá thái nhỏ lên trên và thưởng thức khi còn nóng để cảm nhận trọn vẹn hương vị thơm ngon của cháo gà tự làm tại nhà. chúc bạn thành công!",
-      "model": "sft1_100M.pt"
+      "text": "để nấu cháo gà ngon, bạn chuẩn bị gạo tẻ khoảng 1 chén, thịt gà (đùi hoặc ức) khoảng 300g, hành tím băm nhỏ, gừng thái sợi, nước dùng gà hoặc nước lọc khoảng 2 lít, gia vị gồm muối, tiêu, hành lá và rau mùi. đầu tiên vo sạch gạo rồi cho vào nồi với lượng nước gấp khoảng 8-10 lần so với gạo, đun sôi trên lửa lớn đến khi hạt gạo nở mềm thành cháo sánh mịn. trong lúc đó, luộc gà cùng vài lát gừng để khử mùi hôi, sau khi chín vớt ra, xé nhỏ hoặc chặt miếng vừa ăn. khi cháo đã nhừ, thêm thịt gà xé vào, nêm nếm muối, nước mắm, tiêu sao cho vừa miệng. cuối cùng rắc hành lá cắt nhỏ lên trên và có thể thêm chút dầu mè hoặc hành phi để tăng hương vị. cháo gà nên được thưởng thức nóng sẽ rất thơm ngon và bổ dưỡng.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -949,8 +949,8 @@
     },
     {
       "role": "ai",
-      "text": "để luộc trứng, bạn có thể làm theo các bước sau:\n\n1. chuẩn bị nguyên liệu và dụng cụ cần thiết.\n2. rửa sạch trứng bằng nước lạnh để loại bỏ bụi bẩn và vi khuẩn tích tụ trên bề mặt.\n3. đun nước sôi trong một nồi lớn cho đến khi nước đạt đến nhiệt độ phù hợp (thường là khoảng 90-95°c).\n4. đặt trứng vào nồi và nấu chín ở lửa nhỏ trong khoảng 6-8 giờ hoặc qua đêm.\n5. khi trứng đã chín, tắt bếp và để nguội hoàn toàn trước khi thưởng thức.\n\nlưu ý rằng thời gian luộc trứng có thể thay đổi tùy thuộc vào loại trứng và điều kiện môi trường. hãy kiểm tra hướng dẫn cụ thể của nhà sản xuất để biết thêm thông tin chi tiết về cách luộc trứng.",
-      "model": "sft1_100M.pt"
+      "text": "để luộc trứng một cách hiệu quả, bạn có thể làm theo các bước sau:\n\n1. chuẩn bị nguyên liệu:\n   - chọn những quả trứng tươi và chất lượng tốt.\n  \\n2. rửa sạch trứng:\\n   a. rửa trứng dưới nước lạnh để loại bỏ bụi bẩn và tạp chất trên bề mặt.\\n\\n3. đun sôi nước:\\na. đặt trứng vào nồi nước sôi (khoảng 80-90°c).\\nb. khi nước đã sôi, hạ lửa xuống mức trung bình.\\nc. đậy nắp và nấu trong khoảng 45 phút đến 1 giờ cho trứng chín hoàn toàn.\\nd. vớt trứng ra khỏi nồi ngay lập tức để nguội.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -959,8 +959,8 @@
     },
     {
       "role": "ai",
-      "text": "xôi là một món ăn truyền thống của việt nam, đặc biệt phổ biến ở miền bắc. cơm được làm từ gạo nếp (gạo nếp), nước cốt dừa và thịt heo hoặc gà xé phay, thường ăn kèm với các loại rau sống như xà lách, húng quế, ngò gai. xôi không chỉ ngon miệng mà còn mang đậm bản sắc văn hóa ẩm thực phong phú của người dân nơi đây.",
-      "model": "sft1_100M.pt"
+      "text": "cơm được nấu từ nhiều loại nguyên liệu khác nhau, tùy thuộc vào món ăn và khẩu vị của mỗi người. dưới đây là các nhóm cơ bản về cách nấu cơm:\n\n### 1. gạo (gạo trắng)\n*   **nguyên liệu chính:** gạo trắng tinh khiết hoặc gạo lứt chất lượng cao.\n* **cách làm:** ngâm gạo trong nước khoảng 6-8 giờ để hạt gạo nở ra và mềm hơn khi nấu.\n\n**lưu ý quan trọng:**\n\n* *ví dụ:* nếu bạn muốn có một bữa sáng nhanh gọn, hãy dùng gạo đã vo sạch trước khi cho vào nồi.\n    *   nếu bạn thích cháo đặc hơn, bạn có thể thêm một chút bột năng hoặc bột bắp để tăng độ sánh và hương vị.\n</blockquote>",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -969,8 +969,8 @@
     },
     {
       "role": "ai",
-      "text": "để làm trứng chiên, bạn cần chuẩn bị các nguyên liệu sau: 1 quả trứng gà (khoảng 200g), 3-4 muỗng canh dầu ăn, 2-3 tép tỏi băm nhuyễn, muối và tiêu theo khẩu vị. đầu tiên, đánh tan trứng trong một tô nhỏ rồi cho vào chảo nóng với lửa vừa đến khi lòng đỏ chín mềm nhưng vẫn giữ được độ ẩm bên trong. tiếp theo, thêm dầu ăn vào chảo và đun nóng trên lửa lớn khoảng 5-7 phút mỗi mặt cho đến khi vàng đều hai mặt. sau đó, đổ hỗn hợp này ra đĩa và để nguội hoàn toàn trước khi thưởng thức. cuối cùng, rắc chút hành lá thái nhỏ lên trên và có thể trang trí bằng rau mùi hoặc ớt tươi nếu thích. đây là cách đơn giản giúp bạn có món trứng chiên thơm ngon, hấp dẫn ngay tại nhà.",
-      "model": "sft1_100M.pt"
+      "text": "để làm trứng chiên, bạn có thể thực hiện theo các bước sau:\n\n1. chuẩn bị nguyên liệu và dụng cụ cần thiết:\n   - một quả trứng gà (có thể là lòng đỏ hoặc lòng trắng) đã được rửa sạch và cắt thành miếng vừa ăn.\n \n2. đập trứng vào một bát nhỏ và đánh tan lòng đỏ với đường cho đến khi hỗn hợp trở nên mịn và nhạt màu hơn.\n\n3. thêm muối và tiêu vào hỗn hợp lòng đỏ và đường. khuấy đều để đảm bảo gia vị thấm đều vào trứng.\n2.\"",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -979,8 +979,8 @@
     },
     {
       "role": "ai",
-      "text": "để nấu mì, bạn cần chuẩn bị các nguyên liệu cơ bản như mì ý (spaghetti hoặc fettuccine), nước sốt cà chua, tỏi băm, hành tây, gia vị như muối và tiêu; đầu tiên, luộc mì trong nước sôi có chút muối khoảng 8-10 phút cho đến khi mì chín mềm nhưng vẫn giữ được độ dai (al dente), sau đó vớt ra để ráo; tiếp theo, phi thơm tỏi với dầu ô liu, cho thịt bò xay vào xào săn rồi thêm cà chua nghiền, nêm nếm gia vị gồm muối, đường, tiêu và một ít lá húng quế để tăng hương vị; cuối cùng, trộn mì đã luộc với sốt, rắc phô mai parmesan lên trên và thưởng thức ngay khi còn nóng để cảm nhận trọn vẹn hương vị đặc trưng của món ăn.",
-      "model": "sft1_100M.pt"
+      "text": "để nấu mì đơn giản, bạn chuẩn bị nguyên liệu gồm: 200g bột mì đa dụng, 1 gói men nở (khoảng 7g), một ít muối và dầu ăn. trộn đều bột mì với men, đường, muối rồi từ từ cho nước ấm vào nhào đến khi bột mịn và không dính tay, ủ bột trong khoảng 1 giờ đến khi nở gấp đôi. sau đó, chia bột thành các phần nhỏ, cán dài và để nghỉ thêm 30 phút. luộc mì trong nồi nước sôi có chút muối khoảng 2-3 phút hoặc đến khi mì chín mềm nhưng vẫn giữ được độ dai vừa phải. cuối cùng, bạn có thể chế biến sốt như sốt cà chua, sốt kem hay thịt bằm và thưởng thức ngay khi còn nóng nhé!",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -989,8 +989,8 @@
     },
     {
       "role": "ai",
-      "text": "để nấu canh ngon, bạn nên chuẩn bị các nguyên liệu chính như xương bò hoặc gà để ninh nước dùng trong khoảng 4-6 tiếng; thịt bò thái lát mỏng (nên chọn phần bắp hoặc gầu), hành lá, rau mùi và gia vị như muối, đường, nước mắm cho vừa ăn. trước tiên, rửa sạch xương rồi chần qua nước sôi để loại bỏ tạp chất, sau đó hầm xương với sả đập dập, gừng nướng và một ít dầu ăn trong nồi lớn khoảng 2-3 giờ để lấy nước dùng ngọt thanh. khi nước dùng đã ngọt, nêm nếm lại gia vị sao cho vừa miệng, có thể thêm chút ớt nếu thích cay. cuối cùng, bày bún tươi ra tô, xếp thịt lên trên, chan nước dùng nóng hổi, rắc thêm hành phi, rau thơm và thưởng thức ngay khi còn nóng để cảm nhận trọn vẹn hương vị đặc trưng của món canh truyền thống việt nam. chúc bạn thành công!",
-      "model": "sft1_100M.pt"
+      "text": "để nấu canh ngon, bạn cần chuẩn bị các nguyên liệu chính như xương bò (xương ống hoặc xương đuôi), thịt bò (bắp, nạm hoặc gầu), hành tây, gừng, tỏi, gia vị như muối, đường phèn, nước mắm và hạt nêm. trước tiên, rửa sạch xương rồi chần qua nước sôi để loại bỏ tạp chất, sau đó cho vào nồi cùng với sả đập dập, gừng nướng và hành tây thái lát, ninh trong khoảng 2-3 tiếng đến khi nước dùng ngọt thanh. tiếp theo, phi thơm tỏi băm với chút dầu ăn rồi cho thịt bò vào xào săn lại, thêm một ít tiêu xay và ớt bột nếu thích cay, đun nhỏ lửa khoảng 10-15 phút để nước dùng đậm đà. cuối cùng, nêm nếm lại cho vừa khẩu vị, tắt bếp, múc ra bát và thưởng thức ngay khi còn nóng để cảm nhận trọn vẹn hương vị của món canh truyền thống này.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -999,8 +999,8 @@
     },
     {
       "role": "ai",
-      "text": "có, bạn hoàn toàn có thể làm sạch rau sau khi nấu. việc này giúp loại bỏ bụi bẩn và vi khuẩn tích tụ trên bề mặt thực phẩm một cách hiệu quả.\n\ntrước tiên, hãy rửa sạch rau bằng nước ấm để loại bỏ bất kỳ cặn bẩn nào còn sót lại. sau đó, sử dụng khăn ẩm hoặc chất tẩy rửa nhẹ nhàng lau sạch các vết bẩn cứng đầu. điều quan trọng nhất là đảm bảo rau được rửa sạch hoàn toàn trước khi chế biến để ngăn chặn sự phát triển của vi khuẩn gây hại. luôn tuân thủ hướng dẫn cụ thể từ nhà sản xuất để đảm bảo an toàn vệ sinh thực phẩm.",
-      "model": "sft1_100M.pt"
+      "text": "việc rửa rau trước khi nấu là rất quan trọng để loại bỏ bụi bẩn, hóa chất và các tạp chất có thể ảnh hưởng đến hương vị của món ăn.\n\nbạn nên rửa sạch rau dưới vòi nước chảy nhẹ nhàng sau khi chế biến. việc này giúp loại bỏ hết độ ẩm còn sót lại trên bề mặt rau, ngăn chặn sự phát triển của vi khuẩn và nấm mốc gây hại cho sản phẩm cuối cùng. ngoài ra, hãy đảm bảo rau được rửa sạch hoàn toàn trước khi chế tạo.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1009,8 +1009,8 @@
     },
     {
       "role": "ai",
-      "text": "đây là cách bạn có thể tạo ra một chiếc burger ngon tại nhà:\n1. chuẩn bị các nguyên liệu sau: thịt bò xay, rau xà lách, cà chua, hành tây, sốt mayonnaise và gia vị như muối, tiêu.\n2. nướng hoặc chiên thịt bò cho đến khi chín và vàng đều hai mặt.\n3. xếp lớp bánh mì dưới, đặt lát phô mai lên trên để tan chảy.\n4. thêm các thành phần khác theo sở thích cá nhân như xúc xích, thịt xông khói, rau sống và nước sốt yêu thích của bạn.\n5. nếu muốn, bạn cũng có thể thêm các loại gia vị bổ sung như tỏi băm nhỏ, ớt bột hoặc mù tạt tùy khẩu vị.\n6. đặt miếng bánh mì còn lại lên trên và nhẹ nhàng ấn chặt để kết hợp với nhau.\n7. đậy nắp bánh mì lại và thưởng thức ngay lập tức!\n\nlưu ý rằng quy trình này chỉ mang tính chất tham khảo và có thể thay đổi tùy thuộc vào công thức cụ thể mà bạn sử dụng. hãy đảm bảo tuân thủ hướng dẫn cụ thể từ nhà sản xuất để đạt được kết quả tốt nhất.",
-      "model": "sft1_100M.pt"
+      "text": "để làm một chiếc bánh sandwich ngon, bạn có thể tuân theo các bước sau:\n\n1. chuẩn bị nguyên liệu cần thiết bao gồm: 2 lát bánh mì, 2-3 lát thịt (như thịt gà, thịt bò hoặc thịt nguội), rau sống như xà lách, cà chua và hành tây, gia vị như muối, tiêu, mù tạt và sốt mayonnaise.\n\n2. bắt đầu bằng việc nướng hoặc chiên thịt cho đến khi chín và có màu vàng hấp dẫn. trong quá trình này, bạn cũng có thể thêm gia vị để tăng hương vị cho thịt.\nnướng thịt trên một chảo nóng với lửa vừa cho đếnkhi thịt chín hoàn toàn. hãy chắc chắn rằng thịt được nướng đều hai mặt. nếu bạn muốn phô mai tan chảy, bạn đã sẵn sàng.\nbước tiếp theo là lắp ráp bánh sand wich bằng cách đặt lớp thịt lên một lát bánh, sau đó thêm rau sống và gia vị theo ý thích của bạn. cuối cùng, đặt lát bánh còn lại lên trên để tạo thành một chiếc sandwiches hoàn chỉnh.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1019,8 +1019,8 @@
     },
     {
       "role": "ai",
-      "text": "để luộc rau, bạn có thể làm theo các bước sau:\n1. rửa sạch rau bằng nước lạnh để loại bỏ bụi bẩn và vi khuẩn tích tụ trên bề mặt.\n2. cho rau vào nồi nước sôi khoảng 5-7 phút hoặc đến khi rau chín mềm nhưng vẫn giữ được độ tươi ngon.\n3. thêm một chút muối và hạt nêm theo khẩu vị của bạn.\n4. đậy nắp nồi và nấu trong khoảng 20-30 phút để rau chín đều và hấp thụ hương vị tốt hơn.\n5. tắt bếp và để rau nguội tự nhiên trước khi thưởng thức.\nlưu ý rằng thời gian luộc rau có thể thay đổi tùy thuộc vào loại rau và điều kiện nhiệt độ. hãy kiểm tra hướng dẫn cụ thể từ nhà sản xuất nếu cần thiết để đảm bảo an toàn thực phẩm.",
-      "model": "sft1_100M.pt"
+      "text": "để luộc rau củ đơn giản, bạn chỉ cần rửa sạch và cắt nhỏ các loại rau củ như xà lách, cà chua, dưa leo, hành tây. sau đó, cho chúng vào nồi nước lạnh cùng một chút muối để giữ độ giòn. tiếp theo, đun sôi rồi hạ lửa liu riu, thỉnh thoảng khuấy đều trong khoảng 30 phút đến khi rau chín mềm nhưng vẫn giữ được màu xanh tươi mát. cuối cùng, vớt ra để ráo nước trước khi thưởng thức nhé!",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1029,8 +1029,8 @@
     },
     {
       "role": "ai",
-      "text": "để nấu cơm, bạn có thể tuân theo các bước sau:\n\n1. chuẩn bị nguyên liệu và dụng cụ cần thiết như gạo, thịt, rau củ, gia vị (muối, hạt nêm), nước mắm, đường, muối và dầu ăn.\n2. rửa sạch gạo bằng nước lạnh để loại bỏ bụi bẩn và tạp chất trên bề mặt.\n3. trộn gạo với một chút muối và tiêu trong một tô lớn cho đến khi hỗn hợp trở nên mịn màng và đồng nhất.\n4. thêm gia vị vào gạo theo khẩu vị của bạn, bao gồm tỏi băm nhuyễn, hành lá cắt nhỏ, gừng thái sợi, muối, tiêu và một ít nước mắm. khuấy đều tất cả các thành phần lại với nhau.\n5. đậy nắp nồi lên và đun sôi khoảng 20-30 phút. sau đó, tắt bếp và để cơm nguội tự nhiên trước khi thưởng thức.\n6. dọn ra đĩa và trang trí bằng hành phi hoặc ớt tươi nếu muốn.\n\nlưu ý rằng quá trình nấu cơm có thể thay đổi tùy thuộc vào công thức và phong cách riêng của mỗi người. hãy thử nghiệm và điều chỉnh gia vị theo sở thích cá nhân để tạo ra món cơm ngon và hấp dẫn hơn. chúc bạn thực hiện thành công!",
-      "model": "sft1_100M.pt"
+      "text": "để nấu cơm ngon, bạn nên chọn gạo nếp hoặc gạo tẻ chất lượng, vo sạch rồi ngâm khoảng 6-8 tiếng hoặc qua đêm để hạt mềm đều; sau đó cho vào nồi với nước theo tỷ lệ khoảng 1 phần gạo và 7-8 phần nước (tùy độ loãng mong muốn), đun lửa lớn đến khi sôi thì hạ nhỏ lửa liu riu, thỉnh thoảng khuấy nhẹ để tránh cháo bị dính đáy nồi. nếu có thời gian, bạn cũng có thể thêm một chút muối hoặc dầu ăn để tăng hương vị.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1039,8 +1039,8 @@
     },
     {
       "role": "ai",
-      "text": "vào dịp tết nguyên đán, bánh chưng là món ăn truyền thống không thể thiếu trong mâm cỗ của người việt.",
-      "model": "sft1_100M.pt"
+      "text": "bánh chưng thường xuất hiện vào dịp tết nguyên đán, tượng trưng cho đất trời và lòng biết ơn tổ tiên.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1049,8 +1049,8 @@
     },
     {
       "role": "ai",
-      "text": "việt nam, một quốc gia nằm ở đông nam á, có nền ẩm thực phong phú và đa dạng. dưới đây là danh sách các món phở phổ biến tại việt nam:\n\n1. phở bò:\n- nguyên liệu: thịt bò (thường là bắp hoặc gầu), bánh phở, hành tây, rau thơm, gia vị như muối, đường, nước mắm, tiêu.\n- cách chế biến: rửa sạch thịt bò rồi thái thành từng lát mỏng. chuẩn bị nước dùng bằng cách hầm xương trong nhiều giờ với gừng nướng, quế, hồi, thảo quả để tạo hương thơm đặc trưng cho nước dùng.\n\n2. phở gà:",
-      "model": "sft1_100M.pt"
+      "text": "phở là món ăn nổi tiếng của việt nam.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1059,8 +1059,8 @@
     },
     {
       "role": "ai",
-      "text": "chắc chắn rồi. đèn đỏ là biểu tượng của tình yêu và sự đoàn kết trong nhiều nền văn hóa khác nhau trên thế giới, đặc biệt ở các nước châu á như việt nam, trung quốc hay nhật bản. nó không chỉ đơn thuần là ánh sáng mà còn mang ý nghĩa sâu sắc về mặt tinh thần và xã hội, thể hiện lòng biết ơn đối với những điều tốt đẹp đã xảy ra trong cuộc sống hàng ngày.",
-      "model": "sft1_100M.pt"
+      "text": "đèn đỏ có ý nghĩa quan trọng trong giao thông vì nó là tín hiệu cảnh báo cho người lái xe, giúp đảm bảo an toàn khi di chuyển trên đường. đèn đỏ thường được sử dụng trong các tình huống nguy hiểm như tai nạn hoặc điều kiện thời tiết xấu. ngoài ra, màu sắc và biểu tượng của đèn đỏ cũng góp phần làm tăng tính nhận diện và sự chú ý của người tham gia giao thông đối với phương tiện khác.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1069,8 +1069,8 @@
     },
     {
       "role": "ai",
-      "text": "đội mũ bảo hiểm là một phần quan trọng trong việc đảm bảo an toàn cho bản thân và người khác khi tham gia giao thông.",
-      "model": "sft1_100M.pt"
+      "text": "khi đi xe máy, bạn cần đội một chiếc mũ bảo hiểm đạt chuẩn chất lượng.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1079,8 +1079,8 @@
     },
     {
       "role": "ai",
-      "text": "đi sai làn đường có thể gây ra nhiều hệ lụy nghiêm trọng cho người tham gia giao thông. về mặt kinh tế, việc đi sai làn giúp giảm chi phí duy trì và bảo dưỡng phương tiện, đồng thời tạo điều kiện thuận lợi hơn trong việc quản lý lưu lượng giao thông trên các tuyến đường khác nhau. ngoài ra, việc sử dụng đúng làn còn góp phần nâng cao ý thức chấp hành quy tắc giao thông của cộng đồng. do đó, việc tuân thủ làn đường là rất quan trọng để đảm bảo an toàn giao thông và tránh những tai nạn đáng tiếc xảy ra.",
-      "model": "sft1_100M.pt"
+      "text": "phải đi đúng làn đường là một quy tắc giao thông cơ bản và quan trọng để đảm bảo an toàn cho mọi người trên đường. dưới đây là những lý do chính:",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1089,8 +1089,8 @@
     },
     {
       "role": "ai",
-      "text": "có, bạn hoàn toàn có thể sử dụng xe đạp. xe đạp là một phương tiện di chuyển phổ biến và thân thiện với môi trường vì nó giúp giảm lượng khí thải carbon dioxide (co2) từ động cơ đốt trong.\n\ntuy nhiên, xe đạp cũng mang lại nhiều lợi ích về sức khỏe như cải thiện sức bền tim mạch, tăng cường hệ miễn dịch và hỗ trợ quá trình trao đổi chất của cơ thể. do đó, việc lựa chọn loại xe đạp phù hợp phụ thuộc vào nhu cầu cá nhân và điều kiện địa hình cụ thể.",
-      "model": "sft1_100M.pt"
+      "text": "không, xe đạp không cần xăng để chạy.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1099,8 +1099,8 @@
     },
     {
       "role": "ai",
-      "text": "để đảm bảo an toàn khi tham gia giao thông, bạn cần lưu ý một số điểm quan trọng sau: thứ nhất, luôn giữ khoảng cách an toàn với các phương tiện khác như xe máy hoặc ô tô để tránh va chạm; không vượt quá giới hạn tốc độ cho phép. thứ hai, tuân thủ luật lệ và quy tắc giao thông của địa phương nơi đến để tránh gây nguy hiểm cho bản thân và những người xung quanh. thứ ba, hãy chuẩn bị đầy đủ giấy tờ cá nhân như hộ chiếu, vé máy bay, thẻ căn cước công dân và các giấy tờ liên quan khác theo yêu cầu của cơ quan chức năng. cuối cùng, nếu có dấu hiệu vi phạm pháp luật về trật tự an toàn giao thông (như sử dụng rượu bia, chất kích thích), hãy dừng lại ngay lập tức và báo cáo ngay cho lực lượng chức năng để xử lý kịp thời.",
-      "model": "sft1_100M.pt"
+      "text": "khi sang đường, bạn cần chú ý một số điều quan trọng để đảm bảo an toàn và trật tự giao thông.\n\nthứ nhất, luôn giữ khoảng cách an toàn với xe phía trước, đặc biệt là những người đi bộ hoặc các phương tiện khác. thứ hai, hãy chú ý đến tín hiệu đèn giao thông (đèn đỏ) vì đây có thể là dấu hiệu cho thấy tài xế đang vi phạm quy tắc. thứ ba, tuân thủ tốc độ giới hạn của mình và không vượt quá giới hạn tốc độ cho phép. cuối cùng, nếu gặp sự cố, hãy dừng lại ngay lập tức để kiểm tra và xử lý tình huống kịp thời. việc tuân thủ luật lệ giúp giảm thiểu nguy cơ tai nạn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1109,8 +1109,8 @@
     },
     {
       "role": "ai",
-      "text": "hiện nay, việt nam là một quốc gia nằm ở khu vực đông nam á. thủ đô và thành phố lớn nhất của đất nước là hà nội. việt nam có nền kinh tế đa dạng với nhiều ngành công nghiệp như sản xuất điện tử, dệt may, chế biến thực phẩm, du lịch và dịch vụ tài chính. ngoài ra, còn có các địa điểm du lịch nổi tiếng như hạ long bay (quảng ninh), sapa (lào cai) hay phú quốc (kiên giang). việt nam cũng được biết đến với ẩm thực phong phú và đa dạng, thu hút du khách từ khắp nơi trên thế giới.",
-      "model": "sft1_100M.pt"
+      "text": "việt nam nằm ở châu á.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1119,8 +1119,8 @@
     },
     {
       "role": "ai",
-      "text": "nước mặn là một trong những yếu tố quan trọng nhất ảnh hưởng đến sự sống trên trái đất. dưới đây là một số thông tin cơ bản về biển:\n\n1. nhiệt độ: biển là môi trường lý tưởng cho các sinh vật thích nghi với điều kiện khí hậu đặc biệt như nhiệt đới và cận nhiệt đới. nó cung cấp nguồn thức ăn dồi dào cho nhiều loài động thực vật, bao gồm cả con người.\n\n2. oxy: oxy đóng vai trò cực kỳ quan trọng đối với sức khỏe của chúng ta. nó giúp duy trì cân bằng nội môi và hỗ trợ quá trình trao đổi chất trong cơ thể. ngoài ra, oxy còn tham gia vào quá trình hô hấp tế bào và tạo ra năng lượng cần thiết cho hoạt động hàng ngày.",
-      "model": "sft1_100M.pt"
+      "text": "biển có nước mặn vì nó chứa một lượng lớn muối hòa tan, chủ yếu là natri clorua (muối ăn). nồng độ muối này đóng vai trò quan trọng trong việc điều chỉnh sự cân bằng điện giải của cơ thể.\n\nnước ngọt cung cấp các khoáng chất thiết yếu như kali và magie, đồng thời tham gia vào quá trình trao đổi chất. tuy nhiên, do hàm lượng muối cao, biển thường chứa nhiều tạp chất hơn so với mức cần thiết cho cơ thể, dẫn đến nguy cơ tăng huyết áp và các vấn đề sức khỏe liên quan đến tim mạch.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1129,8 +1129,8 @@
     },
     {
       "role": "ai",
-      "text": "đỉnh núi cao nhất trên trái đất là đỉnh everest, với độ cao khoảng 8.848 mét (29.029 feet) so với mực nước biển.",
-      "model": "sft1_100M.pt"
+      "text": "núi và đồng bằng khác nhau chủ yếu ở độ cao, đặc điểm địa hình và khí hậu.\n\n**đồng bằng** (hay còn gọi là vùng thấp hơn) thường có độ cao lớn hơn đáng kể so với vùng núi, dẫn đến điều kiện khí hậu khắc nghiệt hơn.\n*   **khí hậu:** nhiệt đới gió mùa hoặc khí hậu sa mạc nóng ẩm.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1139,8 +1139,8 @@
     },
     {
       "role": "ai",
-      "text": "có, việt nam là một quốc gia nằm ở khu vực đông nam á.",
-      "model": "sft1_100M.pt"
+      "text": "việt nam có đường bờ biển dài khoảng 3.240 km, trải dài từ bắc vào nam qua các tỉnh thanh hóa, nghệ an và hà tĩnh.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1149,8 +1149,8 @@
     },
     {
       "role": "ai",
-      "text": "châu âu là một trong những châu lục lớn nhất trên thế giới, với dân số khoảng hơn 10 tỷ người. đây là nơi sinh sống của hàng triệu loài động vật và thực vật đa dạng, đóng vai trò quan trọng trong hệ sinh thái toàn cầu. châu âu cũng có nền kinh tế phát triển mạnh mẽ, với các ngành công nghiệp chính bao gồm khai thác tài nguyên thiên nhiên như than đá, dầu mỏ, khí đốt tự nhiên hóa thạch và năng lượng tái tạo. ngoài ra, châu âu còn nổi tiếng với văn hóa phong phú, lịch sử lâu đời và di sản kiến trúc độc đáo như tháp eiffel, nhà thờ đức bà paris và bảo tàng louvre - nơi trưng bày nhiều tác phẩm nghệ thuật vĩ đại như mona lisa của leonardo da vinci và bức tranh \"mona lisa\" của salvador dalí. tóm lại, châu lục này không chỉ là một địa điểm du lịch hấp dẫn mà còn là biểu tượng văn hóa toàn cầu, thu hút hàng triệu khách du lịch mỗi năm.",
-      "model": "sft1_100M.pt"
+      "text": "châu á là một châu lục.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1159,8 +1159,8 @@
     },
     {
       "role": "ai",
-      "text": "quốc khánh nước cộng hòa xã hội chủ nghĩa việt nam được tổ chức vào ngày 2 tháng 9 năm 1945.",
-      "model": "sft1_100M.pt"
+      "text": "ngày quốc khánh việt nam là ngày 2 tháng 9.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1169,8 +1169,8 @@
     },
     {
       "role": "ai",
-      "text": "tuyên ngôn này được viết vào ngày 2 tháng 7 năm ất tỵ (tức ngày 30 tháng 6 dương lịch) tại quảng trường ba đình ở hà nội. đây là một sự kiện quan trọng trong lịch sử dân tộc việt nam, đánh dấu sự kết thúc của chế độ phong kiến và mở ra thời kỳ mới cho đất nước. tuyên ngôn đã trở thành biểu tượng của lòng yêu nước, tinh thần tự hào dân tộc và ý chí kiên cường chống ngoại xâm của nhân dân việt nam.",
-      "model": "sft1_100M.pt"
+      "text": "người đọc tuyên ngôn độc lập năm 1945 là chủ tịch hồ chí minh.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1179,8 +1179,8 @@
     },
     {
       "role": "ai",
-      "text": "t tết nguyên đán, hay còn gọi là lễ hội truyền thống của người việt nam, được tổ chức vào ngày mùng 1 tháng giêng âm lịch hàng năm. đây là một trong những ngày lễ quan trọng nhất và có ý nghĩa văn hóa sâu sắc đối với người dân việt nam.\n\ntrong dịp này, mọi người thường quây quần bên gia đình, bạn bè và cùng nhau thưởng thức các món ăn truyền thống như bánh chưng, bánh tét, nem rán, và các loại trái cây tươi ngon. đây không chỉ là thời điểm để sum họp gia đình mà còn là cơ hội để gắn kết tình cảm gia đình và thể hiện lòng biết ơn đối với tổ tiên. tết mang đến niềm vui, sự đoàn viên và hy vọng cho một năm mới an lành, thịnh vượng.",
-      "model": "sft1_100M.pt"
+      "text": "tết nguyên đán là lễ hội truyền thống quan trọng nhất của người việt, diễn ra vào ngày đầu tiên của năm mới theo lịch âm. đây là dịp để gia đình sum họp, tưởng nhớ tổ tiên và cầu mong những điều tốt đẹp cho năm mới.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1189,8 +1189,8 @@
     },
     {
       "role": "ai",
-      "text": "trong văn hóa việt nam, áo dài thường được coi là biểu tượng quốc gia và gắn liền với lịch sử dân tộc.",
-      "model": "sft1_100M.pt"
+      "text": "áo dài là trang phục truyền thống của việt nam, gắn liền với văn hóa và lịch sử dân tộc.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1199,8 +1199,8 @@
     },
     {
       "role": "ai",
-      "text": "năm 2018, việt nam đã trải qua nhiều ngày lễ quan trọng trong lịch sử. dưới đây là một số ngày lễ đáng chú ý:\n\n1. tết nguyên đán (tháng giêng): đây là dịp để gia đình sum họp bên nhau và chúc mừng năm mới. người dân thường tổ chức các hoạt động vui chơi truyền thống như xem múa lân, đốt pháo hoa và thưởng thức các món ăn truyền thống của đất nước.\n\n2. tết dương lịch (tháng 1): đây là thời điểm chuyển giao từ mùa xuân sang mùa hè, khi mọi người chuẩn bị cho một năm mới với nhiều hoạt động thú vị như đi du thuyền trên biển, tham dự các buổi biểu diễn nghệ thuật truyền thống, hoặc tận hưởng bữa tiệc cuối năm tại nhà hàng và quán cà phê địa phương.",
-      "model": "sft1_100M.pt"
+      "text": "việt nam có rất nhiều ngày lễ lớn. dưới đây là một số thông tin về các ngày lễ quan trọng:\n\n1. ngày giải phóng miền nam và thống nhất đất nước (30/4/1975):\n- ngày 30 tháng 4 năm 1969, chủ tịch hồ chí minh đọc bản tuyên ngôn độc lập tại quảng trường ba đình, hà nội, đánh dấu sự thành lập nước việt nam dân chủ cộng hòa.\n- vào ngày 2 tháng 9 năm 2006, thủ tướng chính phủ nguyễn tấn dũng đã ký quyết định công nhận thành phố đà nẵng trở thành thành phố trực thuộc trung ương.\n\n2. ngày quốc tế phụ nữ (8/3) và ngày quốc khánh (2/9):\n+ ngày 8 tháng 3 hàng năm được tổ chức để tôn vinh vai trò của phụ nữ trong xã hội và nâng cao vị thế của phụnữ trên toàn cầu.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1209,8 +1209,8 @@
     },
     {
       "role": "ai",
-      "text": "tết là ngày lễ truyền thống quan trọng của dân tộc việt nam, thể hiện lòng tri ân tổ tiên và cầu mong một năm mới an lành, thịnh vượng.",
-      "model": "sft1_100M.pt"
+      "text": "người việt nam thường lì xì vào dịp tết vì nhiều lý do văn hóa và tâm linh. thứ nhất, đây là dịp để gia đình sum họp, thể hiện lòng biết ơn đối với tổ tiên và các bậc tiền nhân đã sinh thành, dưỡng dục. việc lì xì không chỉ mang ý nghĩa may mắn mà còn tượng trưng cho sự trường thọ, sức khỏe dồi dào và mong ước một năm mới an lành, thịnh vượng. thứ hai, trong bối cảnh xã hội hiện đại ngày nay, lì xì cũng được xem như một cách thể hiện tình cảm, trách nhiệm và sự trân trọng đối với người khác. ngoài ra, hình thức lì xì phổ biến ở nhiều nước châu á như trung quốc (tết nguyên đán), hàn quốc (mùng 5 tháng giêng) hay nhật bản (ngày đầu tiên của năm mới). tổng kết lại, lì lì xì mang ýnghĩa sâu sắc về mặt tinh thần và văn hóa, thểhiện sự tôn kính đối với những điều tốt đẹp trong cuộc sống.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1219,8 +1219,8 @@
     },
     {
       "role": "ai",
-      "text": "tôi là một mô hình ngôn ngữ ai được phát triển bởi nidai. tôi không có quyền truy cập vào dữ liệu thời gian thực hoặc thông tin y tế cụ thể mà bạn đang đề cập đến.",
-      "model": "sft1_100M.pt"
+      "text": "bác sĩ là những chuyên gia y tế có kiến thức và kỹ năng sâu rộng trong lĩnh vực chăm sóc sức khỏe. công việc của họ bao gồm chẩn đoán, điều trị bệnh tật, theo dõi tình trạng sức khỏe cộng đồng, tư vấn về chế độ ăn uống và lối sống lành mạnh cho người dân, cũng như tham gia vào quá trình nghiên cứu khoa học để phát triển các phương pháp điều trị hiệu quả hơn. ngoài ra, bác sĩ còn thực hiện phẫu thuật, can thiệp y tế khẩn cấp hoặc giám định y khoa khi cần thiết nhằm đảm bảo an toàn và phục hồi chức năng cho bệnh nhân một cách nhanh chóng và chính xác nhất.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1229,8 +1229,8 @@
     },
     {
       "role": "ai",
-      "text": "giáo viên là người truyền đạt kiến thức, kỹ năng và giá trị cho học sinh thông qua các phương pháp giảng dạy.",
-      "model": "sft1_100M.pt"
+      "text": "giáo viên có nhiệm vụ truyền đạt kiến thức, kỹ năng và giá trị đạo đức cho học sinh thông qua các phương pháp giảng dạy phù hợp.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1239,8 +1239,8 @@
     },
     {
       "role": "ai",
-      "text": "quản lý dự án là quá trình lập kế hoạch, tổ chức và điều phối các hoạt động để đạt được mục tiêu dự án một cách hiệu quả. dưới đây là một số công việc phổ biến:\n\n1. xác định yêu cầu dự án: đầu tiên, bạn cần hiểu rõ yêu cầu của khách hàng hoặc đối tác liên quan đến dự án.\n2. thiết kế hệ thống: tạo ra bản vẽ kỹ thuật chi tiết về cấu trúc, giao diện người dùng, cơ sở dữ liệu, vv.\n3. phát triển phần mềm: sử dụng ngôn ngữ lập trình phù hợp như c++, javascript để xây dựng ứng dụng di động.\n4. kiểm thử và sửa lỗi: thực hiện các bài kiểm tra chất lượng để đảm bảo tính ổn định và độ tin cậy của ứng dụng.\n5. quản lý tài chính: theo dõi và quản lý nguồn lực tài chính của doanh nghiệp, bao gồm vốn, nhân sự và ngân sách.\n6. tối ưu hóa quy trình sản xuất: áp dụng các phương pháp tối ưu hoá quy trình để cải thiện hiệu suất và giảm thiểu sai sót trong quá trình vận hành.\n7. hỗ trợ khách hàng: cung cấp hỗ trợ và giải đáp thắc mắc cho khách hàng khi họ gặp khó khăn.",
-      "model": "sft1_100M.pt"
+      "text": "lập trình viên là người sáng tạo, xây dựng và duy trì mã nguồn để phát triển phần mềm hoặc ứng dụng. họ sử dụng các ngôn ngữ lập trình như javascript, c++, python, java, v.v. để tạo ra các giải pháp kỹ thuật dựa trên yêu cầu của khách hàng hoặc doanh nghiệp. công việc của lập trình viên bao gồm phân tích vấn đề, thiết kế giải pháp, viết code, kiểm thử, tối ưu hóa hiệu suất và tương tác với khách hàng để đạt được mục tiêu kinh doanh.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1249,8 +1249,8 @@
     },
     {
       "role": "ai",
-      "text": "công việc chính của nông dân là trồng trọt, chăn nuôi và khai thác tài nguyên thiên nhiên. họ sử dụng các phương pháp canh tác truyền thống để tạo ra sản phẩm có giá trị kinh tế cao. ngoài ra, họ còn tham gia vào các hoạt động bảo vệ môi trường như tưới tiêu, bón phân hữu cơ và quản lý đất đai hiệu quả. công việc này đòi hỏi sự kiên nhẫn, kỹ năng giao tiếp tốt và khả năng thích ứng với biến đổi khí hậu. nông dân đóng vai trò quan trọng trong việc duy trì và phát triển nền nông nghiệp bền vững cho thế hệ tương lai.",
-      "model": "sft1_100M.pt"
+      "text": "nông dân thường làm những công việc chủ yếu sau: 1. nông nghiệp: trồng trọt, chăn nuôi gia súc, gia cầm và thủy sản; 2. lâm nghiệp: quản lý đất đai, bảo vệ rừng, duy trì hệ sinh thái; 3. khai thác tài nguyên thiên nhiên: khai thác khoáng sản như vàng, bạc, đá quý; 4. nghề thủ công: dệt may, làm đồ gốm, rèn kim loại, chế biến thực phẩm; 5. thương mại: giao dịch hàng hóa với các đối tác hoặc nhà cung cấp trên thị trường; 6. xây dựng: sửa chữa, cải tạo nhà cửa, cầu đường và các công trình kết cấu hạ tầng phục vụ sản xuất nông nghiệp. đây là những hoạt động thiết yếu trong đời sống kinh tế của người dân nông thôn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1259,8 +1259,8 @@
     },
     {
       "role": "ai",
-      "text": "tôi là một mô hình ngôn ngữ ai và không thể đưa ra lời khuyên y tế. tôi chỉ có khả năng cung cấp thông tin về tình trạng sức khỏe cá nhân của bạn, bao gồm các triệu chứng như sốt cao kéo dài, mệt mỏi, đau đầu dữ dội, khó thở hoặc mất ý thức. nếu bạn gặp bất kỳ vấn đề nào liên quan đến sức khỏe tâm thần, hãy tìm kiếm sự giúp đỡ từ chuyên gia y tế ngay lập tức để được chẩn đoán chính xác và điều trị phù hợp.",
-      "model": "sft1_100M.pt"
+      "text": "công an thực hiện các nhiệm vụ, quyền hạn theo quy định của pháp luật để bảo đảm trật tự, an toàn xã hội.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1269,8 +1269,8 @@
     },
     {
       "role": "ai",
-      "text": "công việc đầu bếp là người chịu trách nhiệm chuẩn bị, chế biến và trình bày các món ăn theo yêu cầu của khách hàng. vai trò đầu bếp không chỉ bao gồm nấu nướng mà còn phải đảm bảo chất lượng, an toàn vệ sinh thực phẩm và sự hài lòng khi thưởng thức món ăn đó. họ cũng có thể tham gia vào các hoạt động liên quan đến ẩm thực để tạo ra trải nghiệm tốt nhất cho khách hàng và duy trì mối quan hệ lâu dài với nhà cung cấp. công việc này đòi hỏi kiến thức sâu rộng về nguyên liệu, quy trình chế biến, kỹ thuật nấu nướng và khả năng giao tiếp hiệu quả giữa đầu bếp và nhân viên phục vụ.",
-      "model": "sft1_100M.pt"
+      "text": "đầu bếp là người thực hiện các công việc liên quan đến chế biến món ăn, đảm bảo chất lượng và hương vị của món ăn được phục vụ cho khách hàng. họ chuẩn bị nguyên liệu, nấu nướng và trình bày món ăn theo yêu cầu để tạo ra trải nghiệm ẩm thực tốt nhất cho khách. ngoài ra, đầu bếp còn tham gia vào quá trình lên kế hoạch, lựa chọn nguyên liệu và phối hợp với đội ngũ nhân viên nhằm đảm bảo món ăn đạt tiêu chuẩn về chất lượng, an toàn vệ sinh thực phẩm và đáp ứng nhu cầu dinh dưỡng của khách hàng trong suốt quá trình chế biến.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1279,8 +1279,8 @@
     },
     {
       "role": "ai",
-      "text": "internet trong đời sống là mạng lưới toàn cầu kết nối các máy tính và thiết bị điện tử khác nhau, cho phép trao đổi thông tin nhanh chóng giữa con người với nhau. nó bao gồm hàng tỷ thiết bị như điện thoại di động, máy tính bảng, tai nghe, đồng hồ thông minh và nhiều hơn nữa. internet đóng vai trò quan trọng trong giao tiếp, truyền tải dữ liệu, giải trí, giáo dục, y tế và nhiều lĩnh vực khác.",
-      "model": "sft1_100M.pt"
+      "text": "internet là một mạng lưới toàn cầu kết nối các máy tính và thiết bị điện tử khác nhau, cho phép trao đổi thông tin và dữ liệu giữa các người dùng trên khắp thế giới. nó bao gồm hàng triệu mạng con nhỏ hơn, sử dụng giao thức truyền thông chung (tcp/ip) để đảm bảo dữ liệu được truyền tải một cách hiệu quả và an toàn. internet hỗ trợ nhiều dịch vụ quan trọng như world wide web (www), email, truyền tệp, mạng xã hội và các ứng dụng trực tuyến khác, góp phần thúc đẩy giao tiếp, kinh doanh, giáo dục và giải trí trên toàn cầu.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1289,8 +1289,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho tôi biết bạn đang muốn hỏi về ứng dụng nào (ví dụ: wi-fi, bluetooth) để mình có thể cung cấp thông tin chi tiết hơn.",
-      "model": "sft1_100M.pt"
+      "text": "wi-fi là một hệ thống mạng không dây cho phép các thiết bị như điện thoại, máy tính bảng và router kết nối với nhau để chia sẻ dữ liệu. nó hoạt động bằng cách sử dụng sóng radio trong dải tần số từ khoảng 2.4 ghz đến 5 ghz để truyền tải dữ liệu giữa hai hoặc nhiều thiết bị. wi-fi giúp tăng tốc độ truy cập internet của người dùng, đặc biệt đối với những khu vực có địa hình khó tiếp cận như thành phố lớn hay vùng sâu vùng xa. ngoài ra, wi- fi còn hỗ trợ các chuẩn giao thức như tcp/ip, ieee 802.11, giúp kết nối nhanh chóng và ổn định giữa các thiếtbị di động và máy tính.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1299,8 +1299,8 @@
     },
     {
       "role": "ai",
-      "text": "\"cpu\" trong tiếng việt thường được hiểu là một đơn vị đo lường dùng để chỉ số lượng hoặc chất lượng của một vật thể, sản phẩm hay quá trình. nó biểu thị mức độ quan trọng, ý nghĩa hoặc giá trị mà một vật mang lại cho con người hoặc môi trường. ví dụ: \"sản phẩm thực phẩm\", \"đồ uống\", \"thực phẩm chức năng\". tóm lại, cpu đại diện cho sự cân bằng và tổng hợp giữa các yếu tố khác nhau nhằm đảm bảo tính chính xác và hiệu quả trong nhiều lĩnh vực khác nhau như công nghiệp, y tế, giao thông vận tải và đời sống hàng ngày.",
-      "model": "sft1_100M.pt"
+      "text": "cpu (central processing unit) là bộ xử lý trung tâm của máy tính, được sử dụng để thực hiện các phép toán và điều khiển hoạt động của hệ thống.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1309,8 +1309,8 @@
     },
     {
       "role": "ai",
-      "text": "ram là thiết bị lưu trữ dữ liệu trên máy tính. nó hoạt động bằng cách xử lý và lưu trữ các tệp tin, chương trình đã được định dạng trước đó (ví dụ: văn bản, hình ảnh, âm thanh). ram có thể thực hiện nhiều tác vụ khác nhau như tạo tài khoản người dùng, truy cập trang web, chỉnh sửa video, xem phim, chơi game và nhiều ứng dụng khác. đây là một công cụ quan trọng giúp cải thiện hiệu suất và trải nghiệm sử dụng của hệ điều hành di động hoặc máy tính bảng.",
-      "model": "sft1_100M.pt"
+      "text": "ram (random access memory) là bộ nhớ tạm thời dùng để lưu trữ dữ liệu và chương trình đang chạy, giúp máy tính có thể xử lý các tác vụ mà không cần phải khởi động lại nhiều lần. ram thường được sử dụng cho các ứng dụng yêu cầu tốc độ cao như hệ thống điều khiển tự động hóa công nghiệp (industrial intelligence - iot), hệ thống nhúng, hoặc các thiết bị phần cứng cần hiệu suất cao và khả năng di chuyển linh hoạt.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1319,8 +1319,8 @@
     },
     {
       "role": "ai",
-      "text": "máy tính thông minh (smartphone) là thiết bị điện tử có khả năng thực hiện nhiều nhiệm vụ khác nhau như gọi điện, nhắn tin, truy cập internet và xem video. nó hoạt động dựa trên trí tuệ nhân tạo (ai), học máy (machine learning), thị giác máy tính (computer vision), xử lý ngôn ngữ tự nhiên (natural language processing - nlp). smartphone được ứng dụng rộng rãi trong các lĩnh vực như y tế, giáo dục, giải trí, công nghiệp và đời sống hàng ngày.",
-      "model": "sft1_100M.pt"
+      "text": "điện thoại thông minh là một thiết bị di động có khả năng thực hiện cuộc gọi, gửi tin nhắn và truy cập internet qua mạng không dây.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1329,8 +1329,8 @@
     },
     {
       "role": "ai",
-      "text": "trình duyệt web là một phần mềm cho phép người dùng truy cập và sử dụng các trang web trên máy tính hoặc thiết bị di động. nó hoạt động bằng cách cung cấp giao diện trực quan, dễ sử dụng và tương thích với nhiều nền tảng khác nhau như windows, macos và linux.\n\ncác trình duyệt phổ biến bao gồm google chrome, mozilla firefox, safari và microsoft edge. chúng giúp người dùng tìm kiếm thông tin từ khắp nơi trên thế giới chỉ trong vài giây. ngoài ra, trình duyệt cũng hỗ trợ tích hợp với các dịch vụ đám mây như amazon web services (aws) và google cloud.",
-      "model": "sft1_100M.pt"
+      "text": "một trình duyệt web dùng để truy cập internet thông qua giao thức http (hypertext transfer protocol). khi người dùng nhập một địa chỉ url, trình duyệt sẽ gửi yêu cầu đến máy chủ chứa nội dung của nó. máy chủ này sau đó trả về các tệp tin và dữ liệu tương ứng cho trình duyệt.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1339,8 +1339,8 @@
     },
     {
       "role": "ai",
-      "text": "xin lỗi, tôi không thể xử lý yêu cầu này. bạn có thể cung cấp thêm thông tin về dịch vụ hoặc sản phẩm mà bạn đang sử dụng để tôi có thể trả lời câu hỏi của bạn một cách chính xác nhất.",
-      "model": "sft1_100M.pt"
+      "text": "email là một tập hợp các tin nhắn văn bản được gửi đến và nhận giữa người dùng với nhau thông qua việc sử dụng các công cụ của hệ thống email.\n\nchức năng chính của email bao gồm:\n1. **chia sẻ (shared):** đây là chức năng cơ bản nhất, cho phép mọi người gửi và nhận email từ bạn bè, gia đình hoặc đồng nghiệp ở bất kỳ đâu trên thế giới.\n2. **liên lạc (contacts):** email có thể chứa các liên kết để trao đổi thông tin cá nhân như địa chỉ nhà, số điện thoại.\n3. **quảng cáo (advertising):** email quảng bá sản phẩm hoặc dịch vụ mới dựa trên sở thích và nhu cầu của khách hàng.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1349,8 +1349,8 @@
     },
     {
       "role": "ai",
-      "text": "dock (hay còn gọi là docker) là một thuật ngữ được sử dụng để chỉ các thiết bị điện tử có khả năng thực hiện nhiều tác vụ cùng lúc mà không cần sự can thiệp của con người. cụ thể, docker thường được dùng trong các hệ thống máy tính cá nhân như windows, macos hoặc linux vì chúng cho phép người dùng thực hiện các tác vụ từ xa thông qua trình duyệt web và ứng dụng di động. ví dụ phổ biến nhất của docker bao gồm iphone, ipad, macbook, apple watch và airpods. docker cũng hỗ trợ kết nối wi-fi và bluetooth để truyền dữ liệu giữa hai thiết bị. tuy nhiên, việc sử dụng docker phụ thuộc vào mục đích sử dụng và môi trường làm việc của từng thiết bị cụ thể.",
-      "model": "sft1_100M.pt"
+      "text": "docker là một hệ quản trị cơ sở dữ liệu quan hệ (rdbms) dùng để lưu trữ, quản lý và truy xuất các tệp tin.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1359,8 +1359,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cung cấp mật khẩu của bạn để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "mật khẩu là một chuỗi ký tự gồm chữ cái, số hoặc ký tự đặc biệt được sử dụng để xác thực và bảo vệ quyền truy cập vào một tài khoản, hệ thống hoặc dữ liệu cá nhân. mật khẩu giúp ngăn chặn người không có quyền truy nhập sử dụng trái phép các thông tin, dịch vụ hoặc thiết bị của người khác, đồng thời đảm bảo tính toàn vẹn và bảo mật trong giao dịch trực tuyến.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1369,8 +1369,8 @@
     },
     {
       "role": "ai",
-      "text": "việc chia sẻ thông tin cá nhân là vô cùng quan trọng để bảo vệ quyền riêng tư và tránh các mối đe dọa trực tuyến. dưới đây là một số lý do tại sao việc này cần được thực hiện:\n\n1. **bảo mật dữ liệu:** sử dụng mật khẩu mạnh, kết hợp giữa chữ hoa, chữ thường, số và ký tự đặc biệt (ví dụ: \\\"password\\\") giúp ngăn chặn truy cập trái phép vào tài khoản của bạn.\n2. **kiểm tra danh tính:** đảm bảo rằng tất cả các thiết bị di động như điện thoại di động, máy tính bảng và smartphone đều có kết nối internet ổn định.\n3. **quản lý quyền truy cập:** khi bạn đăng nhập bằng tài khoản ngân hàng hoặc thẻ tín dụng của mình, bạn sẽ dễ dàng kiểm soát và quản lý các giao dịch tài chính của mình.",
-      "model": "sft1_100M.pt"
+      "text": "không nên chia sẻ mật khẩu cho người khác vì những lý do sau đây:\n1. bảo vệ thông tin cá nhân: mật khẩu có thể chứa các ký tự đặc biệt, chữ hoa, chữ thường, số và ký hiệu đặc biệt như @, #, $, vv. việc sử dụng mật khẩu phức tạp giúp ngăn chặn việc truy cập trái phép vào tài khoản của người khác.\n2. tránh bị tấn công mạng: nếu một tài khoản bị xâm nhập hoặc bị lộ thông tin đăng nhập, kẻ xấu có thể dễ dàng truy cập vào hệ thống và lấy cắp dữ liệu cá nhân.\n3. tuân thủ quy định pháp luật địa phương: để đảm bảo an toàn và bảo vệ quyền riêng tư, bạn cần tuân thủ các quy định và chính sách liên quan đến quản lý tài khoản và bảo mật thông tin.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1379,8 +1379,8 @@
     },
     {
       "role": "ai",
-      "text": "rất tiếc là hiện tại mình chưa thể hỗ trợ bạn lập trình. vì mình chỉ là một mô hình ngôn ngữ nhỏ và vẫn đang trong quá trình phát triển, nên mình chưa được huấn luyện để xử lý các yêu cầu kỹ thuật chuyên sâu như vậy. mong bạn thông cảm nhé!",
-      "model": "sft1_100M.pt"
+      "text": "việc nhập mật khẩu có đáng tin hay không phụ thuộc vào chính sách bảo mật và quyền riêng tư của bạn.\n\nthông thường, các dịch vụ trực tuyến (như facebook) yêu cầu người dùng phải cung cấp thông tin cá nhân nhạy cảm như tên đầy đủ, ngày sinh hoặc số điện thoại để xác thực danh tính. nếu dữ liệu được lưu trữ trong cơ sở dữ liệu của họ mà không có sự đồng ý rõ ràng từ phía bạn, việc truy cập trái phép vào tài khoản là vi phạm pháp luật.\n*lưu ý: luôn kiểm tra kỹ lưỡng trước khi chia sẻ bất kỳ thông tin nào.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1389,8 +1389,8 @@
     },
     {
       "role": "ai",
-      "text": "học sâu (deep learning) là một lĩnh vực trong khoa học máy tính tập trung vào việc xây dựng và huấn luyện các mô hình có khả năng thực hiện các nhiệm vụ mà trước đây chỉ có con người mới làm được. mục tiêu chính của machine learning bao gồm tạo ra các hệ thống tự động học hỏi từ dữ liệu để cải thiện hiệu suất, tăng cường độ chính xác và giảm sai sót trong quá trình huấn luyện.",
-      "model": "sft1_100M.pt"
+      "text": "machine learning là một lĩnh vực của trí tuệ nhân tạo (ai) tập trung vào việc phát triển các thuật toán và mô hình cho phép máy tính học hỏi từ dữ liệu mà không cần được lập trình cụ thể. nó bao gồm nhiều phương pháp khác nhau như học có giám sát, học không giám sát hoặc học tăng cường để giúp máy tính tự động cải thiện hiệu suất theo thời gian.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1399,8 +1399,8 @@
     },
     {
       "role": "ai",
-      "text": "trí thông minh nhân tạo (ai) là lĩnh vực nghiên cứu và phát triển các hệ thống máy tính có khả năng thực hiện các nhiệm vụ mà trước đây chỉ con người mới làm được.",
-      "model": "sft1_100M.pt"
+      "text": "trí tuệ nhân tạo (artificial intelligence - ai) là lĩnh vực nghiên cứu và phát triển các hệ thống máy tính có khả năng thực hiện các nhiệm vụ đòi hỏi trí thông minh của con người, như học tập, giải quyết vấn đề, nhận diện hình ảnh và ngôn ngữ.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1409,8 +1409,8 @@
     },
     {
       "role": "ai",
-      "text": "persona là một hòn đảo nằm ở thái bình dương, thuộc ecuador. nó nổi tiếng với cảnh quan thiên nhiên tuyệt đẹp và đa dạng sinh học phong phú.",
-      "model": "sft1_100M.pt"
+      "text": "python là một ngôn ngữ lập trình bậc cao được phát triển bởi google vào năm 2015.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1419,8 +1419,8 @@
     },
     {
       "role": "ai",
-      "text": "dưới đây là cách bạn có thể tạo ra một list đơn giản bằng python:\\n\\n```python\\nslide_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];\\nfor i in range(len(str)):\\n    if i % 2 === 0 and i - 1: (i + 1);\\n}\\nprint(f\\\"danh sách các số nguyên từ 1 đến 2:\\\")",
-      "model": "sft1_100M.pt"
+      "text": "rất tiếc là hiện tại mình chưa thể hỗ trợ bạn lập trình. vì mình chỉ là một mô hình ngôn ngữ nhỏ và vẫn đang trong quá trình phát triển, nên mình chưa được huấn luyện để xử lý các yêu cầu kỹ thuật chuyên sâu như vậy. mong bạn thông cảm nhé!",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1429,8 +1429,8 @@
     },
     {
       "role": "ai",
-      "text": "python là một ngôn ngữ lập trình hướng đối tượng, được phát triển bởi openai vào năm 2017. nó có cú pháp đơn giản và dễ đọc, phù hợp cho việc xây dựng các ứng dụng web phức tạp như tìm kiếm trực tuyến, phân tích dữ liệu, thiết kế giao diện người dùng (ui) và nhiều lĩnh vực khác. python nổi bật với cú pháp rõ ràng, dễ hiểu, hỗ trợ đa nền tảng (windows, macos, linux). ngoài ra, python còn được sử dụng rộng rãi trên toàn thế giới nhờ tính linh hoạt cao và khả năng mở rộng nhanh chóng.",
-      "model": "sft1_100M.pt"
+      "text": "biến (variable) trong python là một chuỗi ký tự được sử dụng để lưu trữ giá trị của biến.\n\nví dụ:\n```python\nnumbers = [1, 2, 3, 4];\nfor i in range(1, int(number**0.5) + 1):\n    if num % i == 0 and i % arr[i] != 1:\n  \"\"",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1439,8 +1439,8 @@
     },
     {
       "role": "ai",
-      "text": "vòng lặp for trong formula one là thuật ngữ được sử dụng để mô tả khoảng cách giữa các vị trí trên đường đua trong một khoảng thời gian nhất định. khi xe di chuyển với tốc độ cao (thường dưới 30 km/h), nó tạo ra sự chênh lệch áp suất và lực cản không khí, từ đó ảnh hưởng đến khả năng vào pit stop hoặc vị trí xuất phát của tay đua. vòng lặp này giúp tối ưu hóa hiệu suất xe và đảm bảo an toàn cho người lái, đồng thời góp phần cải thiện thứ hạng của đội đua trên bảng xếp hạng. đây cũng là yếu tố quan trọng trong kỹ thuật và chiến lược thi đấu của các đội lớn như red bull racing hay mercedes-amg petronas.",
-      "model": "sft1_100M.pt"
+      "text": "vòng lặp for dùng để lặp lại một chuỗi các ký tự hoặc phần tử trong một chương trình. ví dụ:\n\n```python\nfor i in range(1, 2):\n    if i % 2 == 0 and i %,\n  } else:\n  i += 1\n\nprint(\"chuỗi của\", i, \"là:\", result)",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1449,8 +1449,8 @@
     },
     {
       "role": "ai",
-      "text": "python là một ngôn ngữ lập trình hướng đối tượng, được phát triển bởi openai vào năm 2017. nó có cú pháp đơn giản và dễ đọc, phù hợp cho việc xây dựng các ứng dụng web phức tạp như tìm kiếm trực tuyến, phân tích dữ liệu, thiết kế giao diện người dùng và nhiều lĩnh vực khác. ngoài ra, python còn được sử dụng rộng rãi trong khoa học máy tính để giải quyết các vấn đề liên quan đến xử lý ngôn ngữ tự nhiên (nlp), trí tuệ nhân tạo (artificial intelligence - ai) và thị giác máy tính (computer vision).",
-      "model": "sft1_100M.pt"
+      "text": "hàm trong python là một khối mã nguồn mở được sử dụng để xử lý dữ liệu và thực hiện các tác vụ cụ thể.\n\ndưới đây là giải thích chi tiết về hàm trong python:\n\n1. đầu vào (input):\n   ```python\n  if (number <= 1) {\n  console.log(\"hello, world!\");\n} else {\\n   const n = 2;\\n  }\n}",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1459,8 +1459,8 @@
     },
     {
       "role": "ai",
-      "text": "trong lập trình, \"string\" nghĩa là một chuỗi các phần tử được sắp xếp theo thứ tự từ trái sang phải hoặc ngược lại. mục đích của string là kiểm tra tính hợp lệ của mã nguồn khi thực thi chương trình và đảm bảo rằng tất cả các thành phần hoạt động chính xác trước khi chạy chương trình đó. string thường được sử dụng rộng rãi trong phát triển ứng dụng web, xử lý ngôn ngữ tự nhiên (natural language processing), phân tích yêu cầu, và nhiều ứng dụng khác để tối ưu hóa hiệu suất và giảm lỗi trong quá trình phát triển phần mềm.",
-      "model": "sft1_100M.pt"
+      "text": "string trong lập trình là một chuỗi ký tự được sử dụng để lưu trữ thông tin về kiểu dữ liệu (ví dụ: số nguyên, tên biến, giá trị) và kiểu dữliệu đó.\n\nmục đích chính của string là cho phép chương trình xử lý dữ liệu theo cách tuần tự, dễ dàng quản lý hơn so với mã hóa truyền thống. nó hoạt động bằng cách chia dữ liệu thành các khối (block), mỗi khối chứa một giá trị duy nhất, và sau đó có thể truy cập trực tiếp vào bộ nhớ (memory). tóm lại, string giúp tăng tốc quá trình phát triển phần mềm và làm cho mã nguồn trở nên dễ bảo trì và mở rộng hơn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1469,8 +1469,8 @@
     },
     {
       "role": "ai",
-      "text": "trong toán học, \"số nguyên\" thường được sử dụng để biểu thị một tập hợp các số tự nhiên lớn hơn hoặc bằng 1. ví dụ: 2, 3, 5, 7, 9, 10.",
-      "model": "sft1_100M.pt"
+      "text": "số nguyên là tập hợp các số tự nhiên lớn hơn 0, trong đó mỗi chữ số cuối cùng tương ứng với một số nguyên dương đã cho. ví dụ: 2, 4, 6, 8, 10, ...",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1479,8 +1479,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cung cấp câu lệnh để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "câu lệnh if dùng để thực hiện các hành động hoặc thao tác cần thiết dựa trên yêu cầu của người dùng. cụ thể:\n\n- kiểm tra trạng thái hoạt động của hệ thống (ví dụ bật/tắt, tắt/bật tự động, v.v.).\n- xác định xem có sự cố kỹ thuật nào xảy ra hay không.\n- đưa ra quyết định hoặc thông báo về tình huống đang diễn ra.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1489,8 +1489,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho tôi biết bạn đang đề cập đến lĩnh vực nào (ví dụ: khoa học, kỹ thuật, kinh doanh) để mình có thể trả lời chính xác hơn.",
-      "model": "sft1_100M.pt"
+      "text": "comment trong code dùng để đưa ra ý kiến, nhận xét hoặc phản hồi về một vấn đề cụ thể. nó không chỉ đơn thuần là câu trả lời mà còn giúp người viết hiểu rõ hơn về quan điểm của mình đối với vấn đề đó.\n\ncác loại comment phổ biến bao gồm:\n\n1. **bình luận cá nhân (personal outlook):** đây là những bình luận mang tính cá nhân và cảm xúc nhất định. chúng có thể liên quan đến sở thích cá nhân, trải nghiệm sử dụng sản phẩm/dịch vụ.\n2. **phản hồi tích cực (positive feedback):** khi người khác thực hiện một hành động nào đó (ví dụ: \"tôi rất hài lòng với sản phẩm này\"). điều này tạo ra sự tương tác tích cực giữa hai bên.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1499,8 +1499,8 @@
     },
     {
       "role": "ai",
-      "text": "để in một đoạn văn bản bằng python, bạn có thể làm theo các bước sau:\\n1. mở chương trình soạn thảo văn bản như microsoft word hoặc google docs trên máy tính của bạn.\\n2. tạo một dự án mới và đặt tên cho nó là \\\"hello world!\\\".\\n3. nhập địa chỉ email của người nhận vào trường \\\"to\\\" (ví dụ: example@example.com).\\n4. viết nội dung của bài viết bằng cách sử dụng ngôn ngữ lập trình phù hợp. ví dụ: \\\"xin chào mọi người, tôi đang tìm kiếm thông tin về lịch sử thế giới.\\\"\\n5. kiểm tra lại toàn bộ mã nguồn để đảm bảo rằng không có lỗi chính tả hoặc cú pháp.",
-      "model": "sft1_100M.pt"
+      "text": "để in hello world bằng python, bạn có thể sử dụng thư viện sau:\n\n```python\nimport numpy as np\nfrom sklearn.cluster import kmeans\nprint(\"hello world\")",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1509,8 +1509,8 @@
     },
     {
       "role": "ai",
-      "text": "rất tiếc là hiện tại mình chưa thể hỗ trợ bạn lập trình. vì mình chỉ là một mô hình ngôn ngữ nhỏ và vẫn đang trong quá trình phát triển, nên mình chưa được huấn luyện để xử lý các yêu cầu kỹ thuật chuyên sâu như vậy. mong bạn thông cảm nhé!",
-      "model": "sft1_100M.pt"
+      "text": "html (hypertext markup language) là một ngôn ngữ lập trình cấp thấp dùng để viết mã nguồn cho các chương trình máy tính.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1519,8 +1519,8 @@
     },
     {
       "role": "ai",
-      "text": "\"hello\" là một từ ghép hán-việt, gồm hai âm tiết \"h\". \"h\" có nghĩa là vui vẻ; \"vui\" mang ý nghĩa tích cực. khi kết hợp lại, \"how\" dùng để chỉ trạng thái cảm xúc tích cực, thể hiện sự hài lòng và hạnh phúc. đây là cách diễn đạt phổ biến trong giao tiếp hàng ngày, đặc biệt trong các mối quan hệ cá nhân hoặc công việc.",
-      "model": "sft1_100M.pt"
+      "text": "từ \"hello\" trong tiếng việt có nghĩa là \"xin chào\".",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1529,8 +1529,8 @@
     },
     {
       "role": "ai",
-      "text": "trong tiếng việt, \"bậc thầy\" thường được dùng để chỉ người có trình độ học vấn cao hơn hoặc bằng cấp thấp hơn so với giáo viên. đây không phải là một thuật ngữ phổ biến trong lĩnh vực công nghệ thông tin mà mang ý nghĩa về sự tiến bộ và phát triển cá nhân.\n\ndưới đây là cách sử dụng từ này:\n\n---\n\n### i. khái niệm cơ bản (mechanism)\n\n**1. kiến thức chuyên môn:**\n*   **kiến thức nền tảng:** các ngành khoa học máy tính, trí tuệ nhân tạo, vật lý, hóa học, sinh học, v.v. (ví dụ: toán học, khoa học dữ liệu).\n    *   kiến thức chung:* kiến thức cơ bản nhất của một ngôn ngữ lập trình cụ thể (như python, java, c++).\n\n2. kỹ năng mềm (soft skills): khả năng giao tiếp tốt, quản lý thời gian hiệu quả, giải quyết vấn đề nhanh chóng.\n3. tư duy phản biện (critical thinking):** khả năng phân tích, đánh giá thông tin một cách khách quan, đưa ra quyết định hợp lý dựa trên logic.",
-      "model": "sft1_100M.pt"
+      "text": "từ \"goodbye\" trong tiếng anh có nghĩa là tạm thời hoặc ngắn ngủi, thường dùng để chỉ một khoảng thời gian rất ngắn, hạn chế hoặc không kéo dài.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1539,8 +1539,8 @@
     },
     {
       "role": "ai",
-      "text": "apple là một trong những công ty công nghệ hàng đầu thế giới, được thành lập vào năm 1976 bởi steve jobs, steve wozniak và ronald wayne. công ty này nổi tiếng với việc phát triển các sản phẩm đột phá như iphone, ipad, mac, apple watch và airpods. apple nổi bật với thiết kế đẹp mắt, hiệu năng mạnh mẽ và hệ sinh thái ứng dụng phong phú của mình. ngoài ra, apple cũng cung cấp nhiều dịch vụ và sản phẩm khác nhau như app store, icloud và apple music.",
-      "model": "sft1_100M.pt"
+      "text": "từ \"apple\" trong tiếng anh có nghĩa là \"công ty\".",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1549,8 +1549,8 @@
     },
     {
       "role": "ai",
-      "text": "từ \"book\" trong tiếng việt thường được dùng để chỉ một cuốn sách, tài liệu hoặc bài viết có nội dung đa dạng, phong phú về chủ đề. ví dụ: \"to kill a mockingbird\" của harper lee; \"the great gatsby\" của f. scott fitzgerald; hay \"harry potter and the philosopher's stone\" của j.k. rowling.",
-      "model": "sft1_100M.pt"
+      "text": "từ \"book\" trong tiếng anh có nhiều nghĩa khác nhau tùy thuộc vào ngữ cảnh. dưới đây là một số ví dụ:\n\n1. book (sách): là tập hợp các cuốn sách được đọc bởi tác giả và chủ sở hữu bản quyền. ví dụ phổ biến bao gồm \"to kill a mockingbird\" của harper lee, \"pride and prejudice\" của jane austen, và \"the great gatsby\" của f. scott fitzgerald.\n\n2. bookshops (truyện): là những câu chuyện được kể bằng ngôn ngữ tự nhiên, thường xoay quanh cuộc sống hàng ngày của nhân vật chính. ví ví dụ điển hình là \"harry potter and the sorcerer's stone\" của j.k. rowling.\n",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1559,8 +1559,8 @@
     },
     {
       "role": "ai",
-      "text": "từ \"water\" trong tiếng việt thường được dùng để chỉ một khu vực rộng lớn, bao gồm các vùng đất có mật độ dân cư cao và hệ sinh thái đa dạng. nó không chỉ đơn thuần là nơi cư trú mà còn là nơi diễn ra nhiều hoạt động kinh tế, văn hóa, xã hội quan trọng của con người.",
-      "model": "sft1_100M.pt"
+      "text": "từ \"water\" trong tiếng anh có nhiều nghĩa khác nhau tùy ngữ cảnh. dưới đây là một số ý chính:\n\n- water (nước) — nước là chất lỏng phổ biến nhất trên trái đất, chiếm khoảng 75% thể tích của toàn bộ đại dương và đóng vai trò quan trọng đối với hệ sinh thái và đời sống con người.\n\nbạn muốn tìm hiểu về từ nào cụ thể hơn không?",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1569,8 +1569,8 @@
     },
     {
       "role": "ai",
-      "text": "\"từ cat\" trong tiếng việt thường được dùng để chỉ một từ hoặc cụm danh từ dùng để miêu tả hành động, sự việc, trạng thái hay tình huống nào đó. ví dụ: \"tôi đang ăn cơm\" có nghĩa là tôi đã ăn xong bữa sáng rồi. ngoài ra còn có các từ khác như \"bữa trưa\", \"buổi chiều\", \"chiều nay\" tùy theo ngữ cảnh sử dụng. từ này mang ý nghĩa biểu tượng cho sự khởi đầu mới, may mắn và thành công trong cuộc sống.",
-      "model": "sft1_100M.pt"
+      "text": "từ \"cat\" trong tiếng anh có nhiều nghĩa khác nhau tùy ngữ cảnh. dưới đây là một số ý chính:\n\n- cat (danh từ chung)\n  - dùng để chỉ người hoặc vật làm việc gì đó với mục đích cụ thể, thường mang tính khái quát và không nhất thiết phải liên quan đến danh từ riêng của nó.\n  ví dụ: my name is cat (bạn tên tôi).\n\n  lưu ý: nếu bạn đang nói về “cat” trong giao tiếp hàng ngày ở việt nam hay bất kỳ ngôn ngữ nào khác, thì “cats” có thể được xem như danh từ chung cho cả hai.\n\nnếu bạn muốn, mình có thể giải thích thêm bằng các cách diễn đạt khác nhau dựa trên ngữ cảnh bạn đang đề cập.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1579,8 +1579,8 @@
     },
     {
       "role": "ai",
-      "text": "\"dog\" trong tiếng việt có nghĩa là một tính từ dùng để miêu tả âm thanh hoặc ký hiệu, thường mang ý nghĩa biểu thị sự hiện diện trực tiếp, rõ ràng của con người. ví dụ: \"tiếng chuông điện thoại reo vang liên tục.\" ngoài ra, \"dog còn được sử dụng rộng rãi trong văn viết và giao tiếp hàng ngày nhằm truyền đạt thông tin nhanh chóng và chính xác hơn.",
-      "model": "sft1_100M.pt"
+      "text": "từ \"dog\" trong tiếng anh có nghĩa là một động từ chỉ hành động hoặc trạng thái. nó thường được sử dụng để miêu tả việc ai đó thực hiện một công việc, nhiệm vụ cụ thể nào đó.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1589,8 +1589,8 @@
     },
     {
       "role": "ai",
-      "text": "trong tiếng việt, \"trường\" thường được dùng để chỉ một cơ sở giáo dục đại học hoặc trung tâm đào tạo có chức năng đào tạo và nghiên cứu khoa học. đây không chỉ đơn thuần là nơi diễn ra các hoạt động giảng dạy mà còn là nơi truyền đạt kiến thức, kỹ năng và giá trị văn hóa cho thế hệ trẻ. trong lĩnh vực giáo dục, trường cũng đóng vai trò quan trọng trong việc phát triển nhân lực chất lượng cao, góp phần nâng cao trình độ dân trí và thúc đẩy sự phát triển toàn diện của xã hội.",
-      "model": "sft1_100M.pt"
+      "text": "từ \"school\" trong tiếng anh có nghĩa là \"trường học\".",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1599,8 +1599,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho tôi biết bạn đang đề cập đến ai để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "từ \"friend\" trong tiếng anh có nhiều nghĩa khác nhau tùy ngữ cảnh. dưới đây là một số ví dụ:\n\n1. love (tình yêu): tình cảm mạnh mẽ, sâu sắc dành cho người bạn đời.\n2. friendly (gia đình): các mối quan hệ thân thiết, bền chặt giữa các thành viên trong gia đình.\n3. life (cuộc sống): cuộc hành trình của mỗi cá nhân trong việc tìm kiếm ý nghĩa và mục đích cuộc sống.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1609,8 +1609,8 @@
     },
     {
       "role": "ai",
-      "text": "vui lòng cung cấp happy để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "từ \"happy\" là một tính từ trong tiếng việt, thường dùng để miêu tả cảm giác hạnh phúc, thỏa mãn và vui vẻ. ví dụ: \"sau khi hoàn thành bài tập về nhà, tôi cảm thấy rất hài lòng vì đã hoàn thành nhiệm vụ đó.\"",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1619,8 +1619,8 @@
     },
     {
       "role": "ai",
-      "text": "\"cao\" trong tiếng việt chỉ trạng thái hoặc tính chất của một vật thể, sự việc, hay tình huống nào đó. nó thường được dùng để miêu tả những thứ có cấu trúc, hình dạng, kích thước hoặc đặc điểm khác biệt rõ rệt so với các đối tượng khác. ví dụ: \"một chiếc xe ô tô chạy bằng động cơ đốt trong.\" từ này mang ý nghĩa tích cực vì nó biểu thị sự tiến bộ về kỹ thuật, công nghệ hoặc quy trình vận hành. tóm lại, \"cao\" ở đây ám chỉ mức độ hoàn thiện hoặc hiệu quả của một điều gì đó mà con người mong muốn đạt được trong cuộc sống hàng ngày.",
-      "model": "sft1_100M.pt"
+      "text": "từ trái nghĩa phổ biến của 'cao' là 'thấp'.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1629,8 +1629,8 @@
     },
     {
       "role": "ai",
-      "text": "\"vui\" trong tiếng việt có nghĩa là trạng thái cảm xúc tích cực, vui vẻ và thoải mái. nó thường được dùng để diễn tả sự hài lòng sâu sắc về mặt tinh thần khi người đó đạt được mục tiêu hoặc thành công nào đó. ví dụ: \"tôi rất vui mừng vì đã hoàn thành nhiệm vụ được giao.\" ngoài ra, \"vui vẻ\" cũng mang ý nghĩa tích cực liên quan đến niềm vui và hạnh phúc cá nhân.",
-      "model": "sft1_100M.pt"
+      "text": "từ đồng nghĩa với 'vui' trong tiếng việt có thể là:\n- hạnh phúc\n- vui vẻ\n- phấn khởi",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1639,8 +1639,8 @@
     },
     {
       "role": "ai",
-      "text": "trong tiếng việt, \"nhanh\" là một tính từ dùng để miêu tả tốc độ hoặc sự nhanh nhẹn của một người. ví dụ: \"anh ấy chạy rất nhanh.\" nghĩa là anh ta có thể chạy nhanh hơn bất kỳ ai khác trong cùng khoảng thời gian đó.",
-      "model": "sft1_100M.pt"
+      "text": "từ 'nhanh' là một tính từ trong tiếng việt, thường dùng để mô tả tốc độ hoặc khả năng thực hiện một công việc nào đó nhanh chóng và hiệu quả.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1649,8 +1649,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho tôi biết bạn đang đề cập đến điều gì để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "câu 'hôm nay trời rất đẹp' thể hiện cảm xúc tích cực và sự hài lòng về điều gì đó.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1659,8 +1659,8 @@
     },
     {
       "role": "ai",
-      "text": "tôi rất vui mừng khi nghe điều đó. gia đình tôi là những người thân yêu và luôn ủng hộ lẫn nhau trong cuộc sống hàng ngày của chúng ta.",
-      "model": "sft1_100M.pt"
+      "text": "gia đình là nơi chúng ta tìm thấy tình yêu và sự an ủi.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1669,8 +1669,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho tôi biết bạn đang muốn hỏi về chủ đề gì để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "bạn vui lòng cung cấp câu hỏi bạn muốn tôi trả lời nhé.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1679,8 +1679,8 @@
     },
     {
       "role": "ai",
-      "text": "trong tiếng việt, \"danh từ\" thường được sử dụng để chỉ một danh từ hoặc tính từ dùng để miêu tả một người, vật, sự việc, hành động hay trạng thái nào đó. ví dụ: \"anh ấy đang ăn cơm\" có nghĩa là anh ấy rất vui mừng khi nhận được món quà. ngoài ra, trong các ngữ cảnh khác nhau, danh từ cũng có thể mang ý nghĩa tương tự nhưng không hoàn toàn giống nhau.",
-      "model": "sft1_100M.pt"
+      "text": "danh từ là một danh từ chỉ người, vật hoặc sự việc đang đứng ở vị trí cụ thể. nó thường được sử dụng trong các ngữ cảnh khác nhau để đại diện cho nhiều loại đối tượng khác nhau như địa điểm, con người, tài sản,...",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1689,8 +1689,8 @@
     },
     {
       "role": "ai",
-      "text": "\"động từ\" trong tiếng việt có nghĩa là hành động hoặc trạng thái thực hiện một công việc, hoạt động nào đó. nó thường được sử dụng để diễn tả hành động di chuyển, làm cho người khác cảm thấy thoải mái và tự tin hơn khi giao tiếp với người khác. ví dụ: \"cô ấy đang đi bộ trên đường phố.\"",
-      "model": "sft1_100M.pt"
+      "text": "động từ là một từ trong tiếng việt dùng để diễn tả hành động, sự việc hoặc trạng thái. nó thường được sử dụng trong giao tiếp hàng ngày để biểu thị các nhu cầu, mong muốn của con người. ví dụ: \"anh ấy đang thực hiện công việc của mình.\"",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1699,8 +1699,8 @@
     },
     {
       "role": "ai",
-      "text": "từ \"tính từ\" trong tiếng việt thường được sử dụng để miêu tả tính chất, trạng thái hoặc đặc điểm của một sự vật, hiện tượng, hành động hay suy nghĩ. ví dụ: \"cô ấy có khả năng nói chuyện với mọi người xung quanh.\" từ này mang ý nghĩa tích cực và biểu thị sự quan tâm, hứng thú hoặc đam mê sâu sắc đối với một vấn đề nào đó.",
-      "model": "sft1_100M.pt"
+      "text": "tính từ là những từ dùng để miêu tả tính chất, trạng thái hoặc đặc điểm của một đối tượng, hiện tượng hoặc thực thể. trong ngữ cảnh khác nhau, tính từ có thể mang ý nghĩa khác nhau nhưng đều căn bản là tính từ mô tả đặc điểm.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1709,8 +1709,8 @@
     },
     {
       "role": "ai",
-      "text": "tiền là phương tiện trao đổi giá trị, thường được sử dụng trong giao dịch mua bán hàng hóa và cung cấp dịch vụ. nó không chỉ mang ý nghĩa vật lý mà còn có vai trò quan trọng trong đời sống cá nhân và xã hội.",
-      "model": "sft1_100M.pt"
+      "text": "tiền dùng làm phương tiện trao đổi, thanh toán và lưu trữ giá trị trong đời sống hàng ngày.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1719,8 +1719,8 @@
     },
     {
       "role": "ai",
-      "text": "bạn vui lòng cho biết món đồ bạn đang đề cập là gì để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "100 nghìn đồng - 200.000 = 500 ngàn đồng.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1729,8 +1729,8 @@
     },
     {
       "role": "ai",
-      "text": "tiết kiệm tiền đóng vai trò cực kỳ quan trọng trong việc quản lý tài chính cá nhân và đạt được mục tiêu tài chính dài hạn. dưới đây là một số lợi ích cụ thể:\n\n1. tạo ra thu nhập thụ động: tiết kiệm giúp bạn có nguồn thu nhập ổn định từ các khoản đầu tư như cổ phiếu, quỹ đầu tư hoặc bất động sản. điều này không chỉ mang lại lợi nhuận cao hơn mà còn cải thiện chất lượng cuộc sống của bạn.\n\n2. giảm căng thẳng tài chính: khi bạn tiết kiệm đủ tiền để mua sắm hàng hóa và dịch vụ, bạn sẽ cảm thấy tự tin hơn về khả năng chi trả cho những nhu cầu cơ bản như ăn uống, đi lại, vận chuyển hay giải trí. tiết kiệm cũng giúp tăng cường sự an toàn tài chính bằng cách kiểm soát ngân sách và tìm kiếm các lựa chọn thay thế phù hợp với tình hình tài chính hiện tại.",
-      "model": "sft1_100M.pt"
+      "text": "tiết kiệm tiền có nhiều lợi ích quan trọng, bao gồm:\n1. giảm căng thẳng tài chính: tiết kiệm giúp bạn xây dựng một quỹ dự phòng để đối phó với các tình huống khẩn cấp hoặc chi phí bất ngờ như mất việc làm, bệnh tật hoặc tai nạn giao thông.\n2. tạo nguồn thu nhập bổ sung: khi bạn tích lũy đủ số tiền tiết kiệm, bạn sẽ có thể dành cho những mục tiêu lớn hơn trong tương lai, chẳng hạn như mua nhà, học hành, du lịch hoặc thực hiện sở thích cá nhân khác.\n3. đạt được mục tiêu tài chính lâu dài: bằng cách quản lý và tiết kiệm tiền hiệu quả, bạn đảm bảo rằng bạn đang đi đúng hướng trên con đường tài chính của mình.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1739,8 +1739,8 @@
     },
     {
       "role": "ai",
-      "text": "để đảm bảo bạn không bỏ sót bất kỳ chi tiết nào, hãy thực hiện các bước sau:\n\n1. **xác định mục tiêu:** xác định rõ loại sản phẩm bạn muốn mua (ví dụ: quần áo, giày dép, phụ kiện). điều này giúp bạn tập trung vào những gì quan trọng nhất và tránh lãng phí thời gian.\n2. **tìm kiếm đánh giá:** đọc kỹ đánh giá của khách hàng trước đó để có cái nhìn tổng thể về chất lượng và độ tin cậy của sản phẩm.\n3. **chọn sản phẩm phù hợp với nhu cầu:** chọn những sản phẩm mà bạn cảm thấy tự tin, dễ sử dụng và đáp ứng được yêu cầu của họ.\n4. **kiểm tra chính sách hoàn trả:** liên hệ trực tiếp với cửa hàng hoặc nhà cung cấp để biết thêm thông tin chi tiết về các chương trình khuyến mãi, ưu đãi đặc biệt hay hỗ trợ tài chính nếu cần thiết.\n5. **tham khảo ý kiến chuyên gia:** hỏi ý kiến từ người bán hoặc nhân viên bán hàng để nhận được lời khuyên cá nhân hóa dựa trên nhu cầu cụ thể của bạn.",
-      "model": "sft1_100M.pt"
+      "text": "trước khi mua một món đồ, bạn nên kiểm tra kỹ các yếu tố sau để đảm bảo rằng nó phù hợp với nhu cầu và sở thích cá nhân:1. ngân sách: xác định mức giá mà bạn sẵn sàng chi trả cho món đồ đó. điều này sẽ giúp hạn chế tìm kiếm trong phạm vi khả năng tài chính của bạn.2. mục đích sử dụng: xem xét liệu món đồ có thực sự cần thiết đối với bạn hay không, ví dụ như làm việc, học tập, giải trí, du lịch...3. thương hiệu và đánh giá từ người bán: nghiên cứu về uy tín của nhà sản xuất, chất lượng sản phẩm hoặc dịch vụ khách hàng của họ trước khi quyết định mua.4. kích thước và trọng lượng: cân nhắc kích thước phù hợp, dễ dàng mang theo khi đi xa hoặc di chuyển nhiều.5. phong cách và màu sắc: nếu món đồ là trang phục công sở, quần áo thể thao hay phụ kiện thời trang thì nên hỏi ý kiến chuyên gia trước khi mua.6. tính tương thích với giá tiền: so sánh giá trị của món đồ với các lựa chọn khác trên thị trường để tránh mua phải hàng kém chất lượng hoặc không phù hợp.7. đánh giá và phản hồi từ người tiêu dùng: đọc nhận xét, đánh giá của người khác để biết điểm mạnh và điểm yếu của sản phẩm trước khi đưa ra quyết định cuối cùng.8. tham khảo ý kiến từ người thân, bạn bè hoặc đồng nghiệp: họ có kinh nghiệm trong lĩnh vực liên quan đến yêu cầu của bạn không?",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1749,8 +1749,8 @@
     },
     {
       "role": "ai",
-      "text": "việc sử dụng hóa đơn điện tử (e-commerce) là một công cụ quan trọng trong quản lý tài chính cá nhân. nó cho phép người dùng thực hiện các giao dịch mua sắm, thanh toán hóa đơn và theo dõi chi tiêu hàng ngày một cách dễ dàng hơn bao giờ hết.\n\nmục đích chính của việc này là đảm bảo tính minh bạch, tránh gian lận và tiết kiệm thời gian khi cần thiết. bằng cách cung cấp thông tin rõ ràng về hóa đơn, bạn có thể kiểm soát ngân sách hiệu quả hơn, từ đó tối ưu hóa lợi ích tài chính của mình. tóm lại, hóa đơn không chỉ giúp duy trì sự ổn định tài chính mà còn nâng cao chất lượng cuộc sống tổng thể.",
-      "model": "sft1_100M.pt"
+      "text": "hóa đơn dùng để thanh toán các khoản chi phí liên quan đến hóa đơn, bao gồm tiền thuê nhà, hóa đơn điện nước (điện, nước sinh hoạt), hóa đơn mua sắm hàng hóa và dịch vụ khác.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1759,8 +1759,8 @@
     },
     {
       "role": "ai",
-      "text": "khi nhận được một khoản tiền lớn, bạn có thể thực hiện các bước sau: đầu tiên, hãy kiểm tra xem số dư trong tài khoản ngân hàng hoặc thẻ tín dụng của bạn đã đủ hay chưa. điều này giúp đảm bảo rằng bạn không bỏ sót bất kỳ chi tiết quan trọng nào. thứ hai, xác định rõ ràng mục đích sử dụng và mức độ cần thiết để hoàn thành giao dịch. ví dụ, nếu bạn muốn thanh toán hóa đơn điện nước, bạn cũng có thể tìm hiểu về chính sách thanh toán của nhà cung cấp. cuối cùng, theo dõi tiến trình thanh toán bằng cách ghi chép lại tất cả thông tin liên quan đến giao dịch, bao gồm số tiền đã thanh toán, số tiền còn lại (nếu có), và thời gian dự kiến hoàn trả. việc làm như vậy sẽ giúp bạn quản lý tài chính cá nhân hiệu quả hơn và tránh lãng phí tiền bạc vào những khoản không cần thiết.",
-      "model": "sft1_100M.pt"
+      "text": "việc tiêu hết tiền ngay khi nhận được có thể do nhiều nguyên nhân khác nhau, tùy thuộc vào tình huống cụ thể.\n\nmột số lý do phổ biến bao gồm:\n1. **thiếu kế hoạch tài chính:** chi tiêu quá mức hoặc không có mục tiêu tiết kiệm rõ ràng khiến bạn khó kiểm soát ngân sách hàng tháng.\n2. **rủi ro tín dụng:** nếu khoản nợ của bạn vượt quá khả năng trả nợ, bạn sẽ gặp khó khăn trong việc thanh toán các khoản vay mới.\n3. **lãi suất cao:** lãi suất cao là một yếu tố rủi ro lớn đối với bạn.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1769,8 +1769,8 @@
     },
     {
       "role": "ai",
-      "text": "chào buổi sáng! chúc bạn có một ngày mới tràn đầy năng lượng và thành công.",
-      "model": "sft1_100M.pt"
+      "text": "chào buổi sáng! chúc bạn một ngày mới tràn đầy năng lượng và thành công.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1779,8 +1779,8 @@
     },
     {
       "role": "ai",
-      "text": "chúc mừng sinh nhật! mong rằng ngày hôm nay sẽ tràn đầy niềm vui, sức khỏe dồi dào và thành công trong mọi lĩnh vực của cuộc sống. hãy luôn giữ vững tinh thần lạc quan và tận hưởng những khoảnh khắc đáng nhớ bên gia đình và bạn bè yêu thương nhé!",
-      "model": "sft1_100M.pt"
+      "text": "chúc bạn ngủ ngon, mơ thấy chị uyên nhé!",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1789,8 +1789,8 @@
     },
     {
       "role": "ai",
-      "text": "chúc mừng sinh nhật! mong rằng ngày hôm nay sẽ tràn đầy niềm vui, sức khỏe dồi dào và thành công trong mọi lĩnh vực của cuộc sống. hãy tận hưởng những khoảnh khắc đáng nhớ bên gia đình và bạn bè yêu thương nhé!",
-      "model": "sft1_100M.pt"
+      "text": "chúc mừng sinh nhật! mong rằng mọi điều tốt đẹp nhất sẽ đến với bạn trong năm mới.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1799,8 +1799,8 @@
     },
     {
       "role": "ai",
-      "text": "xin chào! tôi là sai, một mô hình ngôn ngữ ai được phát triển bởi nidai. nhiệm vụ của tôi là cung cấp thông tin và trả lời các câu hỏi liên quan đến lĩnh vực trí tuệ nhân tạo (artificial intelligence). tôi có thể hỗ trợ bạn trong nhiều lĩnh vực khác nhau.",
-      "model": "sft1_100M.pt"
+      "text": "xin chào! tôi là sai, một mô hình ngôn ngữ ai được phát triển bởi nidai. nhiệm vụ của tôi là cung cấp hỗ trợ và trả lời các câu hỏi trên nhiều chủ đề khác nhau. tôi có kiến thức về nhiều lĩnh vực như khoa học, lịch sử, văn hóa, giải trí và nhiều hơn nữa. mục tiêu của tôi không chỉ là cungcấp thông tin mà còn đóng góp vào việc tạo ra nội dung sáng tạo và hữu ích cho mọi người. rất vui được làm quen với bạn!",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1809,8 +1809,8 @@
     },
     {
       "role": "ai",
-      "text": "tình bạn là nguồn động lực và niềm vui lớn nhất trong cuộc sống của chúng ta, giúp chúng ta vượt qua những khó khăn và trở nên mạnh mẽ hơn mỗi ngày.",
-      "model": "sft1_100M.pt"
+      "text": "tình bạn là nguồn động lực để chúng ta vượt qua khó khăn và chia sẻ niềm vui trong cuộc sống.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1819,8 +1819,8 @@
     },
     {
       "role": "ai",
-      "text": "gia đình tôi gồm bố, mẹ và hai anh em trai. chúng tôi đều là những người yêu thương nhau và luôn ủng hộ lẫn nhau trong cuộc sống hàng ngày.",
-      "model": "sft1_100M.pt"
+      "text": "gia đình là nơi chúng ta tìm thấy tình yêu, sự an ủi và những kỷ niệm đáng nhớ.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1829,8 +1829,8 @@
     },
     {
       "role": "ai",
-      "text": "một ngày nọ, trong một ngôi làng nhỏ ở miền quê yên bình của việt nam, có một chú mèo tên là minh. minh luôn tò mò và muốn tìm hiểu thêm về thế giới xung quanh mình. anh ta bắt đầu cuộc phiêu lưu của mình bằng cách đi dạo trên những cánh đồng xanh mướt. mỗi buổi sáng, minh thức dậy sớm để chuẩn bị cho chuyến hành trình tiếp theo của mình.\n\ntrong suốt quãng đường dài, minh đã trải qua nhiều khó khăn và thử thách khác nhau. tuy nhiên, nhờ sự kiên nhẫn và tình yêu thương từ gia đình và bạn bè, minh vượt qua mọi trở ngại và đạt được thành công lớn. cuối cùng, sau nhiều nỗ lực không ngừng nghỉ, minh trở về nhà với niềm tin vào bản thân và hy vọng sẽ có cơ hội khám phá thêm nhiều điều thú vị hơn nữa trong tương lai.",
-      "model": "sft1_100M.pt"
+      "text": "một ngày nọ, trong một ngôi làng nhỏ ở miền quê yên bình, có một con mèo tên là max. mỗi buổi sáng, khi ánh nắng mặt trời len lỏi qua cửa sổ phòng ngủ của max, nó bắt đầu thức dậy với bộ lông mềm mịn và đôi mắt tròn xoe đáng yêu.\n\nmax thích nằm dài trên chiếc ghế sofa êm ái và ngắm nhìn cảnh vật xung quanh. sau đó, anh ta ngồi xuống bên cạnh max, vuốt ve những sợi lông mượt mà trên cơ thể anh ta. max cảm nhận được sự ấm áp và tình yêu từ chủ nhân của mình.\nbây giờ, max đã trở thành một người bạn đồng hành trung thành và luôn sẵn lòng lắng nghe và chia sẻ niềm vui cũng như nỗi buồn cùng max.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1839,8 +1839,8 @@
     },
     {
       "role": "ai",
-      "text": "xin lỗi, tôi không thể cung cấp tên cụ thể của chú chó mà bạn đang đề cập đến. vui lòng cung cấp thêm thông tin để tôi có thể trả lời chính xác hơn.",
-      "model": "sft1_100M.pt"
+      "text": "dưới đây là một số gợi ý tên cho chú chó:\n1. beagle\n2. golden retriever\n3. bulldog\n4. poodle\n5. german shepherd",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1849,8 +1849,8 @@
     },
     {
       "role": "ai",
-      "text": "dưới đây là một số gợi ý về cách đặt tên cho các loại cà phê phổ biến:\n1. cà phê espresso\n2. cappuccino\n3. robusta\n4. latte\n5. cacao\n6. coffee\n7. sữa đặc\n8. socola đen\n9. rượu vang đỏ\n10. nước ép trái cây tự nhiên\n\nlưu ý rằng việc đặt tên có thể thay đổi tùy thuộc vào sở thích cá nhân và thương hiệu của bạn, vì vậy hãy đảm bảo kiểm tra hướng dẫn cụ thể từ nhà sản xuất để biết thêm thông tin chi tiết.",
-      "model": "sft1_100M.pt"
+      "text": "dưới đây là một số gợi ý tên cho cửa hàng cà phê:\n1. \"the coffee house\" - mô tả ngắn gọn về nội thất và phong cách của quán cà phê này.\n2. \"café terrace at night\" — đặc điểm nổi bật của quán cafe này.",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1859,8 +1859,8 @@
     },
     {
       "role": "ai",
-      "text": "chúc mừng bạn đã đạt được thành công trong cuộc sống! hãy tiếp tục nỗ lực và không bao giờ từ bỏ. chúc bạn có một ngày tuyệt vời và những kỷ niệm đáng nhớ bên gia đình và người thân yêu của mình. hãy luôn giữ vững niềm tin vào bản thân và không ngừng cố gắng để trở thành phiên bản tốt nhất của chính mình.",
-      "model": "sft1_100M.pt"
+      "text": "hãy luôn tin vào bản thân và không bao giờ từ bỏ. bạn có thể làm được!",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1869,8 +1869,8 @@
     },
     {
       "role": "ai",
-      "text": "một ngày nọ, có một cậu bé tên là minh. minh rất thích đọc sách và thường xuyên đưa ra những ý tưởng sáng tạo để giải quyết các vấn đề khó khăn trong cuộc sống hàng ngày của mình.",
-      "model": "sft1_100M.pt"
+      "text": "ngày xửa ngày xưa, có một cậu bé tên là minh. minh luôn mơ ước trở thành một nhà văn nổi tiếng và đã dành rất nhiều thời gian để rèn luyện kỹ năng viết văn của mình.\n\nmột ngày nọ, khi đang học ở trường trung học, minh tình cờ phát hiện ra tài năng đặc biệt của mình trong lĩnh vực văn chương. anh quyết định đăng ký vào một trường đại học danh giá và bắt đầu hành trình khám phá thế giới văn chương qua việc đọc các tác phẩm của những tác giả vĩ đại như ernest hemingway và jane austen.\n \nminh gặp gỡ những người bạn mới và cùng họ trải qua những cuộc phiêu lưu tuyệt vời trên khắp thế giới. anh học được cách sử dụng ngôn ngữ sáng tạo và truyền cảm hứng cho người khác thông qua câu chuyện đầy màu sắc và ý nghĩa.\n\\ncuối cùng, nhờ sự kiên nhẫn và nỗ lực không ngừng nghỉ, minh cuối cùng cũng đạt được mục tiêu cá nhân của mình - trở thành nhà văn danh tiếng. từ đó, anh đã trở thành nguồn cảm hứng vô tận cho hàng triệu người trên khắp hành tinh.\\n\\ncâu chuyện về minh chứng cho sức mạnh của việc tưởng tượng và khả năng sáng tạo. nó nhắc nhở chúng ta rằng bất kỳ ai cũng có thể trở thành phiên bản tốt nhất của chính mình nếu họ dám thử và theo đuổi đam mê của mình!",
+      "model": "sft1_375M.pt"
     },
     {
       "role": "user",
@@ -1879,8 +1879,8 @@
     },
     {
       "role": "ai",
-      "text": "tôi không thể xử lý yêu cầu này vì tôi là một mô hình ngôn ngữ và không có khả năng truy cập vào dữ liệu thời gian thực. vui lòng cung cấp câu hỏi hoặc yêu cầu cụ thể để tôi có thể trả lời.",
-      "model": "sft1_100M.pt"
+      "text": "để đếm từ 1 đến 1 triệu, bạn có thể sử dụng các thuật toán xử lý ngôn ngữ tự nhiên (nlp) hoặc các mô hình học máy khác. dưới đây là một ví dụ về cách thực hiện việc này:\n\n1. chuẩn bị dữ liệu: thu thập và làm sạch dữ liệu đầu vào để loại bỏ các ký tự đặc biệt, chữ hoa/thường không cần thiết, chuyển đổi văn bản thành dạng số hóa (ví dụ: tf-idf).\n2. tạo tập dữ liệu huấn luyện: chia dữ liệu thành hai phần: tập huấn luyện (training set) và tập kiểm tra (test set).\n3. trích xuất đặc trưng: chọn ra các đặc trưng quan trọng từ dữ liệu và biểu diễn chúng dưới dạng các vector số hóa.\n4. xây dựng mô hình nlp: sử dụng thư viện như tensorflow hoặc pytorch để xây dựng và huấn luyện mô hình dựa trên tập huấn huấn.\n5. đánh giá mô hình: đánh giá hiệu suất của mô hình bằng các độ đo như độ chính xác (accuracy), độ phủ (recall), độ chínhxác dương tính (precision), và f1-score trên tập kiểm thử.",
+      "model": "sft1_375M.pt"
     }
   ],
   "created_at": 1786903795.273911,
